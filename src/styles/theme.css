@@ -1,0 +1,137 @@
+/* ── leetie retro themes ─────────────────────────────────────────────
+   light: cute purple retro computer · dark: cozy pink retro terminal */
+
+:root {
+  --bg: #ece1fb;
+  --bg-grid: rgba(138, 92, 246, 0.08);
+  --panel: #faf6ff;
+  --panel-2: #f1e9fd;
+  --panel-3: #e4d7f9;
+  --ink: #372a52;
+  --ink-dim: #8577a8;
+  --accent: #8a5cf6;
+  --accent-soft: #ddcdfb;
+  --accent-ink: #ffffff;
+  --border: #55379c;
+  --shadow: rgba(85, 55, 156, 0.28);
+  --good: #1f9d63;
+  --bad: #e0517a;
+  --warn: #b8820f;
+  --easy: #1f9d63;
+  --medium: #b8820f;
+  --hard: #e0517a;
+  --titlebar: linear-gradient(180deg, #a685f8, #8a5cf6);
+  --titlebar-ink: #ffffff;
+  --console-bg: #241a3d;
+  --console-ink: #cbb7f0;
+  --scanline: rgba(85, 55, 156, 0.045);
+  --sel: rgba(138, 92, 246, 0.25);
+  --cat-fur: #c9b2f0;
+  --cat-shade: #a888e0;
+  --cat-outline: #43315f;
+  --cat-pink: #f294bd;
+  --cat-white: #fff5ff;
+  --cat-eye: #302346;
+}
+
+[data-theme='dark'] {
+  --bg: #241222;
+  --bg-grid: rgba(255, 143, 199, 0.07);
+  --panel: #331a30;
+  --panel-2: #3f2140;
+  --panel-3: #4d2a4d;
+  --ink: #ffe3f2;
+  --ink-dim: #c78bab;
+  --accent: #ff8fc7;
+  --accent-soft: #6b3a5c;
+  --accent-ink: #2a1025;
+  --border: #ffb0d5;
+  --shadow: rgba(15, 4, 14, 0.55);
+  --good: #6fe3ac;
+  --bad: #ff6b8a;
+  --warn: #ffd166;
+  --easy: #6fe3ac;
+  --medium: #ffd166;
+  --hard: #ff6b8a;
+  --titlebar: linear-gradient(180deg, #d66ba0, #b04a80);
+  --titlebar-ink: #ffe9f4;
+  --console-bg: #1c0d1b;
+  --console-ink: #ffb9dc;
+  --scanline: rgba(255, 143, 199, 0.05);
+  --sel: rgba(255, 143, 199, 0.35);
+  --cat-fur: #f7b8d9;
+  --cat-shade: #d98ab5;
+  --cat-outline: #4a1f3a;
+  --cat-pink: #ff7fb5;
+  --cat-white: #fff0f8;
+  --cat-eye: #3a1230;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg);
+  background-image:
+    linear-gradient(var(--bg-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--bg-grid) 1px, transparent 1px);
+  background-size: 24px 24px;
+  color: var(--ink);
+  font-family: 'VT323', 'Courier New', monospace;
+  font-size: 19px;
+  line-height: 1.35;
+  transition: background-color 0.25s ease;
+}
+
+/* CRT scanlines, very subtle */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9000;
+  background: repeating-linear-gradient(0deg, transparent 0 2px, var(--scanline) 2px 4px);
+}
+
+::selection {
+  background: var(--sel);
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+  color: inherit;
+}
+
+.px {
+  font-family: 'Press Start 2P', 'VT323', monospace;
+}
+
+a {
+  color: var(--accent);
+}
+
+*::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+*::-webkit-scrollbar-track {
+  background: var(--panel-2);
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--accent-soft);
+  border: 2px solid var(--panel-2);
+  border-radius: 6px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
