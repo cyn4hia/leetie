@@ -1,0 +1,1 @@
+{"fnName":"characterReplacement","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ABAB",2],"expected":4},{"input":["AABABBA",1],"expected":4}]}

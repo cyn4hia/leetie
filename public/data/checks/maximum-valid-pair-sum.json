@@ -1,0 +1,1 @@
+{"fnName":"maxValidPairSum","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,5,2,8],2],"expected":13},{"input":[[5,1,9],1],"expected":14}]}

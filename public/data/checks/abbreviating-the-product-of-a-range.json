@@ -1,0 +1,1 @@
+{"fnName":"abbreviateProduct","params":[{"name":"left","type":"integer"},{"name":"right","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[1,4],"expected":"24e0"},{"input":[2,11],"expected":"399168e2"},{"input":[371,375],"expected":"7219856259e3"}]}

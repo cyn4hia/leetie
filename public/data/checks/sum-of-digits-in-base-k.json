@@ -1,0 +1,1 @@
+{"fnName":"sumBase","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[34,6],"expected":9},{"input":[10,10],"expected":1}]}

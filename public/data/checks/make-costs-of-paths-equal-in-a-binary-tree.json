@@ -1,0 +1,1 @@
+{"fnName":"minIncrements","params":[{"name":"n","type":"integer"},{"name":"cost","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[7,[1,5,2,2,3,3,1]],"expected":6},{"input":[3,[5,3,3]],"expected":0}]}

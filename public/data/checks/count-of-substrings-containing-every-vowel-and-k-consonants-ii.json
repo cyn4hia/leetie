@@ -1,0 +1,1 @@
+{"fnName":"countOfSubstrings","params":[{"name":"word","type":"string"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["aeioqq",1],"expected":0},{"input":["aeiou",0],"expected":1},{"input":["ieaouqqieaouqq",1],"expected":3}]}

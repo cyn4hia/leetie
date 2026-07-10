@@ -1,0 +1,1 @@
+{"fnName":"maximizeWin","params":[{"name":"prizePositions","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2,2,3,3,5],2],"expected":7},{"input":[[1,2,3,4],0],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"resultingString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":"c"},{"input":["adcb"],"expected":""},{"input":["zadb"],"expected":"db"}]}

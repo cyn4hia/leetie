@@ -1,0 +1,1 @@
+{"fnName":"numberOfPowerfulInt","params":[{"name":"start","type":"long"},{"name":"finish","type":"long"},{"name":"limit","type":"integer"},{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[1,6000,4,"124"],"expected":5},{"input":[15,215,6,"10"],"expected":2},{"input":[1000,2000,4,"3000"],"expected":0}]}

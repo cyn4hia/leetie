@@ -1,0 +1,1 @@
+{"fnName":"findLengthOfLCIS","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,5,4,7]],"expected":3},{"input":[[2,2,2,2,2]],"expected":1}]}

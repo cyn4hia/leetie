@@ -1,0 +1,1 @@
+{"fnName":"replaceValueInTree","params":[{"name":"root","type":"TreeNode"}],"returnType":"TreeNode","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,9,1,10,null,7]],"expected":[0,0,0,7,7,null,11]},{"input":[[3,1,2]],"expected":[0,0,0]}]}

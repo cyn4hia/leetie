@@ -1,0 +1,1 @@
+{"fnName":"numDecodings","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["12"],"expected":2},{"input":["226"],"expected":3},{"input":["06"],"expected":0}]}

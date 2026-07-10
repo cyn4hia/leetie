@@ -1,0 +1,1 @@
+{"fnName":"titleToNumber","params":[{"name":"columnTitle","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["A"],"expected":1},{"input":["AB"],"expected":28},{"input":["ZY"],"expected":701}]}

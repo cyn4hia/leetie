@@ -1,0 +1,1 @@
+{"fnName":"expressiveWords","params":[{"name":"s","type":"string"},{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["heeellooo",["hello","hi","helo"]],"expected":1},{"input":["zzzzzyyyyy",["zzyy","zy","zyy"]],"expected":3}]}

@@ -1,0 +1,1 @@
+{"fnName":"scoreValidator","params":[{"name":"events","type":"string[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["1","4","W","6","WD"]],"expected":[12,1]},{"input":[["WD","NB","0","4","4"]],"expected":[10,0]},{"input":[["W","W","W","W","W","W","W","W","W","W","W"]],"expected":[0,10]}]}

@@ -1,0 +1,1 @@
+{"fnName":"checkSubarraySum","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[23,2,4,6,7],6],"expected":true},{"input":[[23,2,6,4,7],6],"expected":true},{"input":[[23,2,6,4,7],13],"expected":false}]}

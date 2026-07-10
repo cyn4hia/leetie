@@ -1,0 +1,1 @@
+{"fnName":"reversePrefix","params":[{"name":"word","type":"string"},{"name":"ch","type":"character"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abcdefd","d"],"expected":"dcbaefd"},{"input":["xyxzxe","z"],"expected":"zxyxxe"},{"input":["abcd","z"],"expected":"abcd"}]}

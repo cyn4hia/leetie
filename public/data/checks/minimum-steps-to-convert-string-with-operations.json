@@ -1,0 +1,1 @@
+{"fnName":"minOperations","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcdf","dacbe"],"expected":4},{"input":["abceded","baecfef"],"expected":4},{"input":["abcdef","fedabc"],"expected":2}]}

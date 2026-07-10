@@ -1,0 +1,1 @@
+{"fnName":"countCompleteComponents","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[6,[[0,1],[0,2],[1,2],[3,4]]],"expected":3},{"input":[6,[[0,1],[0,2],[1,2],[3,4],[3,5]]],"expected":1}]}

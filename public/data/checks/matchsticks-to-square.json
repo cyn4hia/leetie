@@ -1,0 +1,1 @@
+{"fnName":"makesquare","params":[{"name":"matchsticks","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2,2,2]],"expected":true},{"input":[[3,3,3,3,4]],"expected":false}]}

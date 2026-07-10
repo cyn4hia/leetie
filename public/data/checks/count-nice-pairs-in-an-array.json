@@ -1,0 +1,1 @@
+{"fnName":"countNicePairs","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[42,11,1,97]],"expected":2},{"input":[[13,10,35,24,76]],"expected":4}]}

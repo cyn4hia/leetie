@@ -1,0 +1,1 @@
+{"fnName":"maxGCDScore","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[2,4],1],"expected":8},{"input":[[3,5,7],2],"expected":14},{"input":[[5,5,5],1],"expected":15}]}

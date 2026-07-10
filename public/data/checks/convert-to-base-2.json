@@ -1,0 +1,1 @@
+{"fnName":"baseNeg2","params":[{"name":"n","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[2],"expected":"110"},{"input":[3],"expected":"111"},{"input":[4],"expected":"100"}]}

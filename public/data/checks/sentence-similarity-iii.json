@@ -1,0 +1,1 @@
+{"fnName":"areSentencesSimilar","params":[{"name":"sentence1","type":"string"},{"name":"sentence2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["My name is Haley","My Haley"],"expected":true},{"input":["of","A lot of words"],"expected":false},{"input":["Eating right now","Eating"],"expected":true}]}

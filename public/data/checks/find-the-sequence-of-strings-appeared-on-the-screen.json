@@ -1,0 +1,1 @@
+{"fnName":"stringSequence","params":[{"name":"target","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":["a","aa","ab","aba","abb","abc"]},{"input":["he"],"expected":["a","b","c","d","e","f","g","h","ha","hb","hc","hd","he"]}]}

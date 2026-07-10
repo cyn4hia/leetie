@@ -1,0 +1,1 @@
+{"fnName":"sumGame","params":[{"name":"num","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["5023"],"expected":false},{"input":["25??"],"expected":true},{"input":["?3295???"],"expected":false}]}

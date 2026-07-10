@@ -1,0 +1,1 @@
+{"fnName":"partitionArray","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,6,1,2,5],2],"expected":2},{"input":[[1,2,3],1],"expected":2},{"input":[[2,2,4,5],0],"expected":3}]}

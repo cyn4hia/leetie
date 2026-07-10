@@ -1,0 +1,1 @@
+{"fnName":"kthSmallestPath","params":[{"name":"destination","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[2,3],1],"expected":"HHHVV"},{"input":[[2,3],2],"expected":"HHVHV"},{"input":[[2,3],3],"expected":"HHVVH"}]}

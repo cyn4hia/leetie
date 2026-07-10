@@ -1,0 +1,1 @@
+{"fnName":"generate","params":[{"name":"numRows","type":"integer"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":[[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]},{"input":[1],"expected":[[1]]}]}

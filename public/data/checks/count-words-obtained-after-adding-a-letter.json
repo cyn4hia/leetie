@@ -1,0 +1,1 @@
+{"fnName":"wordCount","params":[{"name":"startWords","type":"string[]"},{"name":"targetWords","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["ant","act","tack"],["tack","act","acti"]],"expected":2},{"input":[["ab","a"],["abc","abcd"]],"expected":1}]}

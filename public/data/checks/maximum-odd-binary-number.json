@@ -1,0 +1,1 @@
+{"fnName":"maximumOddBinaryNumber","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["010"],"expected":"001"},{"input":["0101"],"expected":"1001"}]}

@@ -1,0 +1,1 @@
+{"fnName":"lengthAfterTransformations","params":[{"name":"s","type":"string"},{"name":"t","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcyy",2],"expected":7},{"input":["azbk",1],"expected":5}]}

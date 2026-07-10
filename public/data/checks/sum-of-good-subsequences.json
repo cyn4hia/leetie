@@ -1,0 +1,1 @@
+{"fnName":"sumOfGoodSubsequences","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,1]],"expected":14},{"input":[[3,4,5]],"expected":40}]}

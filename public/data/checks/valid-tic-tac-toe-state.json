@@ -1,0 +1,1 @@
+{"fnName":"validTicTacToe","params":[{"name":"board","type":"string[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[["O  ","   ","   "]],"expected":false},{"input":[["XOX"," X ","   "]],"expected":false},{"input":[["XOX","O O","XOX"]],"expected":true}]}

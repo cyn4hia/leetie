@@ -1,0 +1,1 @@
+{"fnName":"restoreMatrix","params":[{"name":"rowSum","type":"integer[]"},{"name":"colSum","type":"integer[]"}],"returnType":"integer[][]","outputParam":null,"compare":"exact","tests":[{"input":[[3,8],[4,7]],"expected":[[3,0],[1,7]]},{"input":[[5,7,10],[8,6,8]],"expected":[[0,5,0],[6,1,0],[2,0,8]]}]}

@@ -1,0 +1,1 @@
+{"fnName":"distributeCandies","params":[{"name":"n","type":"integer"},{"name":"limit","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[5,2],"expected":3},{"input":[3,3],"expected":10}]}

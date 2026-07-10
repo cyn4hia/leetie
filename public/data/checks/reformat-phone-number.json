@@ -1,0 +1,1 @@
+{"fnName":"reformatNumber","params":[{"name":"number","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["1-23-45 6"],"expected":"123-456"},{"input":["123 4-567"],"expected":"123-45-67"},{"input":["123 4-5678"],"expected":"123-456-78"}]}

@@ -1,0 +1,1 @@
+{"fnName":"minimumFinishTime","params":[{"name":"tires","type":"integer[][]"},{"name":"changeTime","type":"integer"},{"name":"numLaps","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[2,3],[3,4]],5,4],"expected":21},{"input":[[[1,10],[2,2],[3,4]],6,5],"expected":25}]}

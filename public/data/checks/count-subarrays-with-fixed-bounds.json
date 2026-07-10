@@ -1,0 +1,1 @@
+{"fnName":"countSubarrays","params":[{"name":"nums","type":"integer[]"},{"name":"minK","type":"integer"},{"name":"maxK","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,5,2,7,5],1,5],"expected":2},{"input":[[1,1,1,1],1,1],"expected":10}]}

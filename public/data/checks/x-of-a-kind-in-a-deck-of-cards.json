@@ -1,0 +1,1 @@
+{"fnName":"hasGroupsSizeX","params":[{"name":"deck","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,4,3,2,1]],"expected":true},{"input":[[1,1,1,2,2,2,3,3]],"expected":false}]}

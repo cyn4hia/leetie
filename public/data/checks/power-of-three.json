@@ -1,0 +1,1 @@
+{"fnName":"isPowerOfThree","params":[{"name":"n","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[27],"expected":true},{"input":[0],"expected":false},{"input":[-1],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"judgePoint24","params":[{"name":"cards","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[4,1,8,7]],"expected":true},{"input":[[1,2,1,2]],"expected":false}]}

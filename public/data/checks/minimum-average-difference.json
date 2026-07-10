@@ -1,0 +1,1 @@
+{"fnName":"minimumAverageDifference","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,5,3,9,5,3]],"expected":3},{"input":[[0]],"expected":0}]}

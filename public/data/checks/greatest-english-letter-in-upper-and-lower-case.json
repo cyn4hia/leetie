@@ -1,0 +1,1 @@
+{"fnName":"greatestLetter","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["lEeTcOdE"],"expected":"E"},{"input":["arRAzFif"],"expected":"R"},{"input":["AbCdEfGhIjK"],"expected":""}]}

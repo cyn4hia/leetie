@@ -1,0 +1,1 @@
+{"fnName":"maxOutput","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"},{"name":"price","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[6,[[0,1],[1,2],[1,3],[3,4],[3,5]],[9,8,7,6,10,5]],"expected":24},{"input":[3,[[0,1],[1,2]],[1,1,1]],"expected":2}]}

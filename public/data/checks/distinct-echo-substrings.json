@@ -1,0 +1,1 @@
+{"fnName":"distinctEchoSubstrings","params":[{"name":"text","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcabcabc"],"expected":3},{"input":["leetcodeleetcode"],"expected":2}]}

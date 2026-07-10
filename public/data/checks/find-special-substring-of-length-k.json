@@ -1,0 +1,1 @@
+{"fnName":"hasSpecialSubstring","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["aaabaaa",3],"expected":true},{"input":["abc",2],"expected":false}]}

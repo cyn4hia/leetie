@@ -1,0 +1,1 @@
+{"fnName":"earliestSecondToMarkIndices","params":[{"name":"nums","type":"integer[]"},{"name":"changeIndices","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,0],[2,2,2,2,3,2,2,1]],"expected":8},{"input":[[1,3],[1,1,1,2,1,1,1]],"expected":6},{"input":[[0,1],[2,2,2]],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"shortestBeautifulSubstring","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["100011001",3],"expected":"11001"},{"input":["1011",2],"expected":"11"},{"input":["000",1],"expected":""}]}

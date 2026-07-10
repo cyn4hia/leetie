@@ -1,0 +1,1 @@
+{"fnName":"findPermutationDifference","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc","bac"],"expected":2},{"input":["abcde","edbac"],"expected":12}]}

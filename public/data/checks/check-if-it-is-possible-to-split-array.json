@@ -1,0 +1,1 @@
+{"fnName":"canSplitArray","params":[{"name":"nums","type":"list<integer>"},{"name":"m","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,1],4],"expected":true},{"input":[[2,1,3],5],"expected":false},{"input":[[2,3,3,2,3],6],"expected":true}]}

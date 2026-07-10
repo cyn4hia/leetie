@@ -1,0 +1,1 @@
+{"fnName":"kSmallestPairs","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"exact","tests":[{"input":[[1,7,11],[2,4,6],3],"expected":[[1,2],[1,4],[1,6]]},{"input":[[1,1,2],[1,2,3],2],"expected":[[1,1],[1,1]]}]}

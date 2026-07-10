@@ -1,0 +1,1 @@
+{"fnName":"longestStrChain","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["a","b","ba","bca","bda","bdca"]],"expected":4},{"input":[["xbc","pcxbcf","xb","cxbc","pcxbc"]],"expected":5},{"input":[["abcd","dbqca"]],"expected":1}]}

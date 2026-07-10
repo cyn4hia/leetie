@@ -1,0 +1,1 @@
+{"fnName":"digitFrequencyScore","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[122],"expected":5},{"input":[101],"expected":2}]}

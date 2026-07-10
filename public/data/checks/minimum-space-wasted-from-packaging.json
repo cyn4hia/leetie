@@ -1,0 +1,1 @@
+{"fnName":"minWastedSpace","params":[{"name":"packages","type":"integer[]"},{"name":"boxes","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,5],[[4,8],[2,8]]],"expected":6},{"input":[[2,3,5],[[1,4],[2,3],[3,4]]],"expected":-1},{"input":[[3,5,8,10,11,12],[[12],[11,9],[10,5,14]]],"expected":9}]}

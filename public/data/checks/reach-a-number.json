@@ -1,0 +1,1 @@
+{"fnName":"reachNumber","params":[{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2],"expected":3},{"input":[3],"expected":2}]}

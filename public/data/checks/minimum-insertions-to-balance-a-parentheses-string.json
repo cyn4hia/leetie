@@ -1,0 +1,1 @@
+{"fnName":"minInsertions","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["(()))"],"expected":1},{"input":["())"],"expected":0},{"input":["))())("],"expected":3}]}

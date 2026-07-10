@@ -1,0 +1,1 @@
+{"fnName":"findDuplicates","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[4,3,2,7,8,2,3,1]],"expected":[2,3]},{"input":[[1,1,2]],"expected":[1]},{"input":[[1]],"expected":[]}]}

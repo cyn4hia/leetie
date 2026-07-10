@@ -1,0 +1,1 @@
+{"fnName":"minAnagramLength","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abba"],"expected":2},{"input":["cdef"],"expected":4},{"input":["abcbcacabbaccba"],"expected":3}]}

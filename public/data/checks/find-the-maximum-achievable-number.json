@@ -1,0 +1,1 @@
+{"fnName":"theMaximumAchievableX","params":[{"name":"num","type":"integer"},{"name":"t","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4,1],"expected":6},{"input":[3,2],"expected":7}]}

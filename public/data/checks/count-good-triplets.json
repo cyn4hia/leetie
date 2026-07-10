@@ -1,0 +1,1 @@
+{"fnName":"countGoodTriplets","params":[{"name":"arr","type":"integer[]"},{"name":"a","type":"integer"},{"name":"b","type":"integer"},{"name":"c","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,0,1,1,9,7],7,2,3],"expected":4},{"input":[[1,1,2,2,3],0,0,1],"expected":0}]}

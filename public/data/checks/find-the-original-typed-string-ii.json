@@ -1,0 +1,1 @@
+{"fnName":"possibleStringCount","params":[{"name":"word","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aabbccdd",7],"expected":5},{"input":["aabbccdd",8],"expected":1},{"input":["aaabbb",3],"expected":8}]}

@@ -1,0 +1,1 @@
+{"fnName":"sortByBits","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,3,4,5,6,7,8]],"expected":[0,1,2,4,8,3,5,6,7]},{"input":[[1024,512,256,128,64,32,16,8,4,2,1]],"expected":[1,2,4,8,16,32,64,128,256,512,1024]}]}

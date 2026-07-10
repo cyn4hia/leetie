@@ -1,0 +1,1 @@
+{"fnName":"countNoZeroPairs","params":[{"name":"n","type":"long"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[2],"expected":1},{"input":[3],"expected":2},{"input":[11],"expected":8}]}

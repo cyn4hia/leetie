@@ -1,0 +1,1 @@
+{"fnName":"smallestNumber","params":[{"name":"pattern","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["IIIDIDDD"],"expected":"123549876"},{"input":["DDD"],"expected":"4321"}]}

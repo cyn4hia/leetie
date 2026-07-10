@@ -1,0 +1,1 @@
+{"fnName":"maxNonOverlapping","params":[{"name":"nums","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1,1,1],2],"expected":2},{"input":[[-1,3,5,1,4,2,-9],6],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"minimumMountainRemovals","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,1]],"expected":0},{"input":[[2,1,1,5,6,2,3,1]],"expected":3}]}

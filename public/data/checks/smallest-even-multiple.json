@@ -1,0 +1,1 @@
+{"fnName":"smallestEvenMultiple","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":10},{"input":[6],"expected":6}]}

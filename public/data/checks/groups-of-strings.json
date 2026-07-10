@@ -1,0 +1,1 @@
+{"fnName":"groupStrings","params":[{"name":"words","type":"string[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["a","b","ab","cde"]],"expected":[2,3]},{"input":[["a","ab","abc"]],"expected":[1,3]}]}

@@ -1,0 +1,1 @@
+{"fnName":"calculateScore","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["aczzx"],"expected":5},{"input":["abcdef"],"expected":0}]}

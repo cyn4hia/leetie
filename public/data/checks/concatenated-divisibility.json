@@ -1,0 +1,1 @@
+{"fnName":"concatenatedDivisibility","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[3,12,45],5],"expected":[3,12,45]},{"input":[[10,5],10],"expected":[5,10]},{"input":[[1,2,3],5],"expected":[]}]}

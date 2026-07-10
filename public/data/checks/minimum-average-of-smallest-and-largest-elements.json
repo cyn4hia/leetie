@@ -1,0 +1,1 @@
+{"fnName":"minimumAverage","params":[{"name":"nums","type":"integer[]"}],"returnType":"double","outputParam":null,"compare":"float","tests":[{"input":[[7,8,3,4,15,13,4,1]],"expected":5.5},{"input":[[1,9,8,3,10,5]],"expected":5.5},{"input":[[1,2,3,7,8,9]],"expected":5}]}

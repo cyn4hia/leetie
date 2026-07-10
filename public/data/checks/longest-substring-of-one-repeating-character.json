@@ -1,0 +1,1 @@
+{"fnName":"longestRepeating","params":[{"name":"s","type":"string"},{"name":"queryCharacters","type":"string"},{"name":"queryIndices","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":["babacc","bcb",[1,3,3]],"expected":[3,3,4]},{"input":["abyzz","aa",[2,1]],"expected":[2,3]}]}

@@ -1,0 +1,1 @@
+{"fnName":"sum","params":[{"name":"num1","type":"integer"},{"name":"num2","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[12,5],"expected":17},{"input":[-10,4],"expected":-6}]}

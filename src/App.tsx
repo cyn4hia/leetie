@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useLeetie } from './store'
-import { loadCatalog } from './lib/catalog'
+import { loadCatalog, loadChecksIndex } from './lib/catalog'
 import { Header } from './components/Header'
 import { ProblemList } from './components/ProblemList'
 import { ProblemPanel } from './components/ProblemPanel'
@@ -30,6 +30,7 @@ export default function App() {
   const sidebarOpen = useLeetie((s) => s.sidebarOpen)
   const selectedSlug = useLeetie((s) => s.selectedSlug)
   const setCatalog = useLeetie((s) => s.setCatalog)
+  const setChecksIndex = useLeetie((s) => s.setChecksIndex)
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme
@@ -37,7 +38,8 @@ export default function App() {
 
   useEffect(() => {
     loadCatalog().then(setCatalog)
-  }, [setCatalog])
+    loadChecksIndex().then(setChecksIndex)
+  }, [setCatalog, setChecksIndex])
 
   return (
     <div className="app">

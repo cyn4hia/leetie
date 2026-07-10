@@ -1,0 +1,1 @@
+{"fnName":"countValidSelections","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,2,0,3]],"expected":2},{"input":[[2,3,4,0,4,1,0]],"expected":0}]}

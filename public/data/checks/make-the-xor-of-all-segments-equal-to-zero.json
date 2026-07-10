@@ -1,0 +1,1 @@
+{"fnName":"minChanges","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,0,3,0],1],"expected":3},{"input":[[3,4,5,2,1,7,3,4,7],3],"expected":3},{"input":[[1,2,4,1,2,5,1,2,6],3],"expected":3}]}

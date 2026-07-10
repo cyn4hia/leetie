@@ -1,0 +1,1 @@
+{"fnName":"isUnivalTree","params":[{"name":"root","type":"TreeNode"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1,1,1,null,1]],"expected":true},{"input":[[2,2,2,5,2]],"expected":false}]}

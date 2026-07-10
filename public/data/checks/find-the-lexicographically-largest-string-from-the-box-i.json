@@ -1,0 +1,1 @@
+{"fnName":"answerString","params":[{"name":"word","type":"string"},{"name":"numFriends","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["dbca",2],"expected":"dbc"},{"input":["gggg",4],"expected":"g"}]}

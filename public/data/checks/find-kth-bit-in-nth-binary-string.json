@@ -1,0 +1,1 @@
+{"fnName":"findKthBit","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":[3,1],"expected":"0"},{"input":[4,11],"expected":"1"}]}

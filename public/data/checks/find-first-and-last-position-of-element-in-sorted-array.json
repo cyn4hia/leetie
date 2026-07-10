@@ -1,0 +1,1 @@
+{"fnName":"searchRange","params":[{"name":"nums","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[5,7,7,8,8,10],8],"expected":[3,4]},{"input":[[5,7,7,8,8,10],6],"expected":[-1,-1]},{"input":[[],0],"expected":[-1,-1]}]}

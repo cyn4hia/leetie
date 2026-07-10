@@ -1,0 +1,1 @@
+{"fnName":"countAlternatingSubarrays","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,1,1]],"expected":5},{"input":[[1,0,1,0]],"expected":10}]}

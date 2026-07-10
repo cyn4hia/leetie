@@ -1,0 +1,1 @@
+{"fnName":"lexicographicallySmallestString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":"a"},{"input":["bcda"],"expected":""},{"input":["zdce"],"expected":"zdce"}]}

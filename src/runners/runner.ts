@@ -10,6 +10,11 @@ export interface RunRequest {
   fnName: string
   tests: TestCase[]
   compare: CompareMode
+  /** LeetCode metaData types — drive ListNode/TreeNode conversion. */
+  paramTypes?: string[] | null
+  returnType?: string | null
+  /** For void (in-place) problems: which param to compare after the call. */
+  outputParam?: number | null
 }
 
 function failure(error: string): RunResult {
@@ -46,6 +51,9 @@ function runJs(req: RunRequest): Promise<RunResult> {
       fnName: req.fnName,
       tests: req.tests,
       compare: req.compare,
+      paramTypes: req.paramTypes ?? null,
+      returnType: req.returnType ?? null,
+      outputParam: req.outputParam ?? null,
     })
   })
 }
@@ -130,6 +138,9 @@ function runPy(req: RunRequest): Promise<RunResult> {
       fnName: req.fnName,
       tests: req.tests,
       compare: req.compare,
+      paramTypes: req.paramTypes ?? null,
+      returnType: req.returnType ?? null,
+      outputParam: req.outputParam ?? null,
     })
   })
 }

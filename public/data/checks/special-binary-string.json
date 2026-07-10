@@ -1,0 +1,1 @@
+{"fnName":"makeLargestSpecial","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["11011000"],"expected":"11100100"},{"input":["10"],"expected":"10"}]}

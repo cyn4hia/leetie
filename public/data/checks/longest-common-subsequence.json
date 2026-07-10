@@ -1,0 +1,1 @@
+{"fnName":"longestCommonSubsequence","params":[{"name":"text1","type":"string"},{"name":"text2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcde","ace"],"expected":3},{"input":["abc","abc"],"expected":3},{"input":["abc","def"],"expected":0}]}

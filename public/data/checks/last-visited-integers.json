@@ -1,0 +1,1 @@
+{"fnName":"lastVisitedIntegers","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,-1,-1,-1]],"expected":[2,1,-1]},{"input":[[1,-1,2,-1,-1]],"expected":[1,2,1]}]}

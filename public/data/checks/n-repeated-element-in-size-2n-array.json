@@ -1,0 +1,1 @@
+{"fnName":"repeatedNTimes","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,3]],"expected":3},{"input":[[2,1,2,5,3,2]],"expected":2},{"input":[[5,1,5,2,5,3,5,4]],"expected":5}]}

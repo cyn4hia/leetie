@@ -1,0 +1,1 @@
+{"fnName":"countSquares","params":[{"name":"matrix","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1,1,1],[1,1,1,1],[0,1,1,1]]],"expected":15},{"input":[[[1,0,1],[1,1,0],[1,1,0]]],"expected":7}]}

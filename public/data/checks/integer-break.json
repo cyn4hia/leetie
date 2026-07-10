@@ -1,0 +1,1 @@
+{"fnName":"integerBreak","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2],"expected":1},{"input":[10],"expected":36}]}

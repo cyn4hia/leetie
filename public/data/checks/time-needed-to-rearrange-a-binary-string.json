@@ -1,0 +1,1 @@
+{"fnName":"secondsToRemoveOccurrences","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["0110101"],"expected":4},{"input":["11100"],"expected":0}]}

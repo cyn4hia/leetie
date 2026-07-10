@@ -1,0 +1,1 @@
+{"fnName":"processQueries","params":[{"name":"c","type":"integer"},{"name":"connections","type":"integer[][]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[5,[[1,2],[2,3],[3,4],[4,5]],[[1,3],[2,1],[1,1],[2,2],[1,2]]],"expected":[3,2,3]},{"input":[3,[],[[1,1],[2,1],[1,1]]],"expected":[1,-1]}]}

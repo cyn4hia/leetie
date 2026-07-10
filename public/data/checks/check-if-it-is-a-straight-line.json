@@ -1,0 +1,1 @@
+{"fnName":"checkStraightLine","params":[{"name":"coordinates","type":"integer[][]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]],"expected":true},{"input":[[[1,1],[2,2],[3,4],[4,5],[5,6],[7,7]]],"expected":false}]}

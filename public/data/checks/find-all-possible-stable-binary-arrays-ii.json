@@ -1,0 +1,1 @@
+{"fnName":"numberOfStableArrays","params":[{"name":"zero","type":"integer"},{"name":"one","type":"integer"},{"name":"limit","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,1,2],"expected":2},{"input":[1,2,1],"expected":1},{"input":[3,3,2],"expected":14}]}

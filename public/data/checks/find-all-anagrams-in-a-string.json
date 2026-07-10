@@ -1,0 +1,1 @@
+{"fnName":"findAnagrams","params":[{"name":"s","type":"string"},{"name":"p","type":"string"}],"returnType":"list<integer>","outputParam":null,"compare":"unordered","tests":[{"input":["cbaebabacd","abc"],"expected":[0,6]},{"input":["abab","ab"],"expected":[0,1,2]}]}

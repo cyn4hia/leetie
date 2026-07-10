@@ -1,0 +1,1 @@
+{"fnName":"mostFrequent","params":[{"name":"nums","type":"integer[]"},{"name":"key","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,100,200,1,100],1],"expected":100},{"input":[[2,2,2,2,3],2],"expected":2}]}

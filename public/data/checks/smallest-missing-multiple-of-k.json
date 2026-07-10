@@ -1,0 +1,1 @@
+{"fnName":"missingMultiple","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[8,2,3,4,6],2],"expected":10},{"input":[[1,4,7,10,15],5],"expected":5}]}

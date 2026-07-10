@@ -1,0 +1,1 @@
+{"fnName":"countOperationsToEmptyArray","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[3,4,-1]],"expected":5},{"input":[[1,2,4,3]],"expected":5},{"input":[[1,2,3]],"expected":3}]}

@@ -1,0 +1,1 @@
+{"fnName":"countPalindromes","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["103301"],"expected":2},{"input":["0000000"],"expected":21},{"input":["9999900000"],"expected":2}]}

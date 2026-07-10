@@ -1,0 +1,1 @@
+{"fnName":"maxAlternatingSum","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,5,3]],"expected":7},{"input":[[5,6,7,8]],"expected":8},{"input":[[6,2,1,2,4,5]],"expected":10}]}

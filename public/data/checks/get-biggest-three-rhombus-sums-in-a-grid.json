@@ -1,0 +1,1 @@
+{"fnName":"getBiggestThree","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[[3,4,5,1,3],[3,3,4,2,3],[20,30,200,40,10],[1,5,5,4,1],[4,3,2,2,5]]],"expected":[228,216,211]},{"input":[[[1,2,3],[4,5,6],[7,8,9]]],"expected":[20,9,8]},{"input":[[[7,7,7]]],"expected":[7]}]}

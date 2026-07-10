@@ -1,0 +1,1 @@
+{"fnName":"middleNode","params":[{"name":"head","type":"ListNode"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5]],"expected":[3,4,5]},{"input":[[1,2,3,4,5,6]],"expected":[4,5,6]}]}

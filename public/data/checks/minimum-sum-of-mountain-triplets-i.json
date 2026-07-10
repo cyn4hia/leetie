@@ -1,0 +1,1 @@
+{"fnName":"minimumSum","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[8,6,1,5,3]],"expected":9},{"input":[[5,4,8,7,10,2]],"expected":13},{"input":[[6,5,4,3,4,5]],"expected":-1}]}

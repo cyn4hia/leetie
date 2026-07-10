@@ -1,0 +1,1 @@
+{"fnName":"maximumWhiteTiles","params":[{"name":"tiles","type":"integer[][]"},{"name":"carpetLen","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,5],[10,11],[12,18],[20,25],[30,32]],10],"expected":9},{"input":[[[10,11],[1,1]],2],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"numberOfSubarrays","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,3,3,2]],"expected":6},{"input":[[3,3,3]],"expected":6},{"input":[[1]],"expected":1}]}

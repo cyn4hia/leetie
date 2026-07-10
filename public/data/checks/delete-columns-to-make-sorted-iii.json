@@ -1,0 +1,1 @@
+{"fnName":"minDeletionSize","params":[{"name":"strs","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["babca","bbazb"]],"expected":3},{"input":[["edcba"]],"expected":4},{"input":[["ghi","def","abc"]],"expected":0}]}

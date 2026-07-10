@@ -1,0 +1,1 @@
+{"fnName":"nthMagicalNumber","params":[{"name":"n","type":"integer"},{"name":"a","type":"integer"},{"name":"b","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,2,3],"expected":2},{"input":[4,2,3],"expected":6}]}

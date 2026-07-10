@@ -1,0 +1,1 @@
+{"fnName":"countPairs","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[3,[[0,1],[0,2],[1,2]]],"expected":0},{"input":[7,[[0,2],[0,5],[2,4],[1,6],[5,4]]],"expected":14}]}

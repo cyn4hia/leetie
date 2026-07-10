@@ -1,0 +1,1 @@
+{"fnName":"maxSubstrings","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcdeafdef"],"expected":2},{"input":["bcdaaaab"],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"numWays","params":[{"name":"words","type":"string[]"},{"name":"target","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["acca","bbbb","caca"],"aba"],"expected":6},{"input":[["abba","baab"],"bab"],"expected":4}]}

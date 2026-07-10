@@ -1,0 +1,1 @@
+{"fnName":"reverseBits","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[43261596],"expected":964176192},{"input":[2147483644],"expected":1073741822}]}

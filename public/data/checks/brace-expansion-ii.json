@@ -1,0 +1,1 @@
+{"fnName":"braceExpansionII","params":[{"name":"expression","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":["{a,b}{c,{d,e}}"],"expected":["ac","ad","ae","bc","bd","be"]},{"input":["{{a,z},a{b,c},{ab,z}}"],"expected":["a","ab","ac","z"]}]}

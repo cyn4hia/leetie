@@ -1,0 +1,1 @@
+{"fnName":"kthCharacter","params":[{"name":"k","type":"integer"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":"b"},{"input":[10],"expected":"c"}]}

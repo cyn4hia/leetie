@@ -1,0 +1,1 @@
+{"fnName":"isPalindrome","params":[{"name":"head","type":"ListNode"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,2,1]],"expected":true},{"input":[[1,2]],"expected":false}]}

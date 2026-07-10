@@ -1,0 +1,1 @@
+{"fnName":"largeGroupPositions","params":[{"name":"s","type":"string"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"exact","tests":[{"input":["abbxxxxzzy"],"expected":[[3,6]]},{"input":["abc"],"expected":[]},{"input":["abcdddeeeeaabbbcd"],"expected":[[3,5],[6,9],[12,14]]}]}

@@ -1,0 +1,1 @@
+{"fnName":"chalkReplacer","params":[{"name":"chalk","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,1,5],22],"expected":0},{"input":[[3,4,1,2],25],"expected":1}]}

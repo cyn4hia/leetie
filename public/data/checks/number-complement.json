@@ -1,0 +1,1 @@
+{"fnName":"findComplement","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":2},{"input":[1],"expected":0}]}

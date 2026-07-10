@@ -1,0 +1,1 @@
+{"fnName":"equalSubstring","params":[{"name":"s","type":"string"},{"name":"t","type":"string"},{"name":"maxCost","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcd","bcdf",3],"expected":3},{"input":["abcd","cdef",3],"expected":1},{"input":["abcd","acde",0],"expected":1}]}

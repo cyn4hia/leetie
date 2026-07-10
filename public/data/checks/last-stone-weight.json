@@ -1,0 +1,1 @@
+{"fnName":"lastStoneWeight","params":[{"name":"stones","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,7,4,1,8,1]],"expected":1},{"input":[[1]],"expected":1}]}

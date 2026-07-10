@@ -1,0 +1,1 @@
+{"fnName":"isZeroArray","params":[{"name":"nums","type":"integer[]"},{"name":"queries","type":"integer[][]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,1],[[0,2]]],"expected":true},{"input":[[4,3,2,1],[[1,3],[0,2]]],"expected":false}]}

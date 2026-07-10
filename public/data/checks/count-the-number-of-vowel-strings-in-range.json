@@ -1,0 +1,1 @@
+{"fnName":"vowelStrings","params":[{"name":"words","type":"string[]"},{"name":"left","type":"integer"},{"name":"right","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["are","amy","u"],0,2],"expected":2},{"input":[["hey","aeo","mu","ooo","artro"],1,4],"expected":3}]}

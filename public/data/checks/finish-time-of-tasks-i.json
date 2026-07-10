@@ -1,0 +1,1 @@
+{"fnName":"finishTime","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"},{"name":"baseTime","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[3,[[0,1],[1,2]],[9,5,3]],"expected":17},{"input":[3,[[0,1],[0,2]],[4,7,6]],"expected":12},{"input":[4,[[0,1],[0,2],[2,3]],[5,8,2,1]],"expected":18}]}

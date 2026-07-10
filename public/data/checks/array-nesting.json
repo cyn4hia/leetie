@@ -1,0 +1,1 @@
+{"fnName":"arrayNesting","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,0,3,1,6,2]],"expected":4},{"input":[[0,1,2]],"expected":1}]}

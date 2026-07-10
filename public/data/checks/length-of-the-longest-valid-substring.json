@@ -1,0 +1,1 @@
+{"fnName":"longestValidSubstring","params":[{"name":"word","type":"string"},{"name":"forbidden","type":"list<string>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["cbaaaabc",["aaa","cb"]],"expected":4},{"input":["leetcode",["de","le","e"]],"expected":4}]}

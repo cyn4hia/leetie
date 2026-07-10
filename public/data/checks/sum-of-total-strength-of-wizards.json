@@ -1,0 +1,1 @@
+{"fnName":"totalStrength","params":[{"name":"strength","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,1,2]],"expected":44},{"input":[[5,4,6]],"expected":213}]}

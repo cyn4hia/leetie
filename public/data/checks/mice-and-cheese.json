@@ -1,0 +1,1 @@
+{"fnName":"miceAndCheese","params":[{"name":"reward1","type":"integer[]"},{"name":"reward2","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,3,4],[4,4,1,1],2],"expected":15},{"input":[[1,1],[1,1],2],"expected":2}]}

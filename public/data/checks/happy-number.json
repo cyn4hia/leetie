@@ -1,0 +1,1 @@
+{"fnName":"isHappy","params":[{"name":"n","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[19],"expected":true},{"input":[2],"expected":false}]}

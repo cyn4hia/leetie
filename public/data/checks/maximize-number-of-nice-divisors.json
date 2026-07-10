@@ -1,0 +1,1 @@
+{"fnName":"maxNiceDivisors","params":[{"name":"primeFactors","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":6},{"input":[8],"expected":18}]}

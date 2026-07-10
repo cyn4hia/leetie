@@ -1,0 +1,1 @@
+{"fnName":"shiftingLetters","params":[{"name":"s","type":"string"},{"name":"shifts","type":"integer[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abc",[3,5,9]],"expected":"rpl"},{"input":["aaa",[1,2,3]],"expected":"gfd"}]}

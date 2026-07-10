@@ -1,0 +1,1 @@
+{"fnName":"findWords","params":[{"name":"words","type":"string[]"}],"returnType":"string[]","outputParam":null,"compare":"exact","tests":[{"input":[["Hello","Alaska","Dad","Peace"]],"expected":["Alaska","Dad"]},{"input":[["omk"]],"expected":[]},{"input":[["adsdf","sfd"]],"expected":["adsdf","sfd"]}]}

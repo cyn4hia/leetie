@@ -1,0 +1,1 @@
+{"fnName":"centeredSubarrays","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-1,1,0]],"expected":5},{"input":[[2,-3]],"expected":2}]}

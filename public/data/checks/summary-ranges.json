@@ -1,0 +1,1 @@
+{"fnName":"summaryRanges","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,4,5,7]],"expected":["0->2","4->5","7"]},{"input":[[0,2,3,4,6,8,9]],"expected":["0","2->4","6","8->9"]}]}

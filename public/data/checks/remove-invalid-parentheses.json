@@ -1,0 +1,1 @@
+{"fnName":"removeInvalidParentheses","params":[{"name":"s","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":["()())()"],"expected":["(())()","()()()"]},{"input":["(a)())()"],"expected":["(a())()","(a)()()"]},{"input":[")("],"expected":[""]}]}

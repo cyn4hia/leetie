@@ -1,0 +1,1 @@
+{"fnName":"numWaterBottles","params":[{"name":"numBottles","type":"integer"},{"name":"numExchange","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[9,3],"expected":13},{"input":[15,4],"expected":19}]}

@@ -1,0 +1,1 @@
+{"fnName":"countPairs","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1023,2310,2130,213]],"expected":4},{"input":[[1,10,100]],"expected":3}]}

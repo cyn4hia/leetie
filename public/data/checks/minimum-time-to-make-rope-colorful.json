@@ -1,0 +1,1 @@
+{"fnName":"minCost","params":[{"name":"colors","type":"string"},{"name":"neededTime","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abaac",[1,2,3,4,5]],"expected":3},{"input":["abc",[1,2,3]],"expected":0},{"input":["aabaa",[1,2,3,4,1]],"expected":2}]}

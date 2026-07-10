@@ -1,0 +1,1 @@
+{"fnName":"sumEvenAfterQueries","params":[{"name":"nums","type":"integer[]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4],[[1,0],[-3,1],[-4,0],[2,3]]],"expected":[8,6,2,4]},{"input":[[1],[[4,0]]],"expected":[0]}]}

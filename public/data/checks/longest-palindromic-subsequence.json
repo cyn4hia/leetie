@@ -1,0 +1,1 @@
+{"fnName":"longestPalindromeSubseq","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["bbbab"],"expected":4},{"input":["cbbd"],"expected":2}]}

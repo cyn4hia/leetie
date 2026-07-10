@@ -1,0 +1,1 @@
+{"fnName":"absDifference","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,2,2,4],2],"expected":5},{"input":[[100],1],"expected":0}]}

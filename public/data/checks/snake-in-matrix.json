@@ -1,0 +1,1 @@
+{"fnName":"finalPositionOfSnake","params":[{"name":"n","type":"integer"},{"name":"commands","type":"list<string>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,["RIGHT","DOWN"]],"expected":3},{"input":[3,["DOWN","RIGHT","UP"]],"expected":1}]}

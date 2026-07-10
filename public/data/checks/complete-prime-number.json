@@ -1,0 +1,1 @@
+{"fnName":"completePrime","params":[{"name":"num","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[23],"expected":true},{"input":[39],"expected":false},{"input":[7],"expected":true}]}

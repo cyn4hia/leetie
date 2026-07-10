@@ -1,0 +1,1 @@
+{"fnName":"deckRevealedIncreasing","params":[{"name":"deck","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[17,13,11,2,3,5,7]],"expected":[2,13,3,11,5,17,7]},{"input":[[1,1000]],"expected":[1,1000]}]}

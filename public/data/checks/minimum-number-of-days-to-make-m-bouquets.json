@@ -1,0 +1,1 @@
+{"fnName":"minDays","params":[{"name":"bloomDay","type":"integer[]"},{"name":"m","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,10,3,10,2],3,1],"expected":3},{"input":[[1,10,3,10,2],3,2],"expected":-1},{"input":[[7,7,7,7,12,7,7],2,3],"expected":12}]}

@@ -1,0 +1,1 @@
+{"fnName":"checkTree","params":[{"name":"root","type":"TreeNode"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[10,4,6]],"expected":true},{"input":[[5,3,1]],"expected":false}]}

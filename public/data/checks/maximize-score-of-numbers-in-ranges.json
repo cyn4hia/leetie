@@ -1,0 +1,1 @@
+{"fnName":"maxPossibleScore","params":[{"name":"start","type":"integer[]"},{"name":"d","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[6,0,3],2],"expected":4},{"input":[[2,6,13,13],5],"expected":5}]}

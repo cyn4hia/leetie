@@ -1,0 +1,1 @@
+{"fnName":"closestDivisors","params":[{"name":"num","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"unordered","tests":[{"input":[8],"expected":[3,3]},{"input":[123],"expected":[5,25]},{"input":[999],"expected":[40,25]}]}

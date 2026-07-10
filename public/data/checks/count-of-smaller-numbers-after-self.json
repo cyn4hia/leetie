@@ -1,0 +1,1 @@
+{"fnName":"countSmaller","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[5,2,6,1]],"expected":[2,1,1,0]},{"input":[[-1]],"expected":[0]},{"input":[[-1,-1]],"expected":[0,0]}]}

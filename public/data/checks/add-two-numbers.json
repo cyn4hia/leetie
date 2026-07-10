@@ -1,0 +1,1 @@
+{"fnName":"addTwoNumbers","params":[{"name":"l1","type":"ListNode"},{"name":"l2","type":"ListNode"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[2,4,3],[5,6,4]],"expected":[7,0,8]},{"input":[[0],[0]],"expected":[0]},{"input":[[9,9,9,9,9,9,9],[9,9,9,9]],"expected":[8,9,9,9,0,0,0,1]}]}

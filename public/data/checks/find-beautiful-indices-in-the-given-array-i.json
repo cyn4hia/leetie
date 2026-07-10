@@ -1,0 +1,1 @@
+{"fnName":"beautifulIndices","params":[{"name":"s","type":"string"},{"name":"a","type":"string"},{"name":"b","type":"string"},{"name":"k","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":["isawsquirrelnearmysquirrelhouseohmy","my","squirrel",15],"expected":[16,33]},{"input":["abcd","a","a",4],"expected":[0]}]}

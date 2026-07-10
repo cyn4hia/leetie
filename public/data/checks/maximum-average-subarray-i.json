@@ -1,0 +1,1 @@
+{"fnName":"findMaxAverage","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"double","outputParam":null,"compare":"float","tests":[{"input":[[1,12,-5,-6,50,3],4],"expected":12.75},{"input":[[5],1],"expected":5}]}

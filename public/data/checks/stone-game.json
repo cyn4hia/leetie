@@ -1,0 +1,1 @@
+{"fnName":"stoneGame","params":[{"name":"piles","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[5,3,4,5]],"expected":true},{"input":[[3,7,2,3]],"expected":true}]}

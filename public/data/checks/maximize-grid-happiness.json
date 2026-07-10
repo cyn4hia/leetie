@@ -1,0 +1,1 @@
+{"fnName":"getMaxGridHappiness","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"},{"name":"introvertsCount","type":"integer"},{"name":"extrovertsCount","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,3,1,2],"expected":240},{"input":[3,1,2,1],"expected":260},{"input":[2,2,4,0],"expected":240}]}

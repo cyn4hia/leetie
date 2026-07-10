@@ -1,0 +1,1 @@
+{"fnName":"validIPAddress","params":[{"name":"queryIP","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["172.16.254.1"],"expected":"IPv4"},{"input":["2001:0db8:85a3:0:0:8A2E:0370:7334"],"expected":"IPv6"},{"input":["256.256.256.256"],"expected":"Neither"}]}

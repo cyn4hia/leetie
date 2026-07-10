@@ -1,0 +1,1 @@
+{"fnName":"createTargetArray","params":[{"name":"nums","type":"integer[]"},{"name":"index","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,3,4],[0,1,2,2,1]],"expected":[0,4,1,3,2]},{"input":[[1,2,3,4,0],[0,1,2,3,0]],"expected":[0,1,2,3,4]},{"input":[[1],[0]],"expected":[1]}]}

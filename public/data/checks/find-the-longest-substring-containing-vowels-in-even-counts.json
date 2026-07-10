@@ -1,0 +1,1 @@
+{"fnName":"findTheLongestSubstring","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["eleetminicoworoep"],"expected":13},{"input":["leetcodeisgreat"],"expected":5},{"input":["bcbcbc"],"expected":6}]}

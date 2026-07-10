@@ -1,0 +1,1 @@
+{"fnName":"closeStrings","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abc","bca"],"expected":true},{"input":["a","aa"],"expected":false},{"input":["cabbba","abbccc"],"expected":true}]}

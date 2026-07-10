@@ -1,0 +1,1 @@
+{"fnName":"breakPalindrome","params":[{"name":"palindrome","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abccba"],"expected":"aaccba"},{"input":["a"],"expected":""}]}

@@ -1,0 +1,1 @@
+{"fnName":"numberWays","params":[{"name":"hats","type":"list<list<integer>>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[3,4],[4,5],[5]]],"expected":1},{"input":[[[3,5,1],[3,5]]],"expected":4},{"input":[[[1,2,3,4],[1,2,3,4],[1,2,3,4],[1,2,3,4]]],"expected":24}]}

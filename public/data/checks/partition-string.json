@@ -1,0 +1,1 @@
+{"fnName":"partitionString","params":[{"name":"s","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":["abbccccd"],"expected":["a","b","bc","c","cc","d"]},{"input":["aaaa"],"expected":["a","aa"]}]}

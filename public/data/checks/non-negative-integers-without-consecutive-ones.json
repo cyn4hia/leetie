@@ -1,0 +1,1 @@
+{"fnName":"findIntegers","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":5},{"input":[1],"expected":2},{"input":[2],"expected":3}]}

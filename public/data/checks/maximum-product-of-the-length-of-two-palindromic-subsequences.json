@@ -1,0 +1,1 @@
+{"fnName":"maxProduct","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["leetcodecom"],"expected":9},{"input":["bb"],"expected":1},{"input":["accbcaxxcxx"],"expected":25}]}

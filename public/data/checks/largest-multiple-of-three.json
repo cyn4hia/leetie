@@ -1,0 +1,1 @@
+{"fnName":"largestMultipleOfThree","params":[{"name":"digits","type":"integer[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[8,1,9]],"expected":"981"},{"input":[[8,6,7,1,0]],"expected":"8760"},{"input":[[1]],"expected":""}]}

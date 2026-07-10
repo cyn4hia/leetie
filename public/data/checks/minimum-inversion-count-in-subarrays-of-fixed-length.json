@@ -1,0 +1,1 @@
+{"fnName":"minInversionCount","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[3,1,2,5,4],3],"expected":0},{"input":[[5,3,2,1],4],"expected":6},{"input":[[2,1],1],"expected":0}]}

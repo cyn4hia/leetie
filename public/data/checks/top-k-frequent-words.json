@@ -1,0 +1,1 @@
+{"fnName":"topKFrequent","params":[{"name":"words","type":"string[]"},{"name":"k","type":"integer"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":[["i","love","leetcode","i","love","coding"],2],"expected":["i","love"]},{"input":[["the","day","is","sunny","the","the","the","sunny","is","is"],4],"expected":["the","is","sunny","day"]}]}

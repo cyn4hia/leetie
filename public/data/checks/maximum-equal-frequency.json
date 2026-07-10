@@ -1,0 +1,1 @@
+{"fnName":"maxEqualFreq","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,1,1,5,3,3,5]],"expected":7},{"input":[[1,1,1,2,2,2,3,3,3,4,4,4,5]],"expected":13}]}

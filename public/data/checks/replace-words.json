@@ -1,0 +1,1 @@
+{"fnName":"replaceWords","params":[{"name":"dictionary","type":"list<string>"},{"name":"sentence","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[["cat","bat","rat"],"the cattle was rattled by the battery"],"expected":"the cat was rat by the bat"},{"input":[["a","b","c"],"aadsfasf absbs bbab cadsfafs"],"expected":"a a b c"}]}

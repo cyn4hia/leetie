@@ -1,0 +1,1 @@
+{"fnName":"nextLargerNodes","params":[{"name":"head","type":"ListNode"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[2,1,5]],"expected":[5,5,0]},{"input":[[2,7,4,3,5]],"expected":[7,0,5,5,0]}]}

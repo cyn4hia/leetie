@@ -1,0 +1,1 @@
+{"fnName":"sumOfMultiples","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[7],"expected":21},{"input":[10],"expected":40},{"input":[9],"expected":30}]}

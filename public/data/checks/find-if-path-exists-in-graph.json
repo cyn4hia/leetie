@@ -1,0 +1,1 @@
+{"fnName":"validPath","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"},{"name":"source","type":"integer"},{"name":"destination","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[3,[[0,1],[1,2],[2,0]],0,2],"expected":true},{"input":[6,[[0,1],[0,2],[3,5],[5,4],[4,3]],0,5],"expected":false}]}

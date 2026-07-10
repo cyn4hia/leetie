@@ -1,0 +1,1 @@
+{"fnName":"totalFruit","params":[{"name":"fruits","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,1]],"expected":3},{"input":[[0,1,2,2]],"expected":3},{"input":[[1,2,3,2,2]],"expected":4}]}

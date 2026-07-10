@@ -1,0 +1,1 @@
+{"fnName":"compress","params":[{"name":"chars","type":"character[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["a","a","b","b","c","c","c"]],"expected":6},{"input":[["a"]],"expected":1},{"input":[["a","b","b","b","b","b","b","b","b","b","b","b","b"]],"expected":4}]}

@@ -1,0 +1,1 @@
+{"fnName":"sumOfSquares","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4]],"expected":21},{"input":[[2,7,1,19,18,3]],"expected":63}]}

@@ -1,0 +1,1 @@
+{"fnName":"minimumDeletions","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,10,7,5,4,1,8,6]],"expected":5},{"input":[[0,-4,19,1,8,-2,-3,5]],"expected":3},{"input":[[101]],"expected":1}]}

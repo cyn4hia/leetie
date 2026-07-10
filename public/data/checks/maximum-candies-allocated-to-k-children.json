@@ -1,0 +1,1 @@
+{"fnName":"maximumCandies","params":[{"name":"candies","type":"integer[]"},{"name":"k","type":"long"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,8,6],3],"expected":5},{"input":[[2,5],11],"expected":0}]}

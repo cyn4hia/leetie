@@ -1,0 +1,1 @@
+{"fnName":"removeTrailingZeros","params":[{"name":"num","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["51230100"],"expected":"512301"},{"input":["123"],"expected":"123"}]}

@@ -1,0 +1,1 @@
+{"fnName":"generateKey","params":[{"name":"num1","type":"integer"},{"name":"num2","type":"integer"},{"name":"num3","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,10,1000],"expected":0},{"input":[987,879,798],"expected":777},{"input":[1,2,3],"expected":1}]}

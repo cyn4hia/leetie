@@ -1,0 +1,1 @@
+{"fnName":"findShortestCycle","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[7,[[0,1],[1,2],[2,0],[3,4],[4,5],[5,6],[6,3]]],"expected":3},{"input":[4,[[0,1],[0,2]]],"expected":-1}]}

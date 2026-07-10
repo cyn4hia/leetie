@@ -1,0 +1,1 @@
+{"fnName":"xorOperation","params":[{"name":"n","type":"integer"},{"name":"start","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,0],"expected":8},{"input":[4,3],"expected":8}]}

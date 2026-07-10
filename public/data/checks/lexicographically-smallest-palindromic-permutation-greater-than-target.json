@@ -1,0 +1,1 @@
+{"fnName":"lexPalindromicPermutation","params":[{"name":"s","type":"string"},{"name":"target","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["baba","abba"],"expected":"baab"},{"input":["baba","bbaa"],"expected":""},{"input":["abc","abb"],"expected":""},{"input":["aac","abb"],"expected":"aca"}]}

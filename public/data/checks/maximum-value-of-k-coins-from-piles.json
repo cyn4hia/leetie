@@ -1,0 +1,1 @@
+{"fnName":"maxValueOfCoins","params":[{"name":"piles","type":"list<list<integer>>"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,100,3],[7,8,9]],2],"expected":101},{"input":[[[100],[100],[100],[100],[100],[100],[1,1,1,1,1,1,700]],7],"expected":706}]}

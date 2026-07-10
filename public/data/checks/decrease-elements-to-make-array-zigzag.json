@@ -1,0 +1,1 @@
+{"fnName":"movesToMakeZigzag","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":2},{"input":[[9,6,1,6,2]],"expected":4}]}

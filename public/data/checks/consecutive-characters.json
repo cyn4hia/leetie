@@ -1,0 +1,1 @@
+{"fnName":"maxPower","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["leetcode"],"expected":2},{"input":["abbcccddddeeeeedcba"],"expected":5}]}

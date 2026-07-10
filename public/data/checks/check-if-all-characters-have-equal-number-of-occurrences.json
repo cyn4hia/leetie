@@ -1,0 +1,1 @@
+{"fnName":"areOccurrencesEqual","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abacbc"],"expected":true},{"input":["aaabb"],"expected":false}]}

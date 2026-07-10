@@ -1,0 +1,1 @@
+{"fnName":"productQueries","params":[{"name":"n","type":"integer"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[15,[[0,1],[2,2],[0,3]]],"expected":[2,4,64]},{"input":[2,[[0,0]]],"expected":[2]}]}

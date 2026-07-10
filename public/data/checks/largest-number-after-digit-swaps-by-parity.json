@@ -1,0 +1,1 @@
+{"fnName":"largestInteger","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1234],"expected":3412},{"input":[65875],"expected":87655}]}

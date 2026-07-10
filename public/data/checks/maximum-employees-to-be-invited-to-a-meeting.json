@@ -1,0 +1,1 @@
+{"fnName":"maximumInvitations","params":[{"name":"favorite","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,1,2]],"expected":3},{"input":[[1,2,0]],"expected":3},{"input":[[3,0,1,4,1]],"expected":4}]}

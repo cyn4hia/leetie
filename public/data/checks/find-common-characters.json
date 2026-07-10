@@ -1,0 +1,1 @@
+{"fnName":"commonChars","params":[{"name":"words","type":"string[]"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":[["bella","label","roller"]],"expected":["e","l","l"]},{"input":[["cool","lock","cook"]],"expected":["c","o"]}]}

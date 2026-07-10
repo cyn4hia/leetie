@@ -1,0 +1,1 @@
+{"fnName":"countCompleteDayPairs","params":[{"name":"hours","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[12,12,30,24,24]],"expected":2},{"input":[[72,48,24,3]],"expected":3}]}

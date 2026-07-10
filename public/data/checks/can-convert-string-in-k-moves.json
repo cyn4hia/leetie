@@ -1,0 +1,1 @@
+{"fnName":"canConvertString","params":[{"name":"s","type":"string"},{"name":"t","type":"string"},{"name":"k","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["input","ouput",9],"expected":true},{"input":["abc","bcd",10],"expected":false},{"input":["aab","bbb",27],"expected":true}]}

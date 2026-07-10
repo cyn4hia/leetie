@@ -1,0 +1,1 @@
+{"fnName":"minCost","params":[{"name":"s","type":"string"},{"name":"cost","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["aabaac",[1,2,3,4,1,10]],"expected":11},{"input":["abc",[10,5,8]],"expected":13},{"input":["zzzzz",[67,67,67,67,67]],"expected":0}]}

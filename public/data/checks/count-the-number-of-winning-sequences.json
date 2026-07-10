@@ -1,0 +1,1 @@
+{"fnName":"countWinningSequences","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["FFF"],"expected":3},{"input":["FWEFW"],"expected":18}]}

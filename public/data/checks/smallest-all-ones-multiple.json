@@ -1,0 +1,1 @@
+{"fnName":"minAllOneMultiple","params":[{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3],"expected":3},{"input":[7],"expected":6},{"input":[2],"expected":-1}]}

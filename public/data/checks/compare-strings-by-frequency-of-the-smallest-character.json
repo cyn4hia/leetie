@@ -1,0 +1,1 @@
+{"fnName":"numSmallerByFrequency","params":[{"name":"queries","type":"string[]"},{"name":"words","type":"string[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["cbd"],["zaaaz"]],"expected":[1]},{"input":[["bbb","cc"],["a","aa","aaa","aaaa"]],"expected":[1,2]}]}

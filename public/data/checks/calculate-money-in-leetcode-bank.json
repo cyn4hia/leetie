@@ -1,0 +1,1 @@
+{"fnName":"totalMoney","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4],"expected":10},{"input":[10],"expected":37},{"input":[20],"expected":96}]}

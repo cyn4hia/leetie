@@ -1,0 +1,1 @@
+{"fnName":"getMinDistance","params":[{"name":"nums","type":"integer[]"},{"name":"target","type":"integer"},{"name":"start","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5],5,3],"expected":1},{"input":[[1],1,0],"expected":0},{"input":[[5,3,6],5,2],"expected":0}]}

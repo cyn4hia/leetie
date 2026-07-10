@@ -1,0 +1,1 @@
+{"fnName":"strangePrinter","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aaabbb"],"expected":2},{"input":["aba"],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"countAsterisks","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["l|*e*et|c**o|*de|"],"expected":2},{"input":["iamprogrammer"],"expected":0},{"input":["yo|uar|e**|b|e***au|tifu|l"],"expected":5}]}

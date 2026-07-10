@@ -1,0 +1,1 @@
+{"fnName":"findTheLongestBalancedSubstring","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["01000111"],"expected":6},{"input":["00111"],"expected":4},{"input":["111"],"expected":0}]}

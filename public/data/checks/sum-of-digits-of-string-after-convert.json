@@ -1,0 +1,1 @@
+{"fnName":"getLucky","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["iiii",1],"expected":36},{"input":["leetcode",2],"expected":6},{"input":["zbax",2],"expected":8}]}

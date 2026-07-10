@@ -1,0 +1,1 @@
+{"fnName":"missingNumber","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,0,1]],"expected":2},{"input":[[0,1]],"expected":2},{"input":[[9,6,4,2,3,5,7,0,1]],"expected":8}]}

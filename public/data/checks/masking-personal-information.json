@@ -1,0 +1,1 @@
+{"fnName":"maskPII","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["LeetCode@LeetCode.com"],"expected":"l*****e@leetcode.com"},{"input":["AB@qq.com"],"expected":"a*****b@qq.com"},{"input":["1(234)567-890"],"expected":"***-***-7890"}]}

@@ -1,0 +1,1 @@
+{"fnName":"clearDigits","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":"abc"},{"input":["cb34"],"expected":""}]}

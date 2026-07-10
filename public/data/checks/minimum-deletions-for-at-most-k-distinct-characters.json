@@ -1,0 +1,1 @@
+{"fnName":"minDeletion","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc",2],"expected":1},{"input":["aabb",2],"expected":0},{"input":["yyyzz",1],"expected":2}]}

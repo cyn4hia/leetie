@@ -1,0 +1,1 @@
+{"fnName":"sumAndMultiply","params":[{"name":"n","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[10203004],"expected":12340},{"input":[1000],"expected":1}]}

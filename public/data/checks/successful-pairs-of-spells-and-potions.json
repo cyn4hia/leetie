@@ -1,0 +1,1 @@
+{"fnName":"successfulPairs","params":[{"name":"spells","type":"integer[]"},{"name":"potions","type":"integer[]"},{"name":"success","type":"long"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[5,1,3],[1,2,3,4,5],7],"expected":[4,0,3]},{"input":[[3,1,2],[8,5,8],16],"expected":[2,0,2]}]}

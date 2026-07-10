@@ -1,0 +1,1 @@
+{"fnName":"maxProfit","params":[{"name":"prices","type":"integer[]"},{"name":"strategy","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,8],[-1,0,1],2],"expected":10},{"input":[[5,4,3],[1,1,0],2],"expected":9}]}

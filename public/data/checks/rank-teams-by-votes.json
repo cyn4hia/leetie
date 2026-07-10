@@ -1,0 +1,1 @@
+{"fnName":"rankTeams","params":[{"name":"votes","type":"string[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[["ABC","ACB","ABC","ACB","ACB"]],"expected":"ACB"},{"input":[["WXYZ","XYZW"]],"expected":"XWYZ"},{"input":[["ZMNAGUEDSJYLBOPHRQICWFXTVK"]],"expected":"ZMNAGUEDSJYLBOPHRQICWFXTVK"}]}

@@ -1,0 +1,1 @@
+{"fnName":"getAllElements","params":[{"name":"root1","type":"TreeNode"},{"name":"root2","type":"TreeNode"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[2,1,4],[1,0,3]],"expected":[0,1,1,2,3,4]},{"input":[[1,null,8],[8,1]],"expected":[1,1,8,8]}]}

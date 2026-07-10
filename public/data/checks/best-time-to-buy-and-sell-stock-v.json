@@ -1,0 +1,1 @@
+{"fnName":"maximumProfit","params":[{"name":"prices","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[1,7,9,8,2],2],"expected":14},{"input":[[12,16,19,19,8,1,19,13,9],3],"expected":36}]}

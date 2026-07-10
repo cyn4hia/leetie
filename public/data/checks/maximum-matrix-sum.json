@@ -1,0 +1,1 @@
+{"fnName":"maxMatrixSum","params":[{"name":"matrix","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[[1,-1],[-1,1]]],"expected":4},{"input":[[[1,2,3],[-1,-2,-3],[1,2,3]]],"expected":16}]}

@@ -1,0 +1,1 @@
+{"fnName":"goodIntegers","params":[{"name":"l","type":"long"},{"name":"r","type":"long"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[10,15,1],"expected":3},{"input":[201,204,2],"expected":2}]}

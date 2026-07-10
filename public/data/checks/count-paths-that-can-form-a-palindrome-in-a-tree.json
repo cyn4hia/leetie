@@ -1,0 +1,1 @@
+{"fnName":"countPalindromePaths","params":[{"name":"parent","type":"list<integer>"},{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[-1,0,0,1,1,2],"acaabc"],"expected":8},{"input":[[-1,0,0,0,0],"aaaaa"],"expected":10}]}

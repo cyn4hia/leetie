@@ -1,0 +1,1 @@
+{"fnName":"maximumPrimeDifference","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,9,5,3]],"expected":3},{"input":[[4,8,2,8]],"expected":0}]}

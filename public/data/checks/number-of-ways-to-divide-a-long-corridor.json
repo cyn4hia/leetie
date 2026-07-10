@@ -1,0 +1,1 @@
+{"fnName":"numberOfWays","params":[{"name":"corridor","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["SSPPSPS"],"expected":3},{"input":["PPSPSP"],"expected":1},{"input":["S"],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"numberOfWays","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["001101"],"expected":6},{"input":["11100"],"expected":0}]}

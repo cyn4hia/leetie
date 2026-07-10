@@ -1,0 +1,1 @@
+{"fnName":"partitionDisjoint","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,0,3,8,6]],"expected":3},{"input":[[1,1,1,0,6,12]],"expected":4}]}

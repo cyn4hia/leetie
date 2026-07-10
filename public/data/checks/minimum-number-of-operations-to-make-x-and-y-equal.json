@@ -1,0 +1,1 @@
+{"fnName":"minimumOperationsToMakeEqual","params":[{"name":"x","type":"integer"},{"name":"y","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[26,1],"expected":3},{"input":[54,2],"expected":4},{"input":[25,30],"expected":5}]}

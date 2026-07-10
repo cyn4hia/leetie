@@ -1,0 +1,1 @@
+{"fnName":"addDigits","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[38],"expected":2},{"input":[0],"expected":0}]}

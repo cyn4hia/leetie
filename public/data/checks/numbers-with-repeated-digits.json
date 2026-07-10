@@ -1,0 +1,1 @@
+{"fnName":"numDupDigitsAtMostN","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[20],"expected":1},{"input":[100],"expected":10},{"input":[1000],"expected":262}]}

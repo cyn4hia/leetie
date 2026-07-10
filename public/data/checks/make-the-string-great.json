@@ -1,0 +1,1 @@
+{"fnName":"makeGood","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leEeetcode"],"expected":"leetcode"},{"input":["abBAcC"],"expected":""},{"input":["s"],"expected":"s"}]}

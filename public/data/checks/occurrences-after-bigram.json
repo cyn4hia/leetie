@@ -1,0 +1,1 @@
+{"fnName":"findOcurrences","params":[{"name":"text","type":"string"},{"name":"first","type":"string"},{"name":"second","type":"string"}],"returnType":"string[]","outputParam":null,"compare":"exact","tests":[{"input":["alice is a good girl she is a good student","a","good"],"expected":["girl","student"]},{"input":["we will we will rock you","we","will"],"expected":["we","rock"]}]}

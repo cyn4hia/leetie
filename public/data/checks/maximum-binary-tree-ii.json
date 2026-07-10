@@ -1,0 +1,1 @@
+{"fnName":"insertIntoMaxTree","params":[{"name":"root","type":"TreeNode"},{"name":"val","type":"integer"}],"returnType":"TreeNode","outputParam":null,"compare":"exact","tests":[{"input":[[4,1,3,null,null,2],5],"expected":[5,4,null,1,3,null,null,2]},{"input":[[5,2,4,null,1],3],"expected":[5,2,4,null,1,null,3]},{"input":[[5,2,3,null,1],4],"expected":[5,2,4,null,1,3]}]}

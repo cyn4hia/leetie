@@ -1,0 +1,1 @@
+{"fnName":"minimumOperations","params":[{"name":"num","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["2245047"],"expected":2},{"input":["2908305"],"expected":3},{"input":["10"],"expected":1}]}

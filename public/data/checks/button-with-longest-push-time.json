@@ -1,0 +1,1 @@
+{"fnName":"buttonWithLongestTime","params":[{"name":"events","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[2,5],[3,9],[1,15]]],"expected":1},{"input":[[[10,5],[1,7]]],"expected":10}]}

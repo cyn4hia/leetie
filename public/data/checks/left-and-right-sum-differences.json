@@ -1,0 +1,1 @@
+{"fnName":"leftRightDifference","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[10,4,8,3]],"expected":[15,1,11,22]},{"input":[[1]],"expected":[0]}]}

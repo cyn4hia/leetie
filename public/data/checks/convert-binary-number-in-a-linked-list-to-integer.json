@@ -1,0 +1,1 @@
+{"fnName":"getDecimalValue","params":[{"name":"head","type":"ListNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,1]],"expected":5},{"input":[[0]],"expected":0}]}

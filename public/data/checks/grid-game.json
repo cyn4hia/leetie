@@ -1,0 +1,1 @@
+{"fnName":"gridGame","params":[{"name":"grid","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[[2,5,4],[1,5,1]]],"expected":4},{"input":[[[3,3,1],[8,5,2]]],"expected":4},{"input":[[[1,3,1,15],[1,3,3,1]]],"expected":7}]}

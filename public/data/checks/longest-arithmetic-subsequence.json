@@ -1,0 +1,1 @@
+{"fnName":"longestArithSeqLength","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,6,9,12]],"expected":4},{"input":[[9,4,7,2,10]],"expected":3},{"input":[[20,1,15,3,10,5,8]],"expected":4}]}

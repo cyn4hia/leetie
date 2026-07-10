@@ -1,0 +1,1 @@
+{"fnName":"uniqueLetterString","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ABC"],"expected":10},{"input":["ABA"],"expected":8},{"input":["LEETCODE"],"expected":92}]}

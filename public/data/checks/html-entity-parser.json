@@ -1,0 +1,1 @@
+{"fnName":"entityParser","params":[{"name":"text","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["&amp; is an HTML entity but &ambassador; is not."],"expected":"& is an HTML entity but &ambassador; is not."},{"input":["and I quote: &quot;...&quot;"],"expected":"and I quote: \"...\""}]}

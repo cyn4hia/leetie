@@ -1,0 +1,1 @@
+{"fnName":"maximumAmount","params":[{"name":"coins","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1,-1],[1,-2,3],[2,-3,4]]],"expected":8},{"input":[[[10,10,10],[10,10,10]]],"expected":40}]}

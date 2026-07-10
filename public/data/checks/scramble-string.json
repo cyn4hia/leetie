@@ -1,0 +1,1 @@
+{"fnName":"isScramble","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["great","rgeat"],"expected":true},{"input":["abcde","caebd"],"expected":false},{"input":["a","a"],"expected":true}]}

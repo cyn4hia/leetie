@@ -1,0 +1,1 @@
+{"fnName":"closestPrimes","params":[{"name":"left","type":"integer"},{"name":"right","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[10,19],"expected":[11,13]},{"input":[4,6],"expected":[-1,-1]}]}

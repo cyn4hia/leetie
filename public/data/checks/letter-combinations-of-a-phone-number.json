@@ -1,0 +1,1 @@
+{"fnName":"letterCombinations","params":[{"name":"digits","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":["23"],"expected":["ad","ae","af","bd","be","bf","cd","ce","cf"]},{"input":["2"],"expected":["a","b","c"]}]}

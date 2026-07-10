@@ -1,0 +1,1 @@
+{"fnName":"countKeyChanges","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aAbBcC"],"expected":2},{"input":["AaAaAaaA"],"expected":0}]}

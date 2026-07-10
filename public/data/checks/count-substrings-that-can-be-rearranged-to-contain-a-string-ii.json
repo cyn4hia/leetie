@@ -1,0 +1,1 @@
+{"fnName":"validSubstringCount","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["bcca","abc"],"expected":1},{"input":["abcabc","abc"],"expected":10},{"input":["abcabc","aaabc"],"expected":0}]}

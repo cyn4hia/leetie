@@ -1,0 +1,1 @@
+{"fnName":"countKthRoots","params":[{"name":"l","type":"integer"},{"name":"r","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,9,3],"expected":2},{"input":[8,30,2],"expected":3}]}

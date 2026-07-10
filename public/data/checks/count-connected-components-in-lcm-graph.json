@@ -1,0 +1,1 @@
+{"fnName":"countComponents","params":[{"name":"nums","type":"integer[]"},{"name":"threshold","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,4,8,3,9],5],"expected":4},{"input":[[2,4,8,3,9,12],10],"expected":2}]}

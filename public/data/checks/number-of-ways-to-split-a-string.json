@@ -1,0 +1,1 @@
+{"fnName":"numWays","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["10101"],"expected":4},{"input":["1001"],"expected":0},{"input":["0000"],"expected":3}]}

@@ -1,0 +1,1 @@
+{"fnName":"removeElement","params":[{"name":"nums","type":"integer[]"},{"name":"val","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,2,2,3],3],"expected":2},{"input":[[0,1,2,2,3,0,4,2],2],"expected":5}]}

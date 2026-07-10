@@ -1,0 +1,1 @@
+{"fnName":"oddString","params":[{"name":"words","type":"string[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[["adc","wzy","abc"]],"expected":"abc"},{"input":[["aaa","bob","ccc","ddd"]],"expected":"bob"}]}

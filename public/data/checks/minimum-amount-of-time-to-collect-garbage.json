@@ -1,0 +1,1 @@
+{"fnName":"garbageCollection","params":[{"name":"garbage","type":"string[]"},{"name":"travel","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["G","P","GP","GG"],[2,4,3]],"expected":21},{"input":[["MMM","PGM","GP"],[3,10]],"expected":37}]}

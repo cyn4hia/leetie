@@ -1,0 +1,1 @@
+{"fnName":"constructMaximumBinaryTree","params":[{"name":"nums","type":"integer[]"}],"returnType":"TreeNode","outputParam":null,"compare":"exact","tests":[{"input":[[3,2,1,6,0,5]],"expected":[6,3,5,null,2,0,null,null,1]},{"input":[[3,2,1]],"expected":[3,null,2,null,1]}]}

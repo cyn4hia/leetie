@@ -1,0 +1,1 @@
+{"fnName":"firstMissingPositive","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,0]],"expected":3},{"input":[[3,4,-1,1]],"expected":2},{"input":[[7,8,9,11,12]],"expected":1}]}

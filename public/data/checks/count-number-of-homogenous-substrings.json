@@ -1,0 +1,1 @@
+{"fnName":"countHomogenous","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abbcccaa"],"expected":13},{"input":["xy"],"expected":2},{"input":["zzzzz"],"expected":15}]}

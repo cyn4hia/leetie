@@ -1,0 +1,1 @@
+{"fnName":"numberOfArithmeticSlices","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,4,6,8,10]],"expected":7},{"input":[[7,7,7,7,7]],"expected":16}]}

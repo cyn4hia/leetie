@@ -1,0 +1,1 @@
+{"fnName":"calculate","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["1 + 1"],"expected":2},{"input":[" 2-1 + 2 "],"expected":3},{"input":["(1+(4+5+2)-3)+(6+8)"],"expected":23}]}

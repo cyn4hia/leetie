@@ -1,0 +1,1 @@
+{"fnName":"longestNiceSubstring","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["YazaAay"],"expected":"aAa"},{"input":["Bb"],"expected":"Bb"},{"input":["c"],"expected":""}]}

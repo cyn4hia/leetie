@@ -1,0 +1,1 @@
+{"fnName":"distinctPoints","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["LUL",1],"expected":2},{"input":["UDLR",4],"expected":1},{"input":["UU",1],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"findBestValue","params":[{"name":"arr","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,9,3],10],"expected":3},{"input":[[2,3,5],10],"expected":5},{"input":[[60864,25176,27249,21296,20204],56803],"expected":11361}]}

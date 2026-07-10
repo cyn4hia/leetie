@@ -1,0 +1,1 @@
+{"fnName":"mostFrequentEven","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,2,4,4,1]],"expected":2},{"input":[[4,4,4,9,2,4]],"expected":4},{"input":[[29,47,21,41,13,37,25,7]],"expected":-1}]}

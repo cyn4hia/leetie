@@ -1,0 +1,1 @@
+{"fnName":"makeIntegerBeautiful","params":[{"name":"n","type":"long"},{"name":"target","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[16,6],"expected":4},{"input":[467,6],"expected":33},{"input":[1,1],"expected":0}]}

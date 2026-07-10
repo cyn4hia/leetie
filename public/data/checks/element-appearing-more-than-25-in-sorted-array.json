@@ -1,0 +1,1 @@
+{"fnName":"findSpecialInteger","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,2,6,6,6,6,7,10]],"expected":6},{"input":[[1,1]],"expected":1}]}

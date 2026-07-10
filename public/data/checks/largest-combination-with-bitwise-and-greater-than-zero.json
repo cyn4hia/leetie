@@ -1,0 +1,1 @@
+{"fnName":"largestCombination","params":[{"name":"candidates","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[16,17,71,62,12,24,14]],"expected":4},{"input":[[8,8]],"expected":2}]}

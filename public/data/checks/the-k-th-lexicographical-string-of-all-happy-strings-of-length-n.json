@@ -1,0 +1,1 @@
+{"fnName":"getHappyString","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[1,3],"expected":"c"},{"input":[1,4],"expected":""},{"input":[3,9],"expected":"cab"}]}

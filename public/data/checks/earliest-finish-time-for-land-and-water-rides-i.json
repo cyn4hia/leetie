@@ -1,0 +1,1 @@
+{"fnName":"earliestFinishTime","params":[{"name":"landStartTime","type":"integer[]"},{"name":"landDuration","type":"integer[]"},{"name":"waterStartTime","type":"integer[]"},{"name":"waterDuration","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,8],[4,1],[6],[3]],"expected":9},{"input":[[5],[3],[1],[10]],"expected":14}]}

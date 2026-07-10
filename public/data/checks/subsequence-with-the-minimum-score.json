@@ -1,0 +1,1 @@
+{"fnName":"minimumScore","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abacaba","bzaa"],"expected":1},{"input":["cde","xyz"],"expected":3}]}

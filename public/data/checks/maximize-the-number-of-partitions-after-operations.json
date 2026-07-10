@@ -1,0 +1,1 @@
+{"fnName":"maxPartitionsAfterOperations","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["accca",2],"expected":3},{"input":["aabaab",3],"expected":1},{"input":["xxyz",1],"expected":4}]}

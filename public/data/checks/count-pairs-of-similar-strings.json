@@ -1,0 +1,1 @@
+{"fnName":"similarPairs","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["aba","aabb","abcd","bac","aabc"]],"expected":2},{"input":[["aabb","ab","ba"]],"expected":3},{"input":[["nba","cba","dba"]],"expected":0}]}

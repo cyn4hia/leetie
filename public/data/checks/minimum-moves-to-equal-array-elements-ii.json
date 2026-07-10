@@ -1,0 +1,1 @@
+{"fnName":"minMoves2","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":2},{"input":[[1,10,2,9]],"expected":16}]}

@@ -1,0 +1,1 @@
+{"fnName":"palindromePartition","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc",2],"expected":1},{"input":["aabbc",3],"expected":0},{"input":["leetcode",8],"expected":0}]}

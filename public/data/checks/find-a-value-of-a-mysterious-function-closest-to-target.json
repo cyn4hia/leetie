@@ -1,0 +1,1 @@
+{"fnName":"closestToTarget","params":[{"name":"arr","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[9,12,3,7,15],5],"expected":2},{"input":[[1000000,1000000,1000000],1],"expected":999999},{"input":[[1,2,4,8,16],0],"expected":0}]}

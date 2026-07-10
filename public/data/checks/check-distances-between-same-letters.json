@@ -1,0 +1,1 @@
+{"fnName":"checkDistances","params":[{"name":"s","type":"string"},{"name":"distance","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abaccb",[1,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]],"expected":true},{"input":["aa",[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]],"expected":false}]}

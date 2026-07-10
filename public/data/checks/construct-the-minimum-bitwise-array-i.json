@@ -1,0 +1,1 @@
+{"fnName":"minBitwiseArray","params":[{"name":"nums","type":"list<integer>"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,5,7]],"expected":[-1,1,4,3]},{"input":[[11,13,31]],"expected":[9,12,15]}]}

@@ -1,0 +1,1 @@
+{"fnName":"mirrorDistance","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[25],"expected":27},{"input":[10],"expected":9},{"input":[7],"expected":0}]}

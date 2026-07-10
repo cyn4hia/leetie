@@ -1,0 +1,1 @@
+{"fnName":"dominantIndices","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,3]],"expected":2},{"input":[[4,1,2]],"expected":1}]}

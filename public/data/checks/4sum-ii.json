@@ -1,0 +1,1 @@
+{"fnName":"fourSumCount","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"},{"name":"nums3","type":"integer[]"},{"name":"nums4","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2],[-2,-1],[-1,2],[0,2]],"expected":2},{"input":[[0],[0],[0],[0]],"expected":1}]}

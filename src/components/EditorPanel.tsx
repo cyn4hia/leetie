@@ -2,13 +2,13 @@ import { useEffect, useRef, useState } from 'react'
 import Editor from '@monaco-editor/react'
 import { useLeetie, codeKey } from '../store'
 import { curatedBySlug } from '../data/problems'
-import { loadContent } from '../lib/catalog'
+import { loadChecks, loadContent } from '../lib/catalog'
 import { runTests, warmupPython } from '../runners/runner'
 import { computeGrade } from '../lib/grade'
 import { bridgeSupported, pickFile, watchFile, writeToFile } from '../lib/vscodeBridge'
 import { RetroWindow } from './RetroWindow'
 import { ResultsPanel } from './ResultsPanel'
-import type { Lang } from '../types'
+import type { GeneratedChecks, Lang } from '../types'
 
 interface EditorLike {
   getValue(): string
@@ -93,6 +93,7 @@ export function EditorPanel() {
 
   const [remoteStarter, setRemoteStarter] = useState<string | null>(null)
   const [starterReady, setStarterReady] = useState(false)
+  const [checks, setChecks] = useState<GeneratedChecks | null>(null)
 
   const [linkedName, setLinkedName] = useState<string | null>(null)
   const handleRef = useRef<FileSystemFileHandle | null>(null)
@@ -126,6 +127,19 @@ export function EditorPanel() {
     }
   }, [slug, lang, curated])
 
+  // auto-generated checks for non-curated problems
+  useEffect(() => {
+    setChecks(null)
+    if (curated) return
+    let alive = true
+    loadChecks(slug).then((c) => {
+      if (alive) setChecks(c)
+    })
+    return () => {
+      alive = false
+    }
+  }, [slug, curated])
+
   // pre-warm the python runtime as soon as python is selected
   useEffect(() => {
     if (lang === 'python' && pyStatus === 'off') {
@@ -149,21 +163,32 @@ export function EditorPanel() {
     const code = editorRef.current?.getValue() ?? initial
     setResult(null, null)
     setRunning(true)
-    const tests = curated ? (kind === 'run' ? curated.tests.slice(0, 3) : curated.tests) : []
+    const tests = curated
+      ? kind === 'run'
+        ? curated.tests.slice(0, 3)
+        : curated.tests
+      : (checks?.tests ?? [])
     const result = await runTests({
       lang,
       code,
-      fnName: curated ? (lang === 'python' ? curated.pyFnName : curated.fnName) : '',
+      fnName: curated
+        ? lang === 'python'
+          ? curated.pyFnName
+          : curated.fnName
+        : (checks?.fnName ?? ''),
       tests,
-      compare: curated?.compare ?? 'exact',
+      compare: curated?.compare ?? checks?.compare ?? 'exact',
+      paramTypes: !curated && checks ? checks.params.map((p) => p.type) : null,
+      returnType: !curated ? (checks?.returnType ?? null) : null,
+      outputParam: !curated ? (checks?.outputParam ?? null) : null,
     })
     setRunning(false)
     setResult(result, kind)
-    if (curated && kind === 'submit') {
+    if (kind === 'submit' && (curated || checks)) {
       const grade = computeGrade(result)
       if (grade) {
         recordSolve(slug, grade, lang)
-        reveal(slug)
+        if (curated) reveal(slug)
         pokeCat('celebrate')
       } else {
         pokeCat('sad')
@@ -230,8 +255,14 @@ export function EditorPanel() {
         <button
           className="btn good"
           onClick={() => handleRun('submit')}
-          disabled={running || !curated}
-          title={curated ? 'run the full test suite + grade' : 'no bundled tests for this problem (gradable ones have a ★)'}
+          disabled={running || (!curated && !checks)}
+          title={
+            curated
+              ? 'run the full test suite + grade'
+              : checks
+                ? `run ${checks.tests.length} checks generated from the problem's examples + grade`
+                : 'no checks available for this problem (gradable ones have a ★ or ☆)'
+          }
         >
           ✓ submit
         </button>
@@ -240,6 +271,15 @@ export function EditorPanel() {
         </button>
 
         <div className="toolbar-spacer" />
+
+        {!curated && checks && (
+          <span
+            className="py-status"
+            title="checks parsed from the problem's own examples — passing them ≠ a full LeetCode accept, but it's a great signal"
+          >
+            ☆ {checks.tests.length} example checks
+          </span>
+        )}
 
         {lang === 'python' && pyStatus !== 'off' && (
           <span className={`py-status ${pyStatus === 'ready' ? 'ready' : ''}`}>

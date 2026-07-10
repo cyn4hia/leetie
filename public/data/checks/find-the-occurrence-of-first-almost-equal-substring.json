@@ -1,0 +1,1 @@
+{"fnName":"minStartingIndex","params":[{"name":"s","type":"string"},{"name":"pattern","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcdefg","bcdffg"],"expected":1},{"input":["ababbababa","bacaba"],"expected":4},{"input":["abcd","dba"],"expected":-1},{"input":["dde","d"],"expected":0}]}

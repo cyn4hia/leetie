@@ -1,0 +1,1 @@
+{"fnName":"isBalanced","params":[{"name":"num","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["1234"],"expected":false},{"input":["24123"],"expected":true}]}

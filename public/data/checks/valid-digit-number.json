@@ -1,0 +1,1 @@
+{"fnName":"validDigit","params":[{"name":"n","type":"integer"},{"name":"x","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[101,0],"expected":true},{"input":[232,2],"expected":false},{"input":[5,1],"expected":false}]}

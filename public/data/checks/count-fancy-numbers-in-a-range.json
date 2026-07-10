@@ -1,0 +1,1 @@
+{"fnName":"countFancy","params":[{"name":"l","type":"long"},{"name":"r","type":"long"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[8,10],"expected":3},{"input":[12340,12341],"expected":1},{"input":[123456788,123456788],"expected":0}]}

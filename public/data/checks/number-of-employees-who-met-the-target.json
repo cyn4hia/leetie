@@ -1,0 +1,1 @@
+{"fnName":"numberOfEmployeesWhoMetTarget","params":[{"name":"hours","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,3,4],2],"expected":3},{"input":[[5,1,4,2,2],6],"expected":0}]}

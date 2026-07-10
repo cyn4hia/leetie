@@ -1,0 +1,1 @@
+{"fnName":"largestVariance","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aababbb"],"expected":3},{"input":["abcde"],"expected":0}]}

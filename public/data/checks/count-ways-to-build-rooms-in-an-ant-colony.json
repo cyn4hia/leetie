@@ -1,0 +1,1 @@
+{"fnName":"waysToBuildRooms","params":[{"name":"prevRoom","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-1,0,1]],"expected":1},{"input":[[-1,0,0,1,2]],"expected":6}]}

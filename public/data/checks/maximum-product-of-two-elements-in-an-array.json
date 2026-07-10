@@ -1,0 +1,1 @@
+{"fnName":"maxProduct","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,4,5,2]],"expected":12},{"input":[[1,5,4,5]],"expected":16},{"input":[[3,7]],"expected":12}]}

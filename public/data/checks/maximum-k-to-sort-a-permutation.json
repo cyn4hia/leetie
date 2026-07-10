@@ -1,0 +1,1 @@
+{"fnName":"sortPermutation","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,3,2,1]],"expected":1},{"input":[[0,1,3,2]],"expected":2},{"input":[[3,2,1,0]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"maxKDistinct","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[84,93,100,77,90],3],"expected":[100,93,90]},{"input":[[84,93,100,77,93],3],"expected":[100,93,84]},{"input":[[1,1,1,2,2,2],6],"expected":[2,1]}]}

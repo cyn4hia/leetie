@@ -1,0 +1,1 @@
+{"fnName":"maxDifference","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aaaaabbc"],"expected":3},{"input":["abcabcab"],"expected":1}]}

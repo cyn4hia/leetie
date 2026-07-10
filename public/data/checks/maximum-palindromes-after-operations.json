@@ -1,0 +1,1 @@
+{"fnName":"maxPalindromesAfterOperations","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["abbb","ba","aa"]],"expected":3},{"input":[["abc","ab"]],"expected":2},{"input":[["cd","ef","a"]],"expected":1}]}

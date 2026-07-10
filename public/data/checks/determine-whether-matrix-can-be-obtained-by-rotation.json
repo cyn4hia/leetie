@@ -1,0 +1,1 @@
+{"fnName":"findRotation","params":[{"name":"mat","type":"integer[][]"},{"name":"target","type":"integer[][]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[1,0]],[[1,0],[0,1]]],"expected":true},{"input":[[[0,1],[1,1]],[[1,0],[0,1]]],"expected":false},{"input":[[[0,0,0],[0,1,0],[1,1,1]],[[1,1,1],[0,1,0],[0,0,0]]],"expected":true}]}

@@ -1,0 +1,1 @@
+{"fnName":"divisorSubstrings","params":[{"name":"num","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[240,2],"expected":2},{"input":[430043,2],"expected":2}]}

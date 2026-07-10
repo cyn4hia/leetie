@@ -1,0 +1,1 @@
+{"fnName":"getSmallestString","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[3,27],"expected":"aay"},{"input":[5,73],"expected":"aaszz"}]}

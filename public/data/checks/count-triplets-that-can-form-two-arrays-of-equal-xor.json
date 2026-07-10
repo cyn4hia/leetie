@@ -1,0 +1,1 @@
+{"fnName":"countTriplets","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,1,6,7]],"expected":4},{"input":[[1,1,1,1,1]],"expected":10}]}

@@ -1,0 +1,1 @@
+{"fnName":"maximumCostSubstring","params":[{"name":"s","type":"string"},{"name":"chars","type":"string"},{"name":"vals","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["adaa","d",[-1000]],"expected":2},{"input":["abc","abc",[-1,-1,-1]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"pathSum","params":[{"name":"root","type":"TreeNode"},{"name":"targetSum","type":"integer"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,8,11,null,13,4,7,2,null,null,5,1],22],"expected":[[5,4,11,2],[5,8,4,5]]},{"input":[[1,2,3],5],"expected":[]},{"input":[[1,2],0],"expected":[]}]}

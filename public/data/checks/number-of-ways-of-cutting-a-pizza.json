@@ -1,0 +1,1 @@
+{"fnName":"ways","params":[{"name":"pizza","type":"string[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["A..","AAA","..."],3],"expected":3},{"input":[["A..","AA.","..."],3],"expected":1},{"input":[["A..","A..","..."],1],"expected":1}]}

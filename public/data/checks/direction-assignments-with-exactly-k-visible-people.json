@@ -1,0 +1,1 @@
+{"fnName":"countVisiblePeople","params":[{"name":"n","type":"integer"},{"name":"pos","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,1,0],"expected":2},{"input":[3,2,1],"expected":4},{"input":[1,0,0],"expected":2}]}

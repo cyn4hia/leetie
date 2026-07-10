@@ -1,0 +1,1 @@
+{"fnName":"scoreOfStudents","params":[{"name":"s","type":"string"},{"name":"answers","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["7+3*1*2",[20,13,42]],"expected":7},{"input":["3+5*2",[13,0,10,13,13,16,16]],"expected":19},{"input":["6+0*1",[12,9,6,4,8,6]],"expected":10}]}

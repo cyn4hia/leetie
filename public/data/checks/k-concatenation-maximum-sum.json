@@ -1,0 +1,1 @@
+{"fnName":"kConcatenationMaxSum","params":[{"name":"arr","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2],3],"expected":9},{"input":[[1,-2,1],5],"expected":2},{"input":[[-1,-2],7],"expected":0}]}

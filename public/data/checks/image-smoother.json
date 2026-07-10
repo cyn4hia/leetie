@@ -1,0 +1,1 @@
+{"fnName":"imageSmoother","params":[{"name":"img","type":"integer[][]"}],"returnType":"integer[][]","outputParam":null,"compare":"exact","tests":[{"input":[[[1,1,1],[1,0,1],[1,1,1]]],"expected":[[0,0,0],[0,0,0],[0,0,0]]},{"input":[[[100,200,100],[200,50,200],[100,200,100]]],"expected":[[137,141,137],[141,138,141],[137,141,137]]}]}

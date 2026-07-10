@@ -1,0 +1,1 @@
+{"fnName":"largestMerge","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["cabaa","bcaaa"],"expected":"cbcabaaaaa"},{"input":["abcabc","abdcaba"],"expected":"abdcabcabcaba"}]}

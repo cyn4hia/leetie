@@ -1,0 +1,1 @@
+{"fnName":"minTime","params":[{"name":"s","type":"string"},{"name":"order","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc",[1,0,2],2],"expected":0},{"input":["cat",[0,2,1],6],"expected":2},{"input":["xy",[0,1],4],"expected":-1}]}

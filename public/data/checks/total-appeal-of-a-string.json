@@ -1,0 +1,1 @@
+{"fnName":"appealSum","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["abbca"],"expected":28},{"input":["code"],"expected":20}]}

@@ -1,0 +1,1 @@
+{"fnName":"idealArrays","params":[{"name":"n","type":"integer"},{"name":"maxValue","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,5],"expected":10},{"input":[5,3],"expected":11}]}

@@ -1,0 +1,1 @@
+{"fnName":"eatenApples","params":[{"name":"apples","type":"integer[]"},{"name":"days","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,5,2],[3,2,1,4,2]],"expected":7},{"input":[[3,0,0,0,0,2],[3,0,0,0,0,2]],"expected":5}]}

@@ -1,0 +1,1 @@
+{"fnName":"getSumAbsoluteDifferences","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,5]],"expected":[4,3,5]},{"input":[[1,4,6,8,10]],"expected":[24,15,13,15,21]}]}

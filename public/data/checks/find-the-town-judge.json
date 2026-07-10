@@ -1,0 +1,1 @@
+{"fnName":"findJudge","params":[{"name":"n","type":"integer"},{"name":"trust","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,[[1,2]]],"expected":2},{"input":[3,[[1,3],[2,3]]],"expected":3},{"input":[3,[[1,3],[2,3],[3,1]]],"expected":-1}]}

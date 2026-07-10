@@ -1,0 +1,1 @@
+{"fnName":"mergeCharacters","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abca",3],"expected":"abc"},{"input":["aabca",2],"expected":"abca"},{"input":["yybyzybz",2],"expected":"ybzybz"}]}

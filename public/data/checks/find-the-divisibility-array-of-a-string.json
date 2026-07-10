@@ -1,0 +1,1 @@
+{"fnName":"divisibilityArray","params":[{"name":"word","type":"string"},{"name":"m","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":["998244353",3],"expected":[1,1,0,0,0,1,1,0,0]},{"input":["1010",10],"expected":[0,1,0,1]}]}

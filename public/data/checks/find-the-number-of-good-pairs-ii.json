@@ -1,0 +1,1 @@
+{"fnName":"numberOfPairs","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,4],[1,3,4],1],"expected":5},{"input":[[1,2,4,12],[2,4],3],"expected":2}]}

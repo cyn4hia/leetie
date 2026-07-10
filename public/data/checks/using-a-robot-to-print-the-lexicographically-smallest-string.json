@@ -1,0 +1,1 @@
+{"fnName":"robotWithString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["zza"],"expected":"azz"},{"input":["bac"],"expected":"abc"},{"input":["bdda"],"expected":"addb"}]}

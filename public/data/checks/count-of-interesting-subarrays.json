@@ -1,0 +1,1 @@
+{"fnName":"countInterestingSubarrays","params":[{"name":"nums","type":"list<integer>"},{"name":"modulo","type":"integer"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[3,2,4],2,1],"expected":3},{"input":[[3,1,9,6],3,0],"expected":2}]}

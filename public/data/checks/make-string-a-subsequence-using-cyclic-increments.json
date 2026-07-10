@@ -1,0 +1,1 @@
+{"fnName":"canMakeSubsequence","params":[{"name":"str1","type":"string"},{"name":"str2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abc","ad"],"expected":true},{"input":["zc","ad"],"expected":true},{"input":["ab","d"],"expected":false}]}

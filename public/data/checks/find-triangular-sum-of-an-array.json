@@ -1,0 +1,1 @@
+{"fnName":"triangularSum","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5]],"expected":8},{"input":[[5]],"expected":5}]}

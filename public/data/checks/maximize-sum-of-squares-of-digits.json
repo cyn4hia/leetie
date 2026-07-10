@@ -1,0 +1,1 @@
+{"fnName":"maxSumOfSquares","params":[{"name":"num","type":"integer"},{"name":"sum","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[2,3],"expected":"30"},{"input":[2,17],"expected":"98"},{"input":[1,10],"expected":""}]}

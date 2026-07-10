@@ -1,0 +1,1 @@
+{"fnName":"findPoisonedDuration","params":[{"name":"timeSeries","type":"integer[]"},{"name":"duration","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,4],2],"expected":4},{"input":[[1,2],2],"expected":3}]}

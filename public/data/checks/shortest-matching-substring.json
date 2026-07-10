@@ -1,0 +1,1 @@
+{"fnName":"shortestMatchingSubstring","params":[{"name":"s","type":"string"},{"name":"p","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abaacbaecebce","ba*c*ce"],"expected":8},{"input":["baccbaadbc","cc*baa*adb"],"expected":-1},{"input":["a","**"],"expected":0},{"input":["madlogic","*adlogi*"],"expected":6}]}

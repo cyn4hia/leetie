@@ -1,0 +1,1 @@
+{"fnName":"maximum69Number ","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[9669],"expected":9969},{"input":[9996],"expected":9999},{"input":[9999],"expected":9999}]}

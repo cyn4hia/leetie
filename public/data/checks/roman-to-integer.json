@@ -1,0 +1,1 @@
+{"fnName":"romanToInt","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["III"],"expected":3},{"input":["LVIII"],"expected":58},{"input":["MCMXCIV"],"expected":1994}]}

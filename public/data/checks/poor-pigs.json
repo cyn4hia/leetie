@@ -1,0 +1,1 @@
+{"fnName":"poorPigs","params":[{"name":"buckets","type":"integer"},{"name":"minutesToDie","type":"integer"},{"name":"minutesToTest","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4,15,15],"expected":2},{"input":[4,15,30],"expected":2}]}

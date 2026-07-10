@@ -1,0 +1,1 @@
+{"fnName":"numberOfBeams","params":[{"name":"bank","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["011001","000000","010100","001000"]],"expected":8},{"input":[["000","111","000"]],"expected":0}]}

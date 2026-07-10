@@ -1,0 +1,1 @@
+{"fnName":"reverseWords","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["the sky is blue"],"expected":"blue is sky the"},{"input":["  hello world  "],"expected":"world hello"},{"input":["a good   example"],"expected":"example good a"}]}

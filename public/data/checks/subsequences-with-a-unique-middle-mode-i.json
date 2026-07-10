@@ -1,0 +1,1 @@
+{"fnName":"subsequencesWithMiddleMode","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1,1,1,1]],"expected":6},{"input":[[1,2,2,3,3,4]],"expected":4},{"input":[[0,1,2,3,4,5,6,7,8]],"expected":0}]}

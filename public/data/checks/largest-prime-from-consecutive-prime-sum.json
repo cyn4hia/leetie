@@ -1,0 +1,1 @@
+{"fnName":"largestPrime","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[20],"expected":17},{"input":[2],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"racecar","params":[{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3],"expected":2},{"input":[6],"expected":5}]}

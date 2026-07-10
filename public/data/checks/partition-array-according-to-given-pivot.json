@@ -1,0 +1,1 @@
+{"fnName":"pivotArray","params":[{"name":"nums","type":"integer[]"},{"name":"pivot","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[9,12,5,10,14,3,10],10],"expected":[9,5,3,10,10,12,14]},{"input":[[-3,4,3,2],2],"expected":[-3,2,4,3]}]}

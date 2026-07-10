@@ -1,0 +1,1 @@
+{"fnName":"removePalindromeSub","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ababa"],"expected":1},{"input":["abb"],"expected":2},{"input":["baabb"],"expected":2}]}

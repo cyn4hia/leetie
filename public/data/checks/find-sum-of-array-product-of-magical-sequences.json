@@ -1,0 +1,1 @@
+{"fnName":"magicalSum","params":[{"name":"m","type":"integer"},{"name":"k","type":"integer"},{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,5,[1,10,100,10000,1000000]],"expected":991600007},{"input":[2,2,[5,4,3,2,1]],"expected":170},{"input":[1,1,[28]],"expected":28}]}

@@ -1,0 +1,1 @@
+{"fnName":"knightProbability","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"},{"name":"row","type":"integer"},{"name":"column","type":"integer"}],"returnType":"double","outputParam":null,"compare":"float","tests":[{"input":[3,2,0,0],"expected":0.0625},{"input":[1,0,0,0],"expected":1}]}

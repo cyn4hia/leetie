@@ -1,0 +1,1 @@
+{"fnName":"sumOfTheDigitsOfHarshadNumber","params":[{"name":"x","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[18],"expected":9},{"input":[23],"expected":-1}]}

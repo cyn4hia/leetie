@@ -1,0 +1,1 @@
+{"fnName":"maximumLength","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,1,1,3],2],"expected":4},{"input":[[1,2,3,4,5,1],0],"expected":2}]}

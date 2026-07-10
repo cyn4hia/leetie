@@ -1,0 +1,1 @@
+{"fnName":"minimumLengthEncoding","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["time","me","bell"]],"expected":10},{"input":[["t"]],"expected":2}]}

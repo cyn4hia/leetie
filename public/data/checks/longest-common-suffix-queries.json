@@ -1,0 +1,1 @@
+{"fnName":"stringIndices","params":[{"name":"wordsContainer","type":"string[]"},{"name":"wordsQuery","type":"string[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["abcd","bcd","xbcd"],["cd","bcd","xyz"]],"expected":[1,1,1]},{"input":[["abcdefgh","poiuygh","ghghgh"],["gh","acbfgh","acbfegh"]],"expected":[2,0,2]}]}

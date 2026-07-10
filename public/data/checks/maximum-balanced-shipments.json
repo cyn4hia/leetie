@@ -1,0 +1,1 @@
+{"fnName":"maxBalancedShipments","params":[{"name":"weight","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,5,1,4,3]],"expected":2},{"input":[[4,4]],"expected":0}]}

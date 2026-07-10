@@ -1,0 +1,1 @@
+{"fnName":"checkTwoChessboards","params":[{"name":"coordinate1","type":"string"},{"name":"coordinate2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["a1","c3"],"expected":true},{"input":["a1","h3"],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"maximumNumberOfStringPairs","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["cd","ac","dc","ca","zz"]],"expected":2},{"input":[["ab","ba","cc"]],"expected":1},{"input":[["aa","ab"]],"expected":0}]}

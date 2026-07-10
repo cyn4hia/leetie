@@ -1,0 +1,1 @@
+{"fnName":"maximumTotalSum","params":[{"name":"maximumHeight","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,4,3]],"expected":10},{"input":[[15,10]],"expected":25},{"input":[[2,2,1]],"expected":-1}]}

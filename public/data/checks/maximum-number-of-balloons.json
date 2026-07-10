@@ -1,0 +1,1 @@
+{"fnName":"maxNumberOfBalloons","params":[{"name":"text","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["nlaebolko"],"expected":1},{"input":["loonbalxballpoon"],"expected":2},{"input":["leetcode"],"expected":0}]}

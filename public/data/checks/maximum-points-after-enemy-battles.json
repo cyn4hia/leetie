@@ -1,0 +1,1 @@
+{"fnName":"maximumPoints","params":[{"name":"enemyEnergies","type":"integer[]"},{"name":"currentEnergy","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[3,2,2],2],"expected":3},{"input":[[2],10],"expected":5}]}

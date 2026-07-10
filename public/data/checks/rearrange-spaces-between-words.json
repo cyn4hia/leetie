@@ -1,0 +1,1 @@
+{"fnName":"reorderSpaces","params":[{"name":"text","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["  this   is  a sentence "],"expected":"this   is   a   sentence"},{"input":[" practice   makes   perfect"],"expected":"practice   makes   perfect "}]}

@@ -1,0 +1,1 @@
+{"fnName":"addedInteger","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,6,4],[9,7,5]],"expected":3},{"input":[[10],[5]],"expected":-5},{"input":[[1,1,1,1],[1,1,1,1]],"expected":0}]}

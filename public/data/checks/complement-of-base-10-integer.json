@@ -1,0 +1,1 @@
+{"fnName":"bitwiseComplement","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":2},{"input":[7],"expected":0},{"input":[10],"expected":5}]}

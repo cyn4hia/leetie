@@ -1,0 +1,1 @@
+{"fnName":"prefixCount","params":[{"name":"words","type":"string[]"},{"name":"pref","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["pay","attention","practice","attend"],"at"],"expected":2},{"input":[["leetcode","win","loops","success"],"code"],"expected":0}]}

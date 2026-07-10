@@ -1,0 +1,1 @@
+{"fnName":"removeOccurrences","params":[{"name":"s","type":"string"},{"name":"part","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["daabcbaabcbc","abc"],"expected":"dab"},{"input":["axxxxyyyyb","xy"],"expected":"ab"}]}

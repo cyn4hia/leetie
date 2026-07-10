@@ -1,0 +1,1 @@
+{"fnName":"primeSubarray","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3],1],"expected":2},{"input":[[2,3,5,7],3],"expected":4}]}

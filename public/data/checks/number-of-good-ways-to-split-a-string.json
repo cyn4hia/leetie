@@ -1,0 +1,1 @@
+{"fnName":"numSplits","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aacaba"],"expected":2},{"input":["abcd"],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"paintWalls","params":[{"name":"cost","type":"integer[]"},{"name":"time","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,2],[1,2,3,2]],"expected":3},{"input":[[2,3,4,2],[1,1,1,1]],"expected":4}]}

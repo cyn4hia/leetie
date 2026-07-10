@@ -1,0 +1,1 @@
+{"fnName":"averageValue","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,6,10,12,15]],"expected":9},{"input":[[1,2,4,7,10]],"expected":0}]}

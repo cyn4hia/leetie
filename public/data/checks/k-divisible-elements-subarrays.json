@@ -1,0 +1,1 @@
+{"fnName":"countDistinct","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"},{"name":"p","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,3,2,2],2,2],"expected":11},{"input":[[1,2,3,4],4,1],"expected":10}]}

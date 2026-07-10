@@ -1,0 +1,1 @@
+{"fnName":"countTestedDevices","params":[{"name":"batteryPercentages","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2,1,3]],"expected":3},{"input":[[0,1,2]],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"printVertically","params":[{"name":"s","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":["HOW ARE YOU"],"expected":["HAY","ORO","WEU"]},{"input":["TO BE OR NOT TO BE"],"expected":["TBONTB","OEROOE","   T"]},{"input":["CONTEST IS COMING"],"expected":["CIC","OSO","N M","T I","E N","S G","T"]}]}

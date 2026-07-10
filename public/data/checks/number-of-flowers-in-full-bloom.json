@@ -1,0 +1,1 @@
+{"fnName":"fullBloomFlowers","params":[{"name":"flowers","type":"integer[][]"},{"name":"people","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[[1,6],[3,7],[9,12],[4,13]],[2,3,7,11]],"expected":[1,2,2,2]},{"input":[[[1,10],[3,3]],[3,3,2]],"expected":[2,2,1]}]}

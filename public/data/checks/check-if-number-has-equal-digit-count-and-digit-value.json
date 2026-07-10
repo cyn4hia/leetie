@@ -1,0 +1,1 @@
+{"fnName":"digitCount","params":[{"name":"num","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["1210"],"expected":true},{"input":["030"],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"longestUnivaluePath","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,5,1,1,null,5]],"expected":2},{"input":[[1,4,5,4,4,null,5]],"expected":2}]}

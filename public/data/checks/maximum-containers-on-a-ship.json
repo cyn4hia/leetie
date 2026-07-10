@@ -1,0 +1,1 @@
+{"fnName":"maxContainers","params":[{"name":"n","type":"integer"},{"name":"w","type":"integer"},{"name":"maxWeight","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,3,15],"expected":4},{"input":[3,5,20],"expected":4}]}

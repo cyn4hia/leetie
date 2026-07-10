@@ -1,0 +1,1 @@
+{"fnName":"maxDistance","params":[{"name":"arrays","type":"list<list<integer>>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2,3],[4,5],[1,2,3]]],"expected":4},{"input":[[[1],[1]]],"expected":0}]}

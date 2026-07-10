@@ -1,0 +1,1 @@
+{"fnName":"furthestDistanceFromOrigin","params":[{"name":"moves","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["L_RL__R"],"expected":3},{"input":["_R__LL_"],"expected":5},{"input":["_______"],"expected":7}]}

@@ -1,0 +1,1 @@
+{"fnName":"minDistance","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["sea","eat"],"expected":2},{"input":["leetcode","etco"],"expected":4}]}

@@ -1,0 +1,1 @@
+{"fnName":"minimumOperations","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[3,2],[1,3],[3,4],[0,1]]],"expected":15},{"input":[[[3,2,1],[2,1,0],[1,2,3]]],"expected":12}]}

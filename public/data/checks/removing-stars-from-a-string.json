@@ -1,0 +1,1 @@
+{"fnName":"removeStars","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leet**cod*e"],"expected":"lecoe"},{"input":["erase*****"],"expected":""}]}

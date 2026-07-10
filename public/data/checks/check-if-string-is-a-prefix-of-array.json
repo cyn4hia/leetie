@@ -1,0 +1,1 @@
+{"fnName":"isPrefixString","params":[{"name":"s","type":"string"},{"name":"words","type":"string[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["iloveleetcode",["i","love","leetcode","apples"]],"expected":true},{"input":["iloveleetcode",["apples","i","love","leetcode"]],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"numOfSubarrays","params":[{"name":"arr","type":"integer[]"},{"name":"k","type":"integer"},{"name":"threshold","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,2,2,5,5,5,8],3,4],"expected":3},{"input":[[11,13,17,23,29,31,7,5,2,3],3,5],"expected":6}]}

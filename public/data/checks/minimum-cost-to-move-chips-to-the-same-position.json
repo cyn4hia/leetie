@@ -1,0 +1,1 @@
+{"fnName":"minCostToMoveChips","params":[{"name":"position","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":1},{"input":[[2,2,2,3,3]],"expected":2},{"input":[[1,1000000000]],"expected":1}]}

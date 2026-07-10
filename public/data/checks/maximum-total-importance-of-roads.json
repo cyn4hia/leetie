@@ -1,0 +1,1 @@
+{"fnName":"maximumImportance","params":[{"name":"n","type":"integer"},{"name":"roads","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[5,[[0,1],[1,2],[2,3],[0,2],[1,3],[2,4]]],"expected":43},{"input":[5,[[0,3],[2,4],[1,3]]],"expected":20}]}

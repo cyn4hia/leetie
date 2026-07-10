@@ -1,0 +1,1 @@
+{"fnName":"isSelfCrossing","params":[{"name":"distance","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[2,1,1,2]],"expected":true},{"input":[[1,2,3,4]],"expected":false},{"input":[[1,1,1,2,1]],"expected":true}]}

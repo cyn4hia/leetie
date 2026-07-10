@@ -1,0 +1,1 @@
+{"fnName":"uniquePaths","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,7],"expected":28},{"input":[3,2],"expected":3}]}

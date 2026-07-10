@@ -1,0 +1,1 @@
+{"fnName":"checkPossibility","params":[{"name":"nums","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,3]],"expected":true},{"input":[[4,2,1]],"expected":false}]}

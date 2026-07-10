@@ -1,0 +1,1 @@
+{"fnName":"minMaxDifference","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[11891],"expected":99009},{"input":[90],"expected":99}]}

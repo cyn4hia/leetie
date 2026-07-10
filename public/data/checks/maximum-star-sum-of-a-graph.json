@@ -1,0 +1,1 @@
+{"fnName":"maxStarSum","params":[{"name":"vals","type":"integer[]"},{"name":"edges","type":"integer[][]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,10,-10,-20],[[0,1],[1,2],[1,3],[3,4],[3,5],[3,6]],2],"expected":16},{"input":[[-5],[],0],"expected":-5}]}

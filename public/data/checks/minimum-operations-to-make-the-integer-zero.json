@@ -1,0 +1,1 @@
+{"fnName":"makeTheIntegerZero","params":[{"name":"num1","type":"integer"},{"name":"num2","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,-2],"expected":3},{"input":[5,7],"expected":-1}]}

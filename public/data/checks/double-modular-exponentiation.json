@@ -1,0 +1,1 @@
+{"fnName":"getGoodIndices","params":[{"name":"variables","type":"integer[][]"},{"name":"target","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"unordered","tests":[{"input":[[[2,3,3,10],[3,3,3,1],[6,1,1,4]],2],"expected":[0,2]},{"input":[[[39,3,1000,1000]],17],"expected":[]}]}

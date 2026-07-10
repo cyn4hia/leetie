@@ -1,0 +1,1 @@
+{"fnName":"countVowels","params":[{"name":"word","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["aba"],"expected":6},{"input":["abc"],"expected":3},{"input":["ltcd"],"expected":0}]}

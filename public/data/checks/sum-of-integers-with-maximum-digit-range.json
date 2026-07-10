@@ -1,0 +1,1 @@
+{"fnName":"maxDigitRange","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5724,111,350]],"expected":6074},{"input":[[90,900]],"expected":990}]}

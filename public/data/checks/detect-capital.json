@@ -1,0 +1,1 @@
+{"fnName":"detectCapitalUse","params":[{"name":"word","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["USA"],"expected":true},{"input":["FlaG"],"expected":false}]}

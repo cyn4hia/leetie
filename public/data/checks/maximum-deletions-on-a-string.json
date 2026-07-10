@@ -1,0 +1,1 @@
+{"fnName":"deleteString","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcabcdabc"],"expected":2},{"input":["aaabaab"],"expected":4},{"input":["aaaaa"],"expected":5}]}

@@ -1,0 +1,1 @@
+{"fnName":"maximumBinaryString","params":[{"name":"binary","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["000110"],"expected":"111011"},{"input":["01"],"expected":"01"}]}

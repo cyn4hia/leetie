@@ -1,0 +1,1 @@
+{"fnName":"repeatLimitedString","params":[{"name":"s","type":"string"},{"name":"repeatLimit","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["cczazcc",3],"expected":"zzcccac"},{"input":["aababab",2],"expected":"bbabaa"}]}

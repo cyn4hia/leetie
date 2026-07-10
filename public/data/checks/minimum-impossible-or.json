@@ -1,0 +1,1 @@
+{"fnName":"minImpossibleOR","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,1]],"expected":4},{"input":[[5,3,2]],"expected":1}]}

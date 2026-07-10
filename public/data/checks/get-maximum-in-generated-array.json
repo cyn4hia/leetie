@@ -1,0 +1,1 @@
+{"fnName":"getMaximumGenerated","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[7],"expected":3},{"input":[2],"expected":1},{"input":[3],"expected":2}]}

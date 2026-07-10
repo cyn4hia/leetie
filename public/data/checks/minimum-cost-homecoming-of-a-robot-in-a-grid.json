@@ -1,0 +1,1 @@
+{"fnName":"minCost","params":[{"name":"startPos","type":"integer[]"},{"name":"homePos","type":"integer[]"},{"name":"rowCosts","type":"integer[]"},{"name":"colCosts","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0],[2,3],[5,4,3],[8,2,6,7]],"expected":18},{"input":[[0,0],[0,0],[5],[26]],"expected":0}]}

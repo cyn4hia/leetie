@@ -1,0 +1,1 @@
+{"fnName":"numPoints","params":[{"name":"darts","type":"integer[][]"},{"name":"r","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[-2,0],[2,0],[0,2],[0,-2]],2],"expected":4},{"input":[[[-3,0],[3,0],[2,6],[5,4],[0,9],[7,8]],5],"expected":5}]}

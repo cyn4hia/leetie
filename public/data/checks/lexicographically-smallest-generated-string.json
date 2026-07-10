@@ -1,0 +1,1 @@
+{"fnName":"generateString","params":[{"name":"str1","type":"string"},{"name":"str2","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["TFTF","ab"],"expected":"ababa"},{"input":["TFTF","abc"],"expected":""},{"input":["FT","aa"],"expected":"a"}]}

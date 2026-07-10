@@ -1,0 +1,1 @@
+{"fnName":"countIslands","params":[{"name":"grid","type":"integer[][]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,2,1,0,0],[0,5,0,0,5],[0,0,1,0,0],[0,1,4,7,0],[0,2,0,0,8]],5],"expected":2},{"input":[[[3,0,3,0],[0,3,0,3],[3,0,3,0]],3],"expected":6}]}

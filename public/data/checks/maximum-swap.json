@@ -1,0 +1,1 @@
+{"fnName":"maximumSwap","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2736],"expected":7236},{"input":[9973],"expected":9973}]}

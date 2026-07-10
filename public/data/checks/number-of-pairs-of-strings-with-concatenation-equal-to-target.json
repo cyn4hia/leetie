@@ -1,0 +1,1 @@
+{"fnName":"numOfPairs","params":[{"name":"nums","type":"string[]"},{"name":"target","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["777","7","77","77"],"7777"],"expected":4},{"input":[["123","4","12","34"],"1234"],"expected":2},{"input":[["1","1","1"],"11"],"expected":6}]}

@@ -1,0 +1,1 @@
+{"fnName":"largestComponentSize","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,6,15,35]],"expected":4},{"input":[[20,50,9,63]],"expected":2},{"input":[[2,3,6,7,4,12,21,39]],"expected":8}]}

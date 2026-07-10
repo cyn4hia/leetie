@@ -1,0 +1,1 @@
+{"fnName":"longestArithmetic","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[9,7,5,10,1]],"expected":5},{"input":[[1,2,6,7]],"expected":3}]}

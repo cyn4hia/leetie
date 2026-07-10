@@ -1,0 +1,1 @@
+{"fnName":"rectangleArea","params":[{"name":"rectangles","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,0,2,2],[1,0,2,3],[1,0,3,1]]],"expected":6},{"input":[[[0,0,1000000000,1000000000]]],"expected":49}]}

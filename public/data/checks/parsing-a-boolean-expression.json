@@ -1,0 +1,1 @@
+{"fnName":"parseBoolExpr","params":[{"name":"expression","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["&(|(f))"],"expected":false},{"input":["|(f,f,f,t)"],"expected":true},{"input":["!(&(f,t))"],"expected":true}]}

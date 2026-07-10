@@ -1,0 +1,1 @@
+{"fnName":"isSumEqual","params":[{"name":"firstWord","type":"string"},{"name":"secondWord","type":"string"},{"name":"targetWord","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["acb","cba","cdb"],"expected":true},{"input":["aaa","a","aab"],"expected":false},{"input":["aaa","a","aaaa"],"expected":true}]}

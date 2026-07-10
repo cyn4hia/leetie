@@ -1,0 +1,1 @@
+{"fnName":"checkAlmostEquivalent","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["aaaa","bccb"],"expected":false},{"input":["abcdeef","abaaacc"],"expected":true},{"input":["cccddabba","babababab"],"expected":true}]}

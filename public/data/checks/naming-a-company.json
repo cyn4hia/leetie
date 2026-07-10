@@ -1,0 +1,1 @@
+{"fnName":"distinctNames","params":[{"name":"ideas","type":"string[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[["coffee","donuts","time","toffee"]],"expected":6},{"input":[["lack","back"]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"maximizeSumOfWeights","params":[{"name":"edges","type":"integer[][]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1,4],[0,2,2],[2,3,12],[2,4,6]],2],"expected":22},{"input":[[[0,1,5],[1,2,10],[0,3,15],[3,4,20],[3,5,5],[0,6,10]],3],"expected":65}]}

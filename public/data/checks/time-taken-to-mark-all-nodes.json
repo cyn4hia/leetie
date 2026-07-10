@@ -1,0 +1,1 @@
+{"fnName":"timeTaken","params":[{"name":"edges","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[0,2]]],"expected":[2,4,3]},{"input":[[[0,1]]],"expected":[1,2]},{"input":[[[2,4],[0,1],[2,3],[0,2]]],"expected":[4,6,3,5,5]}]}

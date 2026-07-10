@@ -1,0 +1,1 @@
+{"fnName":"findMaximumNumber","params":[{"name":"k","type":"long"},{"name":"x","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[9,1],"expected":6},{"input":[7,2],"expected":9}]}

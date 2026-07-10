@@ -1,0 +1,1 @@
+{"fnName":"countSymmetricIntegers","params":[{"name":"low","type":"integer"},{"name":"high","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,100],"expected":9},{"input":[1200,1230],"expected":4}]}

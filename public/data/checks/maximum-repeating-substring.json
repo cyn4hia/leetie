@@ -1,0 +1,1 @@
+{"fnName":"maxRepeating","params":[{"name":"sequence","type":"string"},{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ababc","ab"],"expected":2},{"input":["ababc","ba"],"expected":1},{"input":["ababc","ac"],"expected":0}]}

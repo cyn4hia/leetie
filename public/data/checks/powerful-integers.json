@@ -1,0 +1,1 @@
+{"fnName":"powerfulIntegers","params":[{"name":"x","type":"integer"},{"name":"y","type":"integer"},{"name":"bound","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"unordered","tests":[{"input":[2,3,10],"expected":[2,3,4,5,7,9,10]},{"input":[3,5,15],"expected":[2,4,6,8,10,14]}]}

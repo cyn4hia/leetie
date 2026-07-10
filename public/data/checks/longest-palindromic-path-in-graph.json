@@ -1,0 +1,1 @@
+{"fnName":"maxLen","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"},{"name":"label","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,[[0,1],[1,2]],"aba"],"expected":3},{"input":[3,[[0,1],[0,2]],"abc"],"expected":1},{"input":[4,[[0,2],[0,3],[3,1]],"bbac"],"expected":3}]}

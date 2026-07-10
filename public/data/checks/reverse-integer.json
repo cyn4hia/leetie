@@ -1,0 +1,1 @@
+{"fnName":"reverse","params":[{"name":"x","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[123],"expected":321},{"input":[-123],"expected":-321},{"input":[120],"expected":21}]}

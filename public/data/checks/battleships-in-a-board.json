@@ -1,0 +1,1 @@
+{"fnName":"countBattleships","params":[{"name":"board","type":"character[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[["X",".",".","X"],[".",".",".","X"],[".",".",".","X"]]],"expected":2},{"input":[[["."]]],"expected":0}]}

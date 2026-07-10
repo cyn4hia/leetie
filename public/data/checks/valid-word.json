@@ -1,0 +1,1 @@
+{"fnName":"isValid","params":[{"name":"word","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["234Adas"],"expected":true},{"input":["b3"],"expected":false},{"input":["a3$e"],"expected":false}]}

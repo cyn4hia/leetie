@@ -1,0 +1,1 @@
+{"fnName":"smallestIndex","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,2]],"expected":2},{"input":[[1,10,11]],"expected":1},{"input":[[1,2,3]],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"maxBuilding","params":[{"name":"n","type":"integer"},{"name":"restrictions","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,[[2,1],[4,1]]],"expected":2},{"input":[6,[]],"expected":5},{"input":[10,[[5,3],[2,5],[7,4],[10,3]]],"expected":5}]}

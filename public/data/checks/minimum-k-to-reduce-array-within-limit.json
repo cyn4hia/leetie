@@ -1,0 +1,1 @@
+{"fnName":"minimumK","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,7,5]],"expected":3},{"input":[[1]],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"findShortestSubArray","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,2,3,1]],"expected":2},{"input":[[1,2,2,3,1,4,2]],"expected":6}]}

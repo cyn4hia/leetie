@@ -1,0 +1,1 @@
+{"fnName":"equationsPossible","params":[{"name":"equations","type":"string[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[["a==b","b!=a"]],"expected":false},{"input":[["b==a","a==b"]],"expected":true}]}

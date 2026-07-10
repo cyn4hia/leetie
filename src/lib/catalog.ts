@@ -1,4 +1,4 @@
-import type { CatalogEntry, RemoteContent } from '../types'
+import type { CatalogEntry, GeneratedChecks, RemoteContent } from '../types'
 import { curatedProblems } from '../data/problems'
 
 const MIRROR = 'https://alfa-leetcode-api.onrender.com'
@@ -31,6 +31,28 @@ export async function loadCatalog(): Promise<CatalogEntry[]> {
     acRate: 0,
     tags: p.tags,
   }))
+}
+
+/** Slugs that have auto-generated submission checks. */
+export async function loadChecksIndex(): Promise<string[]> {
+  try {
+    const res = await fetch(`${base}data/checks-index.json`)
+    if (res.ok) return (await res.json()) as string[]
+  } catch {
+    // not generated yet
+  }
+  return []
+}
+
+/** Auto-generated checks for one problem (static file, same origin). */
+export async function loadChecks(slug: string): Promise<GeneratedChecks | null> {
+  try {
+    const res = await fetch(`${base}data/checks/${slug}.json`)
+    if (res.ok) return (await res.json()) as GeneratedChecks
+  } catch {
+    // no checks for this problem
+  }
+  return null
 }
 
 function cacheGet(slug: string): RemoteContent | null {

@@ -1,0 +1,1 @@
+{"fnName":"minimizedMaximum","params":[{"name":"n","type":"integer"},{"name":"quantities","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[6,[11,6]],"expected":3},{"input":[7,[15,10,10]],"expected":5},{"input":[1,[100000]],"expected":100000}]}

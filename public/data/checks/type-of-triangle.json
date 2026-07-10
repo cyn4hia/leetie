@@ -1,0 +1,1 @@
+{"fnName":"triangleType","params":[{"name":"nums","type":"integer[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[3,3,3]],"expected":"equilateral"},{"input":[[3,4,5]],"expected":"scalene"}]}

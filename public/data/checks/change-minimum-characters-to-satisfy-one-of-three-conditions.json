@@ -1,0 +1,1 @@
+{"fnName":"minCharacters","params":[{"name":"a","type":"string"},{"name":"b","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aba","caa"],"expected":2},{"input":["dabadd","cda"],"expected":3}]}

@@ -1,0 +1,1 @@
+{"fnName":"minSteps","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["bab","aba"],"expected":1},{"input":["leetcode","practice"],"expected":5},{"input":["anagram","mangaar"],"expected":0}]}

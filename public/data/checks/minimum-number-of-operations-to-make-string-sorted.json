@@ -1,0 +1,1 @@
+{"fnName":"makeStringSorted","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["cba"],"expected":5},{"input":["aabaa"],"expected":2}]}

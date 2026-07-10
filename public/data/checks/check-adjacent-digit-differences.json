@@ -1,0 +1,1 @@
+{"fnName":"isAdjacentDiffAtMostTwo","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["132"],"expected":true},{"input":["129"],"expected":false}]}

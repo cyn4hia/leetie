@@ -1,0 +1,1 @@
+{"fnName":"largestPathValue","params":[{"name":"colors","type":"string"},{"name":"edges","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abaca",[[0,1],[0,2],[2,3],[3,4]]],"expected":3},{"input":["a",[[0,0]]],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"longestSubstring","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aaabb",3],"expected":3},{"input":["ababbc",2],"expected":5}]}

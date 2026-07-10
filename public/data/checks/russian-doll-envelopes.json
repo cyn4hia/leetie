@@ -1,0 +1,1 @@
+{"fnName":"maxEnvelopes","params":[{"name":"envelopes","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[5,4],[6,4],[6,7],[2,3]]],"expected":3},{"input":[[[1,1],[1,1],[1,1]]],"expected":1}]}

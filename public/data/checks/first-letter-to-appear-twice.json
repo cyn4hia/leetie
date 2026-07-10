@@ -1,0 +1,1 @@
+{"fnName":"repeatedCharacter","params":[{"name":"s","type":"string"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":["abccbaacz"],"expected":"c"},{"input":["abcdd"],"expected":"d"}]}

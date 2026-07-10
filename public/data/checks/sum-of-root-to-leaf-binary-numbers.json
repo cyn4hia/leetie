@@ -1,0 +1,1 @@
+{"fnName":"sumRootToLeaf","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,1,0,1,0,1]],"expected":22},{"input":[[0]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"minimumPartition","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["165462",60],"expected":4},{"input":["238182",5],"expected":-1}]}

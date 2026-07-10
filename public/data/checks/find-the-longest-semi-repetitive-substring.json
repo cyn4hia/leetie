@@ -1,0 +1,1 @@
+{"fnName":"longestSemiRepetitiveSubstring","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["52233"],"expected":4},{"input":["5494"],"expected":4},{"input":["1111111"],"expected":2}]}

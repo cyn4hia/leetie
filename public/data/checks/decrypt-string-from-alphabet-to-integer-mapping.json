@@ -1,0 +1,1 @@
+{"fnName":"freqAlphabets","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["10#11#12"],"expected":"jkab"},{"input":["1326#"],"expected":"acz"}]}

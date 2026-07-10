@@ -1,0 +1,1 @@
+{"fnName":"numberOfUniqueGoodSubsequences","params":[{"name":"binary","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["001"],"expected":2},{"input":["11"],"expected":2},{"input":["101"],"expected":5}]}

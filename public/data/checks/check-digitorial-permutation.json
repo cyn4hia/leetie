@@ -1,0 +1,1 @@
+{"fnName":"isDigitorialPermutation","params":[{"name":"n","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[145],"expected":true},{"input":[10],"expected":false}]}

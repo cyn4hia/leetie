@@ -1,0 +1,1 @@
+{"fnName":"diffWaysToCompute","params":[{"name":"expression","type":"string"}],"returnType":"list<integer>","outputParam":null,"compare":"unordered","tests":[{"input":["2-1-1"],"expected":[0,2]},{"input":["2*3-4*5"],"expected":[-34,-14,-10,-10,10]}]}

@@ -1,0 +1,1 @@
+{"fnName":"checkInclusion","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["ab","eidbaooo"],"expected":true},{"input":["ab","eidboaoo"],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"numRabbits","params":[{"name":"answers","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2]],"expected":5},{"input":[[10,10,10]],"expected":11}]}

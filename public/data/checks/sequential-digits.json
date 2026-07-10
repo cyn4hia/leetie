@@ -1,0 +1,1 @@
+{"fnName":"sequentialDigits","params":[{"name":"low","type":"integer"},{"name":"high","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[100,300],"expected":[123,234]},{"input":[1000,13000],"expected":[1234,2345,3456,4567,5678,6789,12345]}]}

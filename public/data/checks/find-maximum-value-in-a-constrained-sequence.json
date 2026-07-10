@@ -1,0 +1,1 @@
+{"fnName":"findMaxVal","params":[{"name":"n","type":"integer"},{"name":"restrictions","type":"integer[][]"},{"name":"diff","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10,[[3,1],[8,1]],[2,2,3,1,4,5,1,1,2]],"expected":6},{"input":[8,[[3,2]],[3,5,2,4,2,3,1]],"expected":12}]}

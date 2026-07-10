@@ -1,0 +1,1 @@
+{"fnName":"fallingSquares","params":[{"name":"positions","type":"integer[][]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[2,3],[6,1]]],"expected":[2,5,5]},{"input":[[[100,100],[200,100]]],"expected":[100,100]}]}

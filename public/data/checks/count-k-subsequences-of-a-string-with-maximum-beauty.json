@@ -1,0 +1,1 @@
+{"fnName":"countKSubsequencesWithMaxBeauty","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["bcca",2],"expected":4},{"input":["abbcd",4],"expected":2}]}

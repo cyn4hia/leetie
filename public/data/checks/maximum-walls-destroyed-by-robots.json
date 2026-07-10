@@ -1,0 +1,1 @@
+{"fnName":"maxWalls","params":[{"name":"robots","type":"integer[]"},{"name":"distance","type":"integer[]"},{"name":"walls","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4],[3],[1,10]],"expected":1},{"input":[[10,2],[5,1],[5,2,7]],"expected":3},{"input":[[1,2],[100,1],[10]],"expected":0}]}

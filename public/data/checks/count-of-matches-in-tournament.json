@@ -1,0 +1,1 @@
+{"fnName":"numberOfMatches","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[7],"expected":6},{"input":[14],"expected":13}]}

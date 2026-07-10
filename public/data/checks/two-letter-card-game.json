@@ -1,0 +1,1 @@
+{"fnName":"score","params":[{"name":"cards","type":"string[]"},{"name":"x","type":"character"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["aa","ab","ba","ac"],"a"],"expected":2},{"input":[["aa","ab","ba"],"a"],"expected":1},{"input":[["aa","ab","ba","ac"],"b"],"expected":0}]}

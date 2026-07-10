@@ -1,0 +1,1 @@
+{"fnName":"countSubstrings","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["12936"],"expected":11},{"input":["5701283"],"expected":18},{"input":["1010101010"],"expected":25}]}

@@ -1,0 +1,1 @@
+{"fnName":"numSub","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["0110111"],"expected":9},{"input":["101"],"expected":2},{"input":["111111"],"expected":21}]}

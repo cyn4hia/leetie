@@ -1,0 +1,1 @@
+{"fnName":"resultsArray","params":[{"name":"queries","type":"integer[][]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[3,4],[2,3],[-3,0]],2],"expected":[-1,7,5,3]},{"input":[[[5,5],[4,4],[3,3]],1],"expected":[10,8,6]}]}

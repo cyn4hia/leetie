@@ -1,0 +1,1 @@
+{"fnName":"largestPerimeter","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[5,5,5]],"expected":15},{"input":[[1,12,1,2,5,50,3]],"expected":12},{"input":[[5,5,50]],"expected":-1}]}

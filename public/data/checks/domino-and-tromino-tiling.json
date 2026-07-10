@@ -1,0 +1,1 @@
+{"fnName":"numTilings","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3],"expected":5},{"input":[1],"expected":1}]}

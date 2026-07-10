@@ -1,0 +1,1 @@
+{"fnName":"maxDistance","params":[{"name":"moves","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["L_D_"],"expected":4},{"input":["U_R"],"expected":3}]}

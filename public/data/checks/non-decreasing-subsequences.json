@@ -1,0 +1,1 @@
+{"fnName":"findSubsequences","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"set","tests":[{"input":[[4,6,7,7]],"expected":[[4,6],[4,6,7],[4,6,7,7],[4,7],[4,7,7],[6,7],[6,7,7],[7,7]]},{"input":[[4,4,3,2,1]],"expected":[[4,4]]}]}

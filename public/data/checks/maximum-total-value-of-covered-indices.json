@@ -1,0 +1,1 @@
+{"fnName":"maxTotal","params":[{"name":"nums","type":"integer[]"},{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[9,2,6,1],"0101"],"expected":15},{"input":[[5,1,4],"001"],"expected":4},{"input":[[9,3,5],"011"],"expected":14}]}

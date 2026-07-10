@@ -1,0 +1,1 @@
+{"fnName":"sumDigitDifferences","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[13,23,12]],"expected":4},{"input":[[10,10,10,10]],"expected":0}]}

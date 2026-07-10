@@ -1,0 +1,1 @@
+{"fnName":"bagOfTokensScore","params":[{"name":"tokens","type":"integer[]"},{"name":"power","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[100],50],"expected":0},{"input":[[200,100],150],"expected":1},{"input":[[100,200,300,400],200],"expected":2}]}

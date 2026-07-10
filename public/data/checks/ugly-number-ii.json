@@ -1,0 +1,1 @@
+{"fnName":"nthUglyNumber","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10],"expected":12},{"input":[1],"expected":1}]}

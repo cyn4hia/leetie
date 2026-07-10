@@ -1,0 +1,1 @@
+{"fnName":"twoEditWords","params":[{"name":"queries","type":"string[]"},{"name":"dictionary","type":"string[]"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":[["word","note","ants","wood"],["wood","joke","moat"]],"expected":["word","note","wood"]},{"input":[["yes"],["not"]],"expected":[]}]}

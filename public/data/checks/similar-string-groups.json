@@ -1,0 +1,1 @@
+{"fnName":"numSimilarGroups","params":[{"name":"strs","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["tars","rats","arts","star"]],"expected":2},{"input":[["omv","ovm"]],"expected":1}]}

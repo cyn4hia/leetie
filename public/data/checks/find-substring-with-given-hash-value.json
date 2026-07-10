@@ -1,0 +1,1 @@
+{"fnName":"subStrHash","params":[{"name":"s","type":"string"},{"name":"power","type":"integer"},{"name":"modulo","type":"integer"},{"name":"k","type":"integer"},{"name":"hashValue","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leetcode",7,20,2,0],"expected":"ee"},{"input":["fbxzaad",31,100,3,32],"expected":"fbx"}]}

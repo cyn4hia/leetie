@@ -1,0 +1,1 @@
+{"fnName":"findMaxForm","params":[{"name":"strs","type":"string[]"},{"name":"m","type":"integer"},{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["10","0001","111001","1","0"],5,3],"expected":4},{"input":[["10","0","1"],1,1],"expected":2}]}

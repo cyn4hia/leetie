@@ -1,0 +1,1 @@
+{"fnName":"minimumPushes","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcde"],"expected":5},{"input":["xycdefghij"],"expected":12}]}

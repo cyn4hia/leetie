@@ -1,0 +1,1 @@
+{"fnName":"groupAnagrams","params":[{"name":"strs","type":"string[]"}],"returnType":"list<list<string>>","outputParam":null,"compare":"set","tests":[{"input":[["eat","tea","tan","ate","nat","bat"]],"expected":[["bat"],["nat","tan"],["ate","eat","tea"]]},{"input":[[""]],"expected":[[""]]},{"input":[["a"]],"expected":[["a"]]}]}

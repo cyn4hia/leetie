@@ -1,0 +1,1 @@
+{"fnName":"countWays","params":[{"name":"nums","type":"list<integer>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1]],"expected":2},{"input":[[6,0,3,3,6,7,2,7]],"expected":3}]}

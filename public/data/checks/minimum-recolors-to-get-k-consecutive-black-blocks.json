@@ -1,0 +1,1 @@
+{"fnName":"minimumRecolors","params":[{"name":"blocks","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["WBBWWBBWBW",7],"expected":3},{"input":["WBWBBBW",2],"expected":0}]}

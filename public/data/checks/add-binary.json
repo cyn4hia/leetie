@@ -1,0 +1,1 @@
+{"fnName":"addBinary","params":[{"name":"a","type":"string"},{"name":"b","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["11","1"],"expected":"100"},{"input":["1010","1011"],"expected":"10101"}]}

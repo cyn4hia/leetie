@@ -1,0 +1,1 @@
+{"fnName":"splitListToParts","params":[{"name":"head","type":"ListNode"},{"name":"k","type":"integer"}],"returnType":"ListNode[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3],5],"expected":[[1],[2],[3],[],[]]},{"input":[[1,2,3,4,5,6,7,8,9,10],3],"expected":[[1,2,3,4],[5,6,7],[8,9,10]]}]}

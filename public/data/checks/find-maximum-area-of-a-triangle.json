@@ -1,0 +1,1 @@
+{"fnName":"maxArea","params":[{"name":"coords","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[[1,1],[1,2],[3,2],[3,3]]],"expected":2},{"input":[[[1,1],[2,2],[3,3]]],"expected":-1}]}

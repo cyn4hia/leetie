@@ -1,0 +1,1 @@
+{"fnName":"countCollisions","params":[{"name":"directions","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["RLRSLL"],"expected":5},{"input":["LLRR"],"expected":0}]}

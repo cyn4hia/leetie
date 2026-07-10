@@ -1,0 +1,1 @@
+{"fnName":"winningPlayer","params":[{"name":"x","type":"integer"},{"name":"y","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[2,7],"expected":"Alice"},{"input":[4,11],"expected":"Bob"}]}

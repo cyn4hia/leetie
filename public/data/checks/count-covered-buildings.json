@@ -1,0 +1,1 @@
+{"fnName":"countCoveredBuildings","params":[{"name":"n","type":"integer"},{"name":"buildings","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,[[1,2],[2,2],[3,2],[2,1],[2,3]]],"expected":1},{"input":[3,[[1,1],[1,2],[2,1],[2,2]]],"expected":0},{"input":[5,[[1,3],[3,2],[3,3],[3,5],[5,3]]],"expected":1}]}

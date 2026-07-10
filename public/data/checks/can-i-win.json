@@ -1,0 +1,1 @@
+{"fnName":"canIWin","params":[{"name":"maxChoosableInteger","type":"integer"},{"name":"desiredTotal","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[10,11],"expected":false},{"input":[10,0],"expected":true},{"input":[10,1],"expected":true}]}

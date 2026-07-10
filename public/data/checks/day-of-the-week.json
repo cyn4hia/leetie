@@ -1,0 +1,1 @@
+{"fnName":"dayOfTheWeek","params":[{"name":"day","type":"integer"},{"name":"month","type":"integer"},{"name":"year","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[31,8,2019],"expected":"Saturday"},{"input":[18,7,1999],"expected":"Sunday"},{"input":[15,8,1993],"expected":"Sunday"}]}

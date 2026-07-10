@@ -1,0 +1,1 @@
+{"fnName":"averageWaitingTime","params":[{"name":"customers","type":"integer[][]"}],"returnType":"double","outputParam":null,"compare":"float","tests":[{"input":[[[1,2],[2,5],[4,3]]],"expected":5},{"input":[[[5,2],[5,4],[10,3],[20,1]]],"expected":3.25}]}

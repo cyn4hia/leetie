@@ -1,0 +1,1 @@
+{"fnName":"findAllConcatenatedWordsInADict","params":[{"name":"words","type":"string[]"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":[["cat","cats","catsdogcats","dog","dogcatsdog","hippopotamuses","rat","ratcatdogcat"]],"expected":["catsdogcats","dogcatsdog","ratcatdogcat"]},{"input":[["cat","dog","catdog"]],"expected":["catdog"]}]}

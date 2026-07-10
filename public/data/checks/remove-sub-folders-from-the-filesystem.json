@@ -1,0 +1,1 @@
+{"fnName":"removeSubfolders","params":[{"name":"folder","type":"string[]"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":[["/a","/a/b","/c/d","/c/d/e","/c/f"]],"expected":["/a","/c/d","/c/f"]},{"input":[["/a","/a/b/c","/a/b/d"]],"expected":["/a"]},{"input":[["/a/b/c","/a/b/ca","/a/b/d"]],"expected":["/a/b/c","/a/b/ca","/a/b/d"]}]}

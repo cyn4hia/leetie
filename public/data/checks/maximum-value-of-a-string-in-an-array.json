@@ -1,0 +1,1 @@
+{"fnName":"maximumValue","params":[{"name":"strs","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["alic3","bob","3","4","00000"]],"expected":5},{"input":[["1","01","001","0001"]],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"repeatedStringMatch","params":[{"name":"a","type":"string"},{"name":"b","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcd","cdabcdab"],"expected":3},{"input":["a","aa"],"expected":2}]}

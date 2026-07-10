@@ -1,0 +1,1 @@
+{"fnName":"minSpaceWastedKResizing","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[10,20],0],"expected":10},{"input":[[10,20,30],1],"expected":10},{"input":[[10,20,15,30,20],2],"expected":15}]}

@@ -1,0 +1,1 @@
+{"fnName":"decimalRepresentation","params":[{"name":"n","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[537],"expected":[500,30,7]},{"input":[102],"expected":[100,2]},{"input":[6],"expected":[6]}]}

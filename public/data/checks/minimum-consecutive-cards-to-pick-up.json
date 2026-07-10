@@ -1,0 +1,1 @@
+{"fnName":"minimumCardPickup","params":[{"name":"cards","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,4,2,3,4,7]],"expected":4},{"input":[[1,0,5,3]],"expected":-1}]}

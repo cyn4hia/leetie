@@ -1,0 +1,1 @@
+{"fnName":"findMinimumOperations","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"},{"name":"s3","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc","abb","ab"],"expected":2},{"input":["dac","bac","cac"],"expected":-1}]}

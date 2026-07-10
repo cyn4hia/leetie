@@ -1,0 +1,1 @@
+{"fnName":"countDigitOne","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[13],"expected":6},{"input":[0],"expected":0}]}

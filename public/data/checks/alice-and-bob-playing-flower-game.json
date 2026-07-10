@@ -1,0 +1,1 @@
+{"fnName":"flowerGame","params":[{"name":"n","type":"integer"},{"name":"m","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[3,2],"expected":3},{"input":[1,1],"expected":0}]}

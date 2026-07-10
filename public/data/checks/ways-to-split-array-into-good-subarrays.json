@@ -1,0 +1,1 @@
+{"fnName":"numberOfGoodSubarraySplits","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,0,0,1]],"expected":3},{"input":[[0,1,0]],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"canFormArray","params":[{"name":"arr","type":"integer[]"},{"name":"pieces","type":"integer[][]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[15,88],[[88],[15]]],"expected":true},{"input":[[49,18,16],[[16,18,49]]],"expected":false},{"input":[[91,4,64,78],[[78],[4,64],[91]]],"expected":true}]}

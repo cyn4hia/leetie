@@ -1,0 +1,1 @@
+{"fnName":"eventualSafeNodes","params":[{"name":"graph","type":"integer[][]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[2,3],[5],[0],[5],[],[]]],"expected":[2,4,5,6]},{"input":[[[1,2,3,4],[1,2],[3,4],[0,4],[]]],"expected":[4]}]}

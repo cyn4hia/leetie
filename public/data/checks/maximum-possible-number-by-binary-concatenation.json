@@ -1,0 +1,1 @@
+{"fnName":"maxGoodNumber","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":30},{"input":[[2,8,16]],"expected":1296}]}

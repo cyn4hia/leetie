@@ -1,0 +1,1 @@
+{"fnName":"findLUSlength","params":[{"name":"strs","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["aba","cdc","eae"]],"expected":3},{"input":[["aaa","aaa","aa"]],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"vowelConsonantScore","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["cooear"],"expected":2},{"input":["axeyizou"],"expected":1},{"input":["au 123"],"expected":0}]}

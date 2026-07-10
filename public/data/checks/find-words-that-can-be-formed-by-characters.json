@@ -1,0 +1,1 @@
+{"fnName":"countCharacters","params":[{"name":"words","type":"string[]"},{"name":"chars","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["cat","bt","hat","tree"],"atach"],"expected":6},{"input":[["hello","world","leetcode"],"welldonehoneyr"],"expected":10}]}

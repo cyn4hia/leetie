@@ -1,0 +1,1 @@
+{"fnName":"passThePillow","params":[{"name":"n","type":"integer"},{"name":"time","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4,5],"expected":2},{"input":[3,2],"expected":3}]}

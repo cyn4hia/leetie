@@ -1,0 +1,1 @@
+{"fnName":"minBitFlips","params":[{"name":"start","type":"integer"},{"name":"goal","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10,7],"expected":3},{"input":[3,4],"expected":3}]}

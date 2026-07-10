@@ -1,0 +1,1 @@
+{"fnName":"findSmallestInteger","params":[{"name":"nums","type":"integer[]"},{"name":"value","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,-10,7,13,6,8],5],"expected":4},{"input":[[1,-10,7,13,6,8],7],"expected":2}]}

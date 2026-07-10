@@ -1,0 +1,1 @@
+{"fnName":"getHint","params":[{"name":"secret","type":"string"},{"name":"guess","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["1807","7810"],"expected":"1A3B"},{"input":["1123","0111"],"expected":"1A1B"}]}

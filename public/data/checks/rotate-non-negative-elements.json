@@ -1,0 +1,1 @@
+{"fnName":"rotateElements","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,-2,3,-4],3],"expected":[3,-2,1,-4]},{"input":[[-3,-2,7],1],"expected":[-3,-2,7]},{"input":[[5,4,-9,6],2],"expected":[6,5,-9,4]}]}

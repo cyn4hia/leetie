@@ -1,0 +1,1 @@
+{"fnName":"networkBecomesIdle","params":[{"name":"edges","type":"integer[][]"},{"name":"patience","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[1,2]],[0,2,1]],"expected":8},{"input":[[[0,1],[0,2],[1,2]],[0,10,10]],"expected":3}]}

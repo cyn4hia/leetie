@@ -1,0 +1,1 @@
+{"fnName":"findXSum","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"},{"name":"x","type":"integer"}],"returnType":"long[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2,2,3,4,2,3],6,2],"expected":[6,10,12]},{"input":[[3,8,7,8,7,5],2,2],"expected":[11,15,15,15,12]}]}

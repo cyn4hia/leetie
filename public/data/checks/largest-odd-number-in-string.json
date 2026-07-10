@@ -1,0 +1,1 @@
+{"fnName":"largestOddNumber","params":[{"name":"num","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["52"],"expected":"5"},{"input":["4206"],"expected":""},{"input":["35427"],"expected":"35427"}]}

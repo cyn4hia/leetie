@@ -1,0 +1,1 @@
+{"fnName":"minimumCost","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5]],"expected":6},{"input":[[10,12,13,14,15]],"expected":11},{"input":[[22,33,22,33,22]],"expected":22}]}

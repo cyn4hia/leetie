@@ -1,0 +1,1 @@
+{"fnName":"isItPossible","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["ac","b"],"expected":false},{"input":["abcc","aab"],"expected":true},{"input":["abcde","fghij"],"expected":true}]}

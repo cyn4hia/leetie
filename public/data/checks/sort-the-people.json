@@ -1,0 +1,1 @@
+{"fnName":"sortPeople","params":[{"name":"names","type":"string[]"},{"name":"heights","type":"integer[]"}],"returnType":"string[]","outputParam":null,"compare":"exact","tests":[{"input":[["Mary","John","Emma"],[180,165,170]],"expected":["Mary","Emma","John"]},{"input":[["Alice","Bob","Bob"],[155,185,150]],"expected":["Bob","Alice","Bob"]}]}

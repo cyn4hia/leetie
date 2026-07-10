@@ -1,0 +1,1 @@
+{"fnName":"firstPalindrome","params":[{"name":"words","type":"string[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[["abc","car","ada","racecar","cool"]],"expected":"ada"},{"input":[["notapalindrome","racecar"]],"expected":"racecar"},{"input":[["def","ghi"]],"expected":""}]}

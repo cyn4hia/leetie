@@ -1,0 +1,1 @@
+{"fnName":"finalPrices","params":[{"name":"prices","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[8,4,6,2,3]],"expected":[4,2,4,2,3]},{"input":[[1,2,3,4,5]],"expected":[1,2,3,4,5]},{"input":[[10,1,1,6]],"expected":[9,0,1,6]}]}

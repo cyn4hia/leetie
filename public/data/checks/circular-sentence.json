@@ -1,0 +1,1 @@
+{"fnName":"isCircularSentence","params":[{"name":"sentence","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["leetcode exercises sound delightful"],"expected":true},{"input":["eetcode"],"expected":true},{"input":["Leetcode is cool"],"expected":false}]}

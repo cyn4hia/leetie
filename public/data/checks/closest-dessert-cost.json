@@ -1,0 +1,1 @@
+{"fnName":"closestCost","params":[{"name":"baseCosts","type":"integer[]"},{"name":"toppingCosts","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,7],[3,4],10],"expected":10},{"input":[[2,3],[4,5,100],18],"expected":17},{"input":[[3,10],[2,5],9],"expected":8}]}

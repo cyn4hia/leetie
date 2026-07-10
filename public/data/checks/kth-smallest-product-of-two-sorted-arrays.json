@@ -1,0 +1,1 @@
+{"fnName":"kthSmallestProduct","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"},{"name":"k","type":"long"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[2,5],[3,4],2],"expected":8},{"input":[[-4,-2,0,3],[2,4],6],"expected":0},{"input":[[-2,-1,0,1,2],[-3,-1,2,4,5],3],"expected":-6}]}

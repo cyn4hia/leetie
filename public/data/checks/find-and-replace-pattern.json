@@ -1,0 +1,1 @@
+{"fnName":"findAndReplacePattern","params":[{"name":"words","type":"string[]"},{"name":"pattern","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":[["abc","deq","mee","aqq","dkd","ccc"],"abb"],"expected":["mee","aqq"]},{"input":[["a","b","c"],"a"],"expected":["a","b","c"]}]}

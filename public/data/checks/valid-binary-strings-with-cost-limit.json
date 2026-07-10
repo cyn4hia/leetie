@@ -1,0 +1,1 @@
+{"fnName":"generateValidStrings","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":[3,1],"expected":["000","010","100"]},{"input":[1,0],"expected":["0","1"]}]}

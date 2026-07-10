@@ -1,0 +1,1 @@
+{"fnName":"findCriticalAndPseudoCriticalEdges","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"set","tests":[{"input":[5,[[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]]],"expected":[[0,1],[2,3,4,5]]},{"input":[4,[[0,1,1],[1,2,1],[2,3,1],[0,3,1]]],"expected":[[],[0,1,2,3]]}]}

@@ -1,0 +1,1 @@
+{"fnName":"captureForts","params":[{"name":"forts","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,0,-1,0,0,0,0,1]],"expected":4},{"input":[[0,0,1,-1]],"expected":0}]}

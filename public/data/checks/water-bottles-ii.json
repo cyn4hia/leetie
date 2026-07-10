@@ -1,0 +1,1 @@
+{"fnName":"maxBottlesDrunk","params":[{"name":"numBottles","type":"integer"},{"name":"numExchange","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[13,6],"expected":15},{"input":[10,3],"expected":13}]}

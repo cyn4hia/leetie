@@ -1,0 +1,1 @@
+{"fnName":"canMakeSquare","params":[{"name":"grid","type":"character[][]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[["B","W","B"],["B","W","W"],["B","W","B"]]],"expected":true},{"input":[[["B","W","B"],["W","B","W"],["B","W","B"]]],"expected":false},{"input":[[["B","W","B"],["B","W","W"],["B","W","W"]]],"expected":true}]}

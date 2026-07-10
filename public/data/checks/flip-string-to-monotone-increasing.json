@@ -1,0 +1,1 @@
+{"fnName":"minFlipsMonoIncr","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["00110"],"expected":1},{"input":["010110"],"expected":2},{"input":["00011000"],"expected":2}]}

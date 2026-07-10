@@ -1,0 +1,1 @@
+{"fnName":"countPrefixes","params":[{"name":"words","type":"string[]"},{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["a","b","c","ab","bc","abc"],"abc"],"expected":3},{"input":[["a","a"],"aa"],"expected":2}]}

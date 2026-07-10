@@ -1,0 +1,1 @@
+{"fnName":"areaOfMaxDiagonal","params":[{"name":"dimensions","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[9,3],[8,6]]],"expected":48},{"input":[[[3,4],[4,3]]],"expected":12}]}

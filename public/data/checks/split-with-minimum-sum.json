@@ -1,0 +1,1 @@
+{"fnName":"splitNum","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4325],"expected":59},{"input":[687],"expected":75}]}

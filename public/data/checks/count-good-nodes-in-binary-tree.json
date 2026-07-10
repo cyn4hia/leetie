@@ -1,0 +1,1 @@
+{"fnName":"goodNodes","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,1,4,3,null,1,5]],"expected":4},{"input":[[3,3,null,4,2]],"expected":3},{"input":[[1]],"expected":1}]}

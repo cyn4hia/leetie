@@ -1,0 +1,1 @@
+{"fnName":"minChanges","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[13,4],"expected":2},{"input":[21,21],"expected":0},{"input":[14,13],"expected":-1}]}

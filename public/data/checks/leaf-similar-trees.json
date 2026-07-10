@@ -1,0 +1,1 @@
+{"fnName":"leafSimilar","params":[{"name":"root1","type":"TreeNode"},{"name":"root2","type":"TreeNode"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[3,5,1,6,2,9,8,null,null,7,4],[3,5,1,6,7,4,2,null,null,null,null,null,null,9,8]],"expected":true},{"input":[[1,2,3],[1,3,2]],"expected":false}]}

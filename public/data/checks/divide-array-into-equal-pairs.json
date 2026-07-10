@@ -1,0 +1,1 @@
+{"fnName":"divideArray","params":[{"name":"nums","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[3,2,3,2,2,2]],"expected":true},{"input":[[1,2,3,4]],"expected":false}]}

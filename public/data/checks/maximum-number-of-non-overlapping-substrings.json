@@ -1,0 +1,1 @@
+{"fnName":"maxNumOfSubstrings","params":[{"name":"s","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":["adefaddaccc"],"expected":["e","f","ccc"]},{"input":["abbaccd"],"expected":["d","bb","cc"]}]}

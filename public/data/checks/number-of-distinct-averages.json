@@ -1,0 +1,1 @@
+{"fnName":"distinctAverages","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,1,4,0,3,5]],"expected":2},{"input":[[1,100]],"expected":1}]}

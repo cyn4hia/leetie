@@ -1,0 +1,1 @@
+{"fnName":"minimumTimeToInitialState","params":[{"name":"word","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abacaba",3],"expected":2},{"input":["abacaba",4],"expected":1},{"input":["abcbabcd",2],"expected":4}]}

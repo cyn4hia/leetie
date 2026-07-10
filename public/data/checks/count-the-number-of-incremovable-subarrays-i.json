@@ -1,0 +1,1 @@
+{"fnName":"incremovableSubarrayCount","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4]],"expected":10},{"input":[[6,5,7,8]],"expected":7},{"input":[[8,7,6,6]],"expected":3}]}

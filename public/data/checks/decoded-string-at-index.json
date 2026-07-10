@@ -1,0 +1,1 @@
+{"fnName":"decodeAtIndex","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leet2code3",10],"expected":"o"},{"input":["ha22",5],"expected":"h"},{"input":["a2345678999999999999999",1],"expected":"a"}]}

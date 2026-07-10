@@ -1,0 +1,1 @@
+{"fnName":"knightDialer","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1],"expected":10},{"input":[2],"expected":20},{"input":[3131],"expected":136006598}]}

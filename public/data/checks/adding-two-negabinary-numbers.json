@@ -1,0 +1,1 @@
+{"fnName":"addNegabinary","params":[{"name":"arr1","type":"integer[]"},{"name":"arr2","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1,1,1],[1,0,1]],"expected":[1,0,0,0,0]},{"input":[[0],[0]],"expected":[0]},{"input":[[0],[1]],"expected":[1]}]}

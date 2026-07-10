@@ -1,0 +1,1 @@
+{"fnName":"longestContinuousSubstring","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abacaba"],"expected":2},{"input":["abcde"],"expected":5}]}

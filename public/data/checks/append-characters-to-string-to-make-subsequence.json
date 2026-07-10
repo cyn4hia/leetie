@@ -1,0 +1,1 @@
+{"fnName":"appendCharacters","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["coaching","coding"],"expected":4},{"input":["abcde","a"],"expected":0},{"input":["z","abcde"],"expected":5}]}

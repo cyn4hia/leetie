@@ -1,0 +1,1 @@
+{"fnName":"getLeastFrequentDigit","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1553322],"expected":1},{"input":[723344511],"expected":2}]}

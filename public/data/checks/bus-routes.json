@@ -1,0 +1,1 @@
+{"fnName":"numBusesToDestination","params":[{"name":"routes","type":"integer[][]"},{"name":"source","type":"integer"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2,7],[3,6,7]],1,6],"expected":2},{"input":[[[7,12],[4,5,15],[6],[15,19],[9,12,13]],15,12],"expected":-1}]}

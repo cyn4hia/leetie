@@ -1,0 +1,1 @@
+{"fnName":"maxNumber","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[3,4,6,5],[9,1,2,5,8,3],5],"expected":[9,8,6,5,3]},{"input":[[6,7],[6,0,4],5],"expected":[6,7,6,0,4]},{"input":[[3,9],[8,9],3],"expected":[9,8,9]}]}

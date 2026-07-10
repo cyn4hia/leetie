@@ -1,0 +1,1 @@
+{"fnName":"maximumXor","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["101","011"],"expected":"110"},{"input":["0110","1110"],"expected":"1101"},{"input":["0101","1001"],"expected":"1111"}]}

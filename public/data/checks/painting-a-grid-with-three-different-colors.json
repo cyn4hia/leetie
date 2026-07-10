@@ -1,0 +1,1 @@
+{"fnName":"colorTheGrid","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,1],"expected":3},{"input":[1,2],"expected":6},{"input":[5,5],"expected":580986}]}

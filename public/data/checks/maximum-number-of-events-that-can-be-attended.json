@@ -1,0 +1,1 @@
+{"fnName":"maxEvents","params":[{"name":"events","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[2,3],[3,4]]],"expected":3},{"input":[[[1,2],[2,3],[3,4],[1,2]]],"expected":4}]}

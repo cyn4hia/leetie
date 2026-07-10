@@ -1,0 +1,1 @@
+{"fnName":"partition","params":[{"name":"head","type":"ListNode"},{"name":"x","type":"integer"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,3,2,5,2],3],"expected":[1,2,2,4,3,5]},{"input":[[2,1],2],"expected":[1,2]}]}

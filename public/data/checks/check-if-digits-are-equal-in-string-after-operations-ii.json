@@ -1,0 +1,1 @@
+{"fnName":"hasSameDigits","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["3902"],"expected":true},{"input":["34789"],"expected":false}]}

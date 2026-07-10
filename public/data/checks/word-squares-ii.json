@@ -1,0 +1,1 @@
+{"fnName":"wordSquares","params":[{"name":"words","type":"string[]"}],"returnType":"list<list<string>>","outputParam":null,"compare":"exact","tests":[{"input":[["able","area","echo","also"]],"expected":[["able","area","echo","also"],["area","able","also","echo"]]},{"input":[["code","cafe","eden","edge"]],"expected":[]}]}

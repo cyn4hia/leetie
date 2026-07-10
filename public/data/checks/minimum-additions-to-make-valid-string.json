@@ -1,0 +1,1 @@
+{"fnName":"addMinimum","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["b"],"expected":2},{"input":["aaa"],"expected":6},{"input":["abc"],"expected":0}]}

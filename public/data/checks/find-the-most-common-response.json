@@ -1,0 +1,1 @@
+{"fnName":"findCommonResponse","params":[{"name":"responses","type":"list<list<string>>"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[["good","ok","good","ok"],["ok","bad","good","ok","ok"],["good"],["bad"]]],"expected":"good"},{"input":[[["good","ok","good"],["ok","bad"],["bad","notsure"],["great","good"]]],"expected":"bad"}]}

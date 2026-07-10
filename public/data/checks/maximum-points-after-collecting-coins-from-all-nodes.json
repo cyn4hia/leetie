@@ -1,0 +1,1 @@
+{"fnName":"maximumPoints","params":[{"name":"edges","type":"integer[][]"},{"name":"coins","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[1,2],[2,3]],[10,10,3,3],5],"expected":11},{"input":[[[0,1],[0,2]],[8,4,4],0],"expected":16}]}

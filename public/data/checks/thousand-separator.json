@@ -1,0 +1,1 @@
+{"fnName":"thousandSeparator","params":[{"name":"n","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[987],"expected":"987"},{"input":[1234],"expected":"1.234"}]}

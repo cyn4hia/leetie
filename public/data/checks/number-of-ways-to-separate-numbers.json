@@ -1,0 +1,1 @@
+{"fnName":"numberOfCombinations","params":[{"name":"num","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["327"],"expected":2},{"input":["094"],"expected":0},{"input":["0"],"expected":0}]}

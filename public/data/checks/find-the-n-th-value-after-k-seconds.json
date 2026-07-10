@@ -1,0 +1,1 @@
+{"fnName":"valueAfterKSeconds","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4,5],"expected":56},{"input":[5,3],"expected":35}]}

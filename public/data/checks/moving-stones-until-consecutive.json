@@ -1,0 +1,1 @@
+{"fnName":"numMovesStones","params":[{"name":"a","type":"integer"},{"name":"b","type":"integer"},{"name":"c","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[1,2,5],"expected":[1,2]},{"input":[4,3,2],"expected":[0,0]},{"input":[3,5,1],"expected":[1,2]}]}

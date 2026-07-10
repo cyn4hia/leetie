@@ -1,0 +1,1 @@
+{"fnName":"numRollsToTarget","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,6,3],"expected":1},{"input":[2,6,7],"expected":6},{"input":[30,30,500],"expected":222616187}]}

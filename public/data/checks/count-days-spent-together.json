@@ -1,0 +1,1 @@
+{"fnName":"countDaysTogether","params":[{"name":"arriveAlice","type":"string"},{"name":"leaveAlice","type":"string"},{"name":"arriveBob","type":"string"},{"name":"leaveBob","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["08-15","08-18","08-16","08-19"],"expected":3},{"input":["10-01","10-31","11-01","12-31"],"expected":0}]}

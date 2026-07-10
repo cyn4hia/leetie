@@ -1,0 +1,1 @@
+{"fnName":"preimageSizeFZF","params":[{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[0],"expected":5},{"input":[5],"expected":0},{"input":[3],"expected":5}]}

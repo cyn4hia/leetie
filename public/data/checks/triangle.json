@@ -1,0 +1,1 @@
+{"fnName":"minimumTotal","params":[{"name":"triangle","type":"list<list<integer>>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[2],[3,4],[6,5,7],[4,1,8,3]]],"expected":11},{"input":[[[-10]]],"expected":-10}]}

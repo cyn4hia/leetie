@@ -1,0 +1,1 @@
+{"fnName":"isReachableAtTime","params":[{"name":"sx","type":"integer"},{"name":"sy","type":"integer"},{"name":"fx","type":"integer"},{"name":"fy","type":"integer"},{"name":"t","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[2,4,7,7,6],"expected":true},{"input":[3,1,7,3,3],"expected":false}]}

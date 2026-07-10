@@ -1,0 +1,1 @@
+{"fnName":"longestCommonPrefix","params":[{"name":"strs","type":"string[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[["flower","flow","flight"]],"expected":"fl"},{"input":[["dog","racecar","car"]],"expected":""}]}

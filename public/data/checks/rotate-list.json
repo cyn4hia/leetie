@@ -1,0 +1,1 @@
+{"fnName":"rotateRight","params":[{"name":"head","type":"ListNode"},{"name":"k","type":"integer"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5],2],"expected":[4,5,1,2,3]},{"input":[[0,1,2],4],"expected":[2,0,1]}]}

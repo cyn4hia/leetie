@@ -1,0 +1,1 @@
+{"fnName":"subarraySum","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1],2],"expected":2},{"input":[[1,2,3],3],"expected":2}]}

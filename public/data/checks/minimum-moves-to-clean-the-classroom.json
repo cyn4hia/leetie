@@ -1,0 +1,1 @@
+{"fnName":"minMoves","params":[{"name":"classroom","type":"string[]"},{"name":"energy","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["S.","XL"],2],"expected":2},{"input":[["LS","RL"],4],"expected":3},{"input":[["L.S","RXL"],3],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"sortVowels","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leetcode"],"expected":"leetcedo"},{"input":["aeiaaioooa"],"expected":"aaaaoooiie"},{"input":["baeiou"],"expected":"baeiou"}]}

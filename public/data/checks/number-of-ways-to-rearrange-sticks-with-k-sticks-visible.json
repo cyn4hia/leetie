@@ -1,0 +1,1 @@
+{"fnName":"rearrangeSticks","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,2],"expected":3},{"input":[5,5],"expected":1},{"input":[20,11],"expected":647427950}]}

@@ -1,0 +1,1 @@
+{"fnName":"maxVowels","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abciiidef",3],"expected":3},{"input":["aeiou",2],"expected":2},{"input":["leetcode",3],"expected":2}]}

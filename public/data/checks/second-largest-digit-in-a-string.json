@@ -1,0 +1,1 @@
+{"fnName":"secondHighest","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["dfa12321afd"],"expected":2},{"input":["abc1111"],"expected":-1}]}

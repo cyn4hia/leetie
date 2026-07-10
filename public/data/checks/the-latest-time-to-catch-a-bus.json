@@ -1,0 +1,1 @@
+{"fnName":"latestTimeCatchTheBus","params":[{"name":"buses","type":"integer[]"},{"name":"passengers","type":"integer[]"},{"name":"capacity","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[10,20],[2,17,18,19],2],"expected":16},{"input":[[20,30,10],[19,13,26,4,25,11,21],2],"expected":20}]}

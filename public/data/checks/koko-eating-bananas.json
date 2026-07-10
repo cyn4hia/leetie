@@ -1,0 +1,1 @@
+{"fnName":"minEatingSpeed","params":[{"name":"piles","type":"integer[]"},{"name":"h","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,6,7,11],8],"expected":4},{"input":[[30,11,23,4,20],5],"expected":30},{"input":[[30,11,23,4,20],6],"expected":23}]}

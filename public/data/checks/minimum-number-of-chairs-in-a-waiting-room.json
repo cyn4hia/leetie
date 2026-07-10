@@ -1,0 +1,1 @@
+{"fnName":"minimumChairs","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["EEEEEEE"],"expected":7},{"input":["ELELEEL"],"expected":2},{"input":["ELEELEELLL"],"expected":3}]}

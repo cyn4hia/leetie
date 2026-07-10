@@ -1,0 +1,1 @@
+{"fnName":"countSubstrings","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aba","baba"],"expected":6},{"input":["ab","bb"],"expected":3}]}

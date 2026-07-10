@@ -1,0 +1,1 @@
+{"fnName":"mirrorReflection","params":[{"name":"p","type":"integer"},{"name":"q","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,1],"expected":2},{"input":[3,1],"expected":1}]}

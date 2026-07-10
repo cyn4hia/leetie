@@ -1,0 +1,1 @@
+{"fnName":"countElements","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[11,7,2,15]],"expected":2},{"input":[[-3,3,3,90]],"expected":2}]}

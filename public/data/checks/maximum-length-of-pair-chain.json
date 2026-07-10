@@ -1,0 +1,1 @@
+{"fnName":"findLongestChain","params":[{"name":"pairs","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[2,3],[3,4]]],"expected":2},{"input":[[[1,2],[7,8],[4,5]]],"expected":3}]}

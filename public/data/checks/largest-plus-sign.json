@@ -1,0 +1,1 @@
+{"fnName":"orderOfLargestPlusSign","params":[{"name":"n","type":"integer"},{"name":"mines","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,[[4,2]]],"expected":2},{"input":[1,[[0,0]]],"expected":0}]}

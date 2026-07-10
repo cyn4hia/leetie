@@ -56,6 +56,8 @@ query questionContent($titleSlug: String!) {
   question(titleSlug: $titleSlug) {
     content
     codeSnippets { langSlug code }
+    metaData
+    exampleTestcases
   }
 }`
 
@@ -101,13 +103,25 @@ async function fetchContent(slug) {
     if (s.langSlug === 'python3') snippets.python = s.code
     if (s.langSlug === 'javascript') snippets.javascript = s.code
   }
-  return { content: q.content, snippets }
+  let meta = null
+  try {
+    meta = q.metaData ? JSON.parse(q.metaData) : null
+  } catch {
+    // a handful of problems have malformed metaData — checks just won't generate
+  }
+  return {
+    content: q.content,
+    snippets,
+    meta,
+    exampleTestcases: q.exampleTestcases ?? null,
+  }
 }
 
 async function main() {
   const args = process.argv.slice(2)
   const contentIdx = args.indexOf('--content')
-  const contentCount = contentIdx >= 0 ? parseInt(args[contentIdx + 1] ?? '0', 10) : 0
+  const contentArg = contentIdx >= 0 ? (args[contentIdx + 1] ?? '0') : '0'
+  const contentCount = contentArg === 'all' ? Infinity : parseInt(contentArg, 10)
 
   await mkdir(CONTENT_DIR, { recursive: true })
 
@@ -124,27 +138,35 @@ async function main() {
   }
 
   if (contentCount > 0) {
-    const free = catalog.filter((q) => !q.paidOnly).slice(0, contentCount)
-    console.log(`fetching content for ${free.length} problems...`)
+    const free = catalog.filter((q) => !q.paidOnly)
+    const wanted = contentCount === Infinity ? free : free.slice(0, contentCount)
+    console.log(`fetching content for ${wanted.length} problems...`)
     let done = 0
     let skipped = 0
-    for (const q of free) {
+    const failures = []
+    for (const q of wanted) {
       const file = path.join(CONTENT_DIR, `${q.slug}.json`)
       done++
       if (existsSync(file)) {
         skipped++
         continue
       }
-      try {
-        const content = await fetchContent(q.slug)
-        if (content) await writeFile(file, JSON.stringify(content))
-      } catch (err) {
-        console.warn(`\n  ${q.slug}: ${err.message}`)
+      let fetched = false
+      for (let attempt = 1; attempt <= 4 && !fetched; attempt++) {
+        try {
+          const content = await fetchContent(q.slug)
+          if (content) await writeFile(file, JSON.stringify(content))
+          fetched = true
+        } catch (err) {
+          if (attempt === 4) failures.push(`${q.slug}: ${err.message}`)
+          else await sleep(2000 * attempt)
+        }
       }
-      process.stdout.write(`\r  content: ${done}/${free.length}`)
+      process.stdout.write(`\r  content: ${done}/${wanted.length}`)
       await sleep(DELAY_MS)
     }
-    console.log(`\ncontent done (${skipped} already cached)`)
+    console.log(`\ncontent done (${skipped} already cached, ${failures.length} failed)`)
+    for (const f of failures) console.warn('  FAILED ' + f)
   }
 }
 

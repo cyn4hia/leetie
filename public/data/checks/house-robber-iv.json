@@ -1,0 +1,1 @@
+{"fnName":"minCapability","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,5,9],2],"expected":5},{"input":[[2,7,9,3,1],2],"expected":2}]}

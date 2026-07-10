@@ -1,0 +1,1 @@
+{"fnName":"firstStableIndex","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,0,1,4],3],"expected":3},{"input":[[3,2,1],1],"expected":-1},{"input":[[0],0],"expected":0}]}

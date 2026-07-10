@@ -1,0 +1,1 @@
+{"fnName":"smallestDivisor","params":[{"name":"nums","type":"integer[]"},{"name":"threshold","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,5,9],6],"expected":5},{"input":[[44,22,33,11,1],5],"expected":44}]}

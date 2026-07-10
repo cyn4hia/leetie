@@ -1,0 +1,1 @@
+{"fnName":"minimumPerimeter","params":[{"name":"neededApples","type":"long"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[1],"expected":8},{"input":[13],"expected":16},{"input":[1000000000],"expected":5040}]}

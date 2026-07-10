@@ -1,0 +1,1 @@
+{"fnName":"countCompleteSubstrings","params":[{"name":"word","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["igigee",2],"expected":3},{"input":["aaabbbccc",3],"expected":6}]}

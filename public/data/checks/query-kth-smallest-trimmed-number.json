@@ -1,0 +1,1 @@
+{"fnName":"smallestTrimmedNumbers","params":[{"name":"nums","type":"string[]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["102","473","251","814"],[[1,1],[2,3],[4,2],[1,2]]],"expected":[2,2,1,0]},{"input":[["24","37","96","04"],[[2,1],[2,2]]],"expected":[3,0]}]}

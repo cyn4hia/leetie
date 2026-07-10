@@ -1,0 +1,1 @@
+{"fnName":"findRotateSteps","params":[{"name":"ring","type":"string"},{"name":"key","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["godding","gd"],"expected":4},{"input":["godding","godding"],"expected":13}]}

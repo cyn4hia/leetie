@@ -1,0 +1,1 @@
+{"fnName":"minimumBuckets","params":[{"name":"hamsters","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["H..H"],"expected":2},{"input":[".H.H."],"expected":1},{"input":[".HHH."],"expected":-1}]}

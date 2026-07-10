@@ -1,0 +1,1 @@
+{"fnName":"canMakePaliQueries","params":[{"name":"s","type":"string"},{"name":"queries","type":"integer[][]"}],"returnType":"list<boolean>","outputParam":null,"compare":"exact","tests":[{"input":["abcda",[[3,3,0],[1,2,0],[0,3,1],[0,3,2],[0,4,1]]],"expected":[true,false,false,true,true]},{"input":["lyb",[[0,1,0],[2,2,1]]],"expected":[false,true]}]}

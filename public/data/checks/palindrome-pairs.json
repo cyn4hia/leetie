@@ -1,0 +1,1 @@
+{"fnName":"palindromePairs","params":[{"name":"words","type":"string[]"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"exact","tests":[{"input":[["abcd","dcba","lls","s","sssll"]],"expected":[[0,1],[1,0],[3,2],[2,4]]},{"input":[["bat","tab","cat"]],"expected":[[0,1],[1,0]]},{"input":[["a",""]],"expected":[[0,1],[1,0]]}]}

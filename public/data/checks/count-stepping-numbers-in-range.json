@@ -1,0 +1,1 @@
+{"fnName":"countSteppingNumbers","params":[{"name":"low","type":"string"},{"name":"high","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["1","11"],"expected":10},{"input":["90","101"],"expected":2}]}

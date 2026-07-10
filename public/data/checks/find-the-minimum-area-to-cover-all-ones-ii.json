@@ -1,0 +1,1 @@
+{"fnName":"minimumSum","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,0,1],[1,1,1]]],"expected":5},{"input":[[[1,0,1,0],[0,1,0,1]]],"expected":5}]}

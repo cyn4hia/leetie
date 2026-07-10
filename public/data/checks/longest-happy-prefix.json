@@ -1,0 +1,1 @@
+{"fnName":"longestPrefix","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["level"],"expected":"l"},{"input":["ababab"],"expected":"abab"}]}

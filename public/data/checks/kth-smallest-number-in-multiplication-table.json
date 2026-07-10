@@ -1,0 +1,1 @@
+{"fnName":"findKthNumber","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,3,5],"expected":3},{"input":[2,3,6],"expected":6}]}

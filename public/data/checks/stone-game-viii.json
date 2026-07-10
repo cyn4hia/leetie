@@ -1,0 +1,1 @@
+{"fnName":"stoneGameVIII","params":[{"name":"stones","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-1,2,-3,4,-5]],"expected":5},{"input":[[7,-6,5,10,5,-2,-6]],"expected":13},{"input":[[-10,-12]],"expected":-22}]}

@@ -1,0 +1,1 @@
+{"fnName":"numSubmatrixSumTarget","params":[{"name":"matrix","type":"integer[][]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1,0],[1,1,1],[0,1,0]],0],"expected":4},{"input":[[[1,-1],[-1,1]],0],"expected":5},{"input":[[[904]],0],"expected":0}]}

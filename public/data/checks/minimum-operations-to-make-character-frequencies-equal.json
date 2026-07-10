@@ -1,0 +1,1 @@
+{"fnName":"makeStringGood","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["acab"],"expected":1},{"input":["wddw"],"expected":0},{"input":["aaabbc"],"expected":2}]}

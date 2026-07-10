@@ -1,0 +1,1 @@
+{"fnName":"getCommon","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3],[2,4]],"expected":2},{"input":[[1,2,3,6],[2,3,4,5]],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"sumNumbers","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":25},{"input":[[4,9,0,5,1]],"expected":1026}]}

@@ -1,0 +1,1 @@
+{"fnName":"isRationalEqual","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["0.(52)","0.5(25)"],"expected":true},{"input":["0.1666(6)","0.166(66)"],"expected":true},{"input":["0.9(9)","1."],"expected":true}]}

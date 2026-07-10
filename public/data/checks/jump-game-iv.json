@@ -1,0 +1,1 @@
+{"fnName":"minJumps","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[100,-23,-23,404,100,23,23,23,3,404]],"expected":3},{"input":[[7]],"expected":0},{"input":[[7,6,9,6,9,6,9,7]],"expected":1}]}

@@ -1,0 +1,1 @@
+{"fnName":"countCombinations","params":[{"name":"pieces","type":"string[]"},{"name":"positions","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["rook"],[[1,1]]],"expected":15},{"input":[["queen"],[[1,1]]],"expected":22},{"input":[["bishop"],[[4,3]]],"expected":12}]}

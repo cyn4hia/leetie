@@ -1,0 +1,1 @@
+{"fnName":"maxJump","params":[{"name":"stones","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,2,5,6,7]],"expected":5},{"input":[[0,3,9]],"expected":9}]}

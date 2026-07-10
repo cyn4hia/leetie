@@ -1,0 +1,1 @@
+{"fnName":"reverseStr","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abcdefg",2],"expected":"bacdfeg"},{"input":["abcd",2],"expected":"bacd"}]}

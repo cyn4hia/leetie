@@ -1,0 +1,1 @@
+{"fnName":"maxTurbulenceSize","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[9,4,2,10,7,8,8,1,9]],"expected":5},{"input":[[4,8,12,16]],"expected":2},{"input":[[100]],"expected":1}]}

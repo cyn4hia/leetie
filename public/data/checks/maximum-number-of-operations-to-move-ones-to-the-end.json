@@ -1,0 +1,1 @@
+{"fnName":"maxOperations","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["1001101"],"expected":4},{"input":["00111"],"expected":0}]}

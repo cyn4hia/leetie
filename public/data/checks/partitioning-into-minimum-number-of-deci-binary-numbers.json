@@ -1,0 +1,1 @@
+{"fnName":"minPartitions","params":[{"name":"n","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["32"],"expected":3},{"input":["82734"],"expected":8},{"input":["27346209830709182346"],"expected":9}]}

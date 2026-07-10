@@ -1,0 +1,1 @@
+{"fnName":"numberToWords","params":[{"name":"num","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[123],"expected":"One Hundred Twenty Three"},{"input":[12345],"expected":"Twelve Thousand Three Hundred Forty Five"},{"input":[1234567],"expected":"One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven"}]}

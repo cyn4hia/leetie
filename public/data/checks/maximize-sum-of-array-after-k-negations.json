@@ -1,0 +1,1 @@
+{"fnName":"largestSumAfterKNegations","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,3],1],"expected":5},{"input":[[3,-1,0,2],3],"expected":6},{"input":[[2,-3,-1,5,-4],2],"expected":13}]}

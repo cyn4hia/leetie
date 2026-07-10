@@ -1,0 +1,1 @@
+{"fnName":"constructProductMatrix","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer[][]","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[3,4]]],"expected":[[24,12],[8,6]]},{"input":[[[12345],[2],[1]]],"expected":[[2],[0],[0]]}]}

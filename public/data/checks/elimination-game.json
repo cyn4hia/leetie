@@ -1,0 +1,1 @@
+{"fnName":"lastRemaining","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[9],"expected":6},{"input":[1],"expected":1}]}

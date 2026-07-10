@@ -1,0 +1,1 @@
+{"fnName":"findPaths","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"},{"name":"maxMove","type":"integer"},{"name":"startRow","type":"integer"},{"name":"startColumn","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,2,2,0,0],"expected":6},{"input":[1,3,3,0,1],"expected":12}]}

@@ -1,0 +1,1 @@
+{"fnName":"isIsomorphic","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["egg","add"],"expected":true},{"input":["foo","bar"],"expected":false},{"input":["paper","title"],"expected":true}]}

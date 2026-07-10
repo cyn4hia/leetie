@@ -1,0 +1,1 @@
+{"fnName":"minimumOperationsToMakeKPeriodic","params":[{"name":"word","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["leetcodeleet",4],"expected":1},{"input":["leetcoleet",2],"expected":3}]}

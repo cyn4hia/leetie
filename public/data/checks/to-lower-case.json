@@ -1,0 +1,1 @@
+{"fnName":"toLowerCase","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["Hello"],"expected":"hello"},{"input":["here"],"expected":"here"},{"input":["LOVELY"],"expected":"lovely"}]}

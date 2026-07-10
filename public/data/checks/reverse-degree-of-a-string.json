@@ -1,0 +1,1 @@
+{"fnName":"reverseDegree","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":148},{"input":["zaza"],"expected":160}]}

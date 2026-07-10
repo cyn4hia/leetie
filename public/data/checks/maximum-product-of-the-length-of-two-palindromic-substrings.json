@@ -1,0 +1,1 @@
+{"fnName":"maxProduct","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["ababbb"],"expected":9},{"input":["zaaaxbbby"],"expected":9}]}

@@ -1,0 +1,1 @@
+{"fnName":"sumDistance","params":[{"name":"nums","type":"integer[]"},{"name":"s","type":"string"},{"name":"d","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-2,0,2],"RLL",3],"expected":8},{"input":[[1,0],"RL",2],"expected":5}]}

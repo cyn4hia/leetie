@@ -1,0 +1,1 @@
+{"fnName":"countStableSubarrays","params":[{"name":"capacity","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[9,3,3,3,9]],"expected":2},{"input":[[1,2,3,4,5]],"expected":0},{"input":[[-4,4,0,0,-8,-4]],"expected":1}]}

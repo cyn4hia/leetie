@@ -1,0 +1,1 @@
+{"fnName":"peakIndexInMountainArray","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,0]],"expected":1},{"input":[[0,2,1,0]],"expected":1},{"input":[[0,10,5,2]],"expected":1}]}

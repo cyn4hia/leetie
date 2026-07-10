@@ -1,0 +1,1 @@
+{"fnName":"findTheDistanceValue","params":[{"name":"arr1","type":"integer[]"},{"name":"arr2","type":"integer[]"},{"name":"d","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,5,8],[10,9,1,8],2],"expected":2},{"input":[[1,4,2,3],[-4,-3,6,10,20,30],3],"expected":2},{"input":[[2,1,100,3],[-5,-2,10,-3,7],6],"expected":1}]}

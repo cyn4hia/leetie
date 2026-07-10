@@ -1,0 +1,1 @@
+{"fnName":"maxProductDifference","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,6,2,7,4]],"expected":34},{"input":[[4,2,5,9,7,4,8]],"expected":64}]}

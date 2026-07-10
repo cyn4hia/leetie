@@ -1,0 +1,1 @@
+{"fnName":"longestPalindrome","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abccccdd"],"expected":7},{"input":["a"],"expected":1}]}

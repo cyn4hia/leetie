@@ -1,0 +1,1 @@
+{"fnName":"digitSum","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["11111222223",3],"expected":"135"},{"input":["00000000",3],"expected":"000"}]}

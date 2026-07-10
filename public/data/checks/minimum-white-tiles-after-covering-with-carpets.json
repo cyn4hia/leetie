@@ -1,0 +1,1 @@
+{"fnName":"minimumWhiteTiles","params":[{"name":"floor","type":"string"},{"name":"numCarpets","type":"integer"},{"name":"carpetLen","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["10110101",2,2],"expected":2},{"input":["11111",2,3],"expected":0}]}

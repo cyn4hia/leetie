@@ -1,0 +1,1 @@
+{"fnName":"percentageLetter","params":[{"name":"s","type":"string"},{"name":"letter","type":"character"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["foobar","o"],"expected":33},{"input":["jjjj","k"],"expected":0}]}

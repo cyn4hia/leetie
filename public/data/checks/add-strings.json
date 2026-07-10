@@ -1,0 +1,1 @@
+{"fnName":"addStrings","params":[{"name":"num1","type":"string"},{"name":"num2","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["11","123"],"expected":"134"},{"input":["456","77"],"expected":"533"},{"input":["0","0"],"expected":"0"}]}

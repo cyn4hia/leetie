@@ -4,10 +4,14 @@ LeetCode but it's cute! Retro-themed daily practice, fully static — problem br
 in-browser IDE, real code execution, grading, a daily problem, and a pixel debugging cat
 who believes in you.
 
-- **light theme**: purple retro computer · **dark theme**: light-blue retro terminal
-- **3,985 problems** from the LeetCode catalog, browsable + searchable
-- **20 curated classics** (★) ship with tests + reference solutions in JS & Python — fully
-  gradable offline with S/A/B ranks, streaks, and solved badges
+- **light theme**: purple retro computer · **dark theme**: cozy pink retro terminal
+- **3,985 problems** from the LeetCode catalog, browsable + searchable + rollable (gacha!)
+- **official starters everywhere**: every free problem ships LeetCode's own JS + Python
+  starter snippets, function signatures, and typed metadata
+- **submission checks for thousands of problems**: auto-generated from each problem's own
+  examples (so expected outputs are LeetCode's, not guesses) — marked ☆; supports linked
+  lists, trees, in-place/void problems, and any-order/float comparisons
+- **20 curated classics** (★) with hand-built test suites + reference solutions
 - **Monaco editor** (the editor engine inside VS Code) side-by-side with the problem
 - **runs code for real**: JavaScript in a sandboxed web worker, Python via Pyodide (WASM)
 - **VS Code sync**: link a local file, edit it in VS Code, every save syncs into leetie
@@ -22,19 +26,22 @@ npm run dev
 
 ## problem data
 
-The full catalog + content for the first 250 free problems is pre-fetched into
-`public/data/` (committed, so deploys need no network). To refresh or pull more:
+The full catalog, plus content + starters + metadata for **every free problem**, is
+pre-fetched into `public/data/` (committed, so deploys need no network). To refresh:
 
 ```bash
-npm run fetch-problems                  # catalog only
-npm run fetch-problems -- --content 500 # + content for first 500 free problems
+npm run fetch-problems -- --content all   # catalog + all free problem content
+node scripts/generate-checks.mjs          # regenerate ☆ submission checks
 ```
 
-Problems without local content are fetched at runtime from a public mirror
-(alfa-leetcode-api) and cached in localStorage. Paid-only problems are excluded.
+`generate-checks.mjs` builds each problem's checks by pairing LeetCode's official sample
+inputs (`exampleTestcases`) with outputs parsed from the statement's examples, and
+cross-validates the two. It is deliberately conservative — design problems,
+multiple-valid-answer problems, and anything ambiguous is skipped rather than risking a
+check that rejects correct code. Paid-only problems are excluded.
 
-Curated (gradable) problems live in `src/data/problems/` — adding one there gives it
-tests, starter code, reference solutions, and a ★ in the sidebar.
+Curated (★) problems live in `src/data/problems/` — adding one there gives it a
+hand-built test suite, starter code, and reference solutions.
 
 ## deploy to GitHub Pages
 

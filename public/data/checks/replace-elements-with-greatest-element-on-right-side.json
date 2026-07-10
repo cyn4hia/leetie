@@ -1,0 +1,1 @@
+{"fnName":"replaceElements","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[17,18,5,4,6,1]],"expected":[18,6,6,6,1,-1]},{"input":[[400]],"expected":[-1]}]}

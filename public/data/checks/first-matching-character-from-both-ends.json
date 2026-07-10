@@ -1,0 +1,1 @@
+{"fnName":"firstMatchingIndex","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcacbd"],"expected":1},{"input":["abc"],"expected":1},{"input":["abcdab"],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"findMaxSum","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long[]","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,1,5,3],[10,20,30,40,50],2],"expected":[80,30,0,80,50]},{"input":[[2,2,2,2],[3,1,2,3],1],"expected":[0,0,0,0]}]}

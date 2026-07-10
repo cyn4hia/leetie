@@ -1,0 +1,1 @@
+{"fnName":"numDifferentIntegers","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["a123bc34d8ef34"],"expected":3},{"input":["leet1234code234"],"expected":2},{"input":["a1b01c001"],"expected":1}]}

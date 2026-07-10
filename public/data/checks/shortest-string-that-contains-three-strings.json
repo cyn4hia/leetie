@@ -1,0 +1,1 @@
+{"fnName":"minimumString","params":[{"name":"a","type":"string"},{"name":"b","type":"string"},{"name":"c","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abc","bca","aaa"],"expected":"aaabca"},{"input":["ab","ba","aba"],"expected":"aba"}]}

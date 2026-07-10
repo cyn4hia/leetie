@@ -1,0 +1,1 @@
+{"fnName":"rearrangeCharacters","params":[{"name":"s","type":"string"},{"name":"target","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ilovecodingonleetcode","code"],"expected":2},{"input":["abcba","abc"],"expected":1},{"input":["abbaccaddaeea","aaaaa"],"expected":1}]}

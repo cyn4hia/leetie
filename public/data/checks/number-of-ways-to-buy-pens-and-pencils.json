@@ -1,0 +1,1 @@
+{"fnName":"waysToBuyPensPencils","params":[{"name":"total","type":"integer"},{"name":"cost1","type":"integer"},{"name":"cost2","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[20,10,5],"expected":9},{"input":[5,10,10],"expected":1}]}

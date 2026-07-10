@@ -1,0 +1,1 @@
+{"fnName":"divide","params":[{"name":"dividend","type":"integer"},{"name":"divisor","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10,3],"expected":3},{"input":[7,-3],"expected":-2}]}

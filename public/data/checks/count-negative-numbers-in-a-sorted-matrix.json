@@ -1,0 +1,1 @@
+{"fnName":"countNegatives","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[4,3,2,-1],[3,2,1,-1],[1,1,-1,-2],[-1,-1,-2,-3]]],"expected":8},{"input":[[[3,2],[1,0]]],"expected":0}]}

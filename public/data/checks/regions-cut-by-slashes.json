@@ -1,0 +1,1 @@
+{"fnName":"regionsBySlashes","params":[{"name":"grid","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[" /","/ "]],"expected":2},{"input":[[" /","  "]],"expected":1},{"input":[["/\\","\\/"]],"expected":5}]}

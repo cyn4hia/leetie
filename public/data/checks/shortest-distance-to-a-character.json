@@ -1,0 +1,1 @@
+{"fnName":"shortestToChar","params":[{"name":"s","type":"string"},{"name":"c","type":"character"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":["loveleetcode","e"],"expected":[3,2,1,0,1,0,0,1,2,2,1,0]},{"input":["aaab","b"],"expected":[3,2,1,0]}]}

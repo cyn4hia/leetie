@@ -1,0 +1,1 @@
+{"fnName":"findContentChildren","params":[{"name":"g","type":"integer[]"},{"name":"s","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3],[1,1]],"expected":1},{"input":[[1,2],[1,2,3]],"expected":2}]}

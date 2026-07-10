@@ -1,0 +1,1 @@
+{"fnName":"findTheWinner","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,2],"expected":3},{"input":[6,5],"expected":1}]}

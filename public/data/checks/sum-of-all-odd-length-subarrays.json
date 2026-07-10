@@ -1,0 +1,1 @@
+{"fnName":"sumOddLengthSubarrays","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,2,5,3]],"expected":58},{"input":[[1,2]],"expected":3},{"input":[[10,11,12]],"expected":66}]}

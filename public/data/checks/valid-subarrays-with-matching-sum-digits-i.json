@@ -1,0 +1,1 @@
+{"fnName":"countValidSubarrays","params":[{"name":"nums","type":"integer[]"},{"name":"x","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,100,1],1],"expected":4},{"input":[[1],2],"expected":0}]}

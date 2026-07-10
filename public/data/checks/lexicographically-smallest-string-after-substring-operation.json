@@ -1,0 +1,1 @@
+{"fnName":"smallestString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["cbabc"],"expected":"baabc"},{"input":["aa"],"expected":"az"},{"input":["acbbc"],"expected":"abaab"},{"input":["leetcode"],"expected":"kddsbncd"}]}

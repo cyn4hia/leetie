@@ -1,0 +1,1 @@
+{"fnName":"removeSubstring","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["(())",1],"expected":""},{"input":["(()(",1],"expected":"(("},{"input":["((()))()()()",3],"expected":"()()()"}]}

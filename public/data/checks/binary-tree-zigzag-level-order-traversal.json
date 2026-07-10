@@ -1,0 +1,1 @@
+{"fnName":"zigzagLevelOrder","params":[{"name":"root","type":"TreeNode"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"exact","tests":[{"input":[[3,9,20,null,null,15,7]],"expected":[[3],[20,9],[15,7]]},{"input":[[1]],"expected":[[1]]},{"input":[[]],"expected":[]}]}

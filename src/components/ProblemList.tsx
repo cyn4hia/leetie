@@ -12,6 +12,7 @@ function Row({ entry, curated }: { entry: CatalogEntry; curated: boolean }) {
   const selectedSlug = useLeetie((s) => s.selectedSlug)
   const selectProblem = useLeetie((s) => s.selectProblem)
   const solved = useLeetie((s) => s.solved)
+  const hasChecks = useLeetie((s) => s.checksIndex.has(entry.slug))
   const record = solved[entry.slug]
 
   return (
@@ -22,10 +23,16 @@ function Row({ entry, curated }: { entry: CatalogEntry; curated: boolean }) {
       <span className={`dot ${entry.difficulty.toLowerCase()}`} />
       <span className="row-id">{entry.id}.</span>
       <span className="row-title">{entry.title}</span>
-      {curated && (
+      {curated ? (
         <span className="star" title="gradable: bundled tests + reference solution">
           ★
         </span>
+      ) : (
+        hasChecks && (
+          <span className="star" title="gradable: auto-checks from the problem's examples">
+            ☆
+          </span>
+        )
       )}
       {record && (
         <span className="solved-badge" title={`solved ${record.date} (${record.lang})`}>
@@ -60,14 +67,18 @@ function RollTab() {
 
   const daily = dailyProblem()
 
+  const checksIndex = useLeetie((s) => s.checksIndex)
+
   const pool = useMemo(() => {
     const curated = curatedProblems.map(asEntry).filter((e) => difficulties.includes(e.difficulty))
-    if (!includeAll) return curated
-    return [
-      ...curated,
-      ...catalog.filter((e) => !curatedBySlug.has(e.slug) && difficulties.includes(e.difficulty)),
-    ]
-  }, [difficulties, includeAll, catalog])
+    const rest = catalog.filter(
+      (e) =>
+        !curatedBySlug.has(e.slug) &&
+        difficulties.includes(e.difficulty) &&
+        (includeAll || checksIndex.has(e.slug)),
+    )
+    return [...curated, ...rest]
+  }, [difficulties, includeAll, catalog, checksIndex])
 
   useEffect(() => () => clearTimeout(rollTimer.current), [])
 
@@ -114,7 +125,7 @@ function RollTab() {
             checked={includeAll}
             onChange={(e) => setIncludeAll(e.target.checked)}
           />
-          include un-gradable problems
+          include problems without checks
         </label>
         <div className="roll-hint">
           rolling {pool.length} problems · {difficulties.map((d) => d.toLowerCase()).join(' · ')}

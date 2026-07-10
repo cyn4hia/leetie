@@ -1,0 +1,1 @@
+{"fnName":"monotoneIncreasingDigits","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10],"expected":9},{"input":[1234],"expected":1234},{"input":[332],"expected":299}]}

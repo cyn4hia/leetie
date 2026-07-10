@@ -1,0 +1,1 @@
+{"fnName":"countTexts","params":[{"name":"pressedKeys","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["22233"],"expected":8},{"input":["222222222222222222222222222222222222"],"expected":82876089}]}

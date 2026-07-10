@@ -1,0 +1,1 @@
+{"fnName":"countPrimeSetBits","params":[{"name":"left","type":"integer"},{"name":"right","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[6,10],"expected":4},{"input":[10,15],"expected":5}]}

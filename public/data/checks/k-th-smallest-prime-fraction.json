@@ -1,0 +1,1 @@
+{"fnName":"kthSmallestPrimeFraction","params":[{"name":"arr","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,5],3],"expected":[2,5]},{"input":[[1,7],1],"expected":[1,7]}]}

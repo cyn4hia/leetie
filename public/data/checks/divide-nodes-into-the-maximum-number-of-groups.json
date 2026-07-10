@@ -1,0 +1,1 @@
+{"fnName":"magnificentSets","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[6,[[1,2],[1,4],[1,5],[2,6],[2,3],[4,6]]],"expected":4},{"input":[3,[[1,2],[2,3],[3,1]]],"expected":-1}]}

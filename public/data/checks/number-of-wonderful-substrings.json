@@ -1,0 +1,1 @@
+{"fnName":"wonderfulSubstrings","params":[{"name":"word","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["aba"],"expected":4},{"input":["aabb"],"expected":9},{"input":["he"],"expected":2}]}

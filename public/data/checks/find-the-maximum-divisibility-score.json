@@ -1,0 +1,1 @@
+{"fnName":"maxDivScore","params":[{"name":"nums","type":"integer[]"},{"name":"divisors","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,9,15,50],[5,3,7,2]],"expected":2},{"input":[[4,7,9,3,9],[5,2,3]],"expected":3},{"input":[[20,14,21,10],[10,16,20]],"expected":10}]}

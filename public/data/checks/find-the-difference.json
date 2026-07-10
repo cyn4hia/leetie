@@ -1,0 +1,1 @@
+{"fnName":"findTheDifference","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":["abcd","abcde"],"expected":"e"},{"input":["","y"],"expected":"y"}]}

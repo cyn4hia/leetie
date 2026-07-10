@@ -1,0 +1,1 @@
+{"fnName":"kSimilarity","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ab","ba"],"expected":1},{"input":["abc","bca"],"expected":2}]}

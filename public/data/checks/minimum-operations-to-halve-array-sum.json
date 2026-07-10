@@ -1,0 +1,1 @@
+{"fnName":"halveArray","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,19,8,1]],"expected":3},{"input":[[3,8,20]],"expected":3}]}

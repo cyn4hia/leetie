@@ -1,0 +1,1 @@
+{"fnName":"minSetSize","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,3,3,3,5,5,5,2,2,7]],"expected":2},{"input":[[7,7,7,7,7,7]],"expected":1}]}

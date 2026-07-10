@@ -1,0 +1,1 @@
+{"fnName":"gcdOfOddEvenSums","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4],"expected":4},{"input":[5],"expected":5}]}

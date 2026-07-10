@@ -1,0 +1,1 @@
+{"fnName":"countOdds","params":[{"name":"low","type":"integer"},{"name":"high","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,7],"expected":3},{"input":[8,10],"expected":1}]}

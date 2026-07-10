@@ -1,0 +1,1 @@
+{"fnName":"validPartition","params":[{"name":"nums","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[4,4,4,5,6]],"expected":true},{"input":[[1,1,1,2]],"expected":false}]}

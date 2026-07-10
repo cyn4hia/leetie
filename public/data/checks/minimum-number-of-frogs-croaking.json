@@ -1,0 +1,1 @@
+{"fnName":"minNumberOfFrogs","params":[{"name":"croakOfFrogs","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["croakcroak"],"expected":1},{"input":["crcoakroak"],"expected":2},{"input":["croakcrook"],"expected":-1}]}

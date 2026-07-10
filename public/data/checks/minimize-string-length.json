@@ -1,0 +1,1 @@
+{"fnName":"minimizedStringLength","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aaabc"],"expected":3},{"input":["cbbd"],"expected":3},{"input":["baadccab"],"expected":4}]}

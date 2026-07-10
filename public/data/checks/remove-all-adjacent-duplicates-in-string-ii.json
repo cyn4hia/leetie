@@ -1,0 +1,1 @@
+{"fnName":"removeDuplicates","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abcd",2],"expected":"abcd"},{"input":["deeedbbcccbdaa",3],"expected":"aa"},{"input":["pbbcggttciiippooaais",2],"expected":"ps"}]}

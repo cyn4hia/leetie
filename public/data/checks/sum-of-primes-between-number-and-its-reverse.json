@@ -1,0 +1,1 @@
+{"fnName":"sumOfPrimesInRange","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[13],"expected":132},{"input":[10],"expected":17},{"input":[8],"expected":0}]}

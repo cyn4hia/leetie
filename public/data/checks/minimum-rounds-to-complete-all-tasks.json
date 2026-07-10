@@ -1,0 +1,1 @@
+{"fnName":"minimumRounds","params":[{"name":"tasks","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,3,3,2,4,4,4,4,4]],"expected":4},{"input":[[2,3,3]],"expected":-1}]}

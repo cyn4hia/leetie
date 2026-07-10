@@ -1,0 +1,1 @@
+{"fnName":"checkIfCanBreak","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abc","xya"],"expected":true},{"input":["abe","acd"],"expected":false},{"input":["leetcodee","interview"],"expected":true}]}

@@ -1,0 +1,1 @@
+{"fnName":"countPairs","params":[{"name":"words","type":"string[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[["fusion","layout"]],"expected":1},{"input":[["ab","aa","za","aa"]],"expected":2}]}

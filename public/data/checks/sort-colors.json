@@ -1,0 +1,1 @@
+{"fnName":"sortColors","params":[{"name":"nums","type":"integer[]"}],"returnType":"void","outputParam":0,"compare":"exact","tests":[{"input":[[2,0,2,1,1,0]],"expected":[0,0,1,1,2,2]},{"input":[[2,0,1]],"expected":[0,1,2]}]}

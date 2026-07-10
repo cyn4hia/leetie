@@ -1,0 +1,1 @@
+{"fnName":"minStickers","params":[{"name":"stickers","type":"string[]"},{"name":"target","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["with","example","science"],"thehat"],"expected":3},{"input":[["notice","possible"],"basicbasic"],"expected":-1}]}

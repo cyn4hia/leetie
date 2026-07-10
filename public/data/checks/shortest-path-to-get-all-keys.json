@@ -1,0 +1,1 @@
+{"fnName":"shortestPathAllKeys","params":[{"name":"grid","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["@.a..","###.#","b.A.B"]],"expected":8},{"input":[["@..aA","..B#.","....b"]],"expected":6},{"input":[["@Aa"]],"expected":-1}]}

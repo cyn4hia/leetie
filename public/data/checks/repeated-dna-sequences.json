@@ -1,0 +1,1 @@
+{"fnName":"findRepeatedDnaSequences","params":[{"name":"s","type":"string"}],"returnType":"list<string>","outputParam":null,"compare":"unordered","tests":[{"input":["AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"],"expected":["AAAAACCCCC","CCCCCAAAAA"]},{"input":["AAAAAAAAAAAAA"],"expected":["AAAAAAAAAA"]}]}

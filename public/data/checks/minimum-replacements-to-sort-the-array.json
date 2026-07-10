@@ -1,0 +1,1 @@
+{"fnName":"minimumReplacement","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[3,9,3]],"expected":2},{"input":[[1,2,3,4,5]],"expected":0}]}

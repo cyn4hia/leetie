@@ -1,0 +1,1 @@
+{"fnName":"minNonZeroProduct","params":[{"name":"p","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1],"expected":1},{"input":[2],"expected":6},{"input":[3],"expected":1512}]}

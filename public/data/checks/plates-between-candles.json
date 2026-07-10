@@ -1,0 +1,1 @@
+{"fnName":"platesBetweenCandles","params":[{"name":"s","type":"string"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":["**|**|***|",[[2,5],[5,9]]],"expected":[2,3]},{"input":["***|**|*****|**||**|*",[[1,17],[4,5],[14,17],[5,11],[15,16]]],"expected":[9,0,0,0,0]}]}

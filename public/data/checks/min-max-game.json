@@ -1,0 +1,1 @@
+{"fnName":"minMaxGame","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,5,2,4,8,2,2]],"expected":1},{"input":[[3]],"expected":3}]}

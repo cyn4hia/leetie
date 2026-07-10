@@ -1,0 +1,1 @@
+{"fnName":"capitalizeTitle","params":[{"name":"title","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["capiTalIze tHe titLe"],"expected":"Capitalize The Title"},{"input":["First leTTeR of EACH Word"],"expected":"First Letter of Each Word"},{"input":["i lOve leetcode"],"expected":"i Love Leetcode"}]}

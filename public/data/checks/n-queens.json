@@ -1,0 +1,1 @@
+{"fnName":"solveNQueens","params":[{"name":"n","type":"integer"}],"returnType":"list<list<string>>","outputParam":null,"compare":"set","tests":[{"input":[4],"expected":[[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]},{"input":[1],"expected":[["Q"]]}]}

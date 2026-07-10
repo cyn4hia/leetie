@@ -1,0 +1,1 @@
+{"fnName":"minLengthAfterRemovals","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aabbab"],"expected":0},{"input":["aaaa"],"expected":4},{"input":["aaabb"],"expected":1}]}

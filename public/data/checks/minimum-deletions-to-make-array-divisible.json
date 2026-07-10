@@ -1,0 +1,1 @@
+{"fnName":"minOperations","params":[{"name":"nums","type":"integer[]"},{"name":"numsDivide","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,2,4,3],[9,6,9,3,15]],"expected":2},{"input":[[4,3,6],[8,2,6,10]],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"distinctIntegers","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":4},{"input":[3],"expected":2}]}

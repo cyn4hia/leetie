@@ -1,0 +1,1 @@
+{"fnName":"minCost","params":[{"name":"nums","type":"integer[]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[-5,-2,3],[[0,2],[2,0],[1,2]]],"expected":[6,2,5]},{"input":[[0,2,3,9],[[3,0],[1,2],[2,0]]],"expected":[4,1,3]}]}

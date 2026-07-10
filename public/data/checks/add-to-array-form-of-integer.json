@@ -1,0 +1,1 @@
+{"fnName":"addToArrayForm","params":[{"name":"num","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,0,0],34],"expected":[1,2,3,4]},{"input":[[2,7,4],181],"expected":[4,5,5]},{"input":[[2,1,5],806],"expected":[1,0,2,1]}]}

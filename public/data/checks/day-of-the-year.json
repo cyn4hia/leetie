@@ -1,0 +1,1 @@
+{"fnName":"dayOfYear","params":[{"name":"date","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["2019-01-09"],"expected":9},{"input":["2019-02-10"],"expected":41}]}

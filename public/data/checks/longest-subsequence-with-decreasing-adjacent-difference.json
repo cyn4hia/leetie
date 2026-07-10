@@ -1,0 +1,1 @@
+{"fnName":"longestSubsequence","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[16,6,3]],"expected":3},{"input":[[6,5,3,4,2,1]],"expected":4},{"input":[[10,20,10,19,10,20]],"expected":5}]}

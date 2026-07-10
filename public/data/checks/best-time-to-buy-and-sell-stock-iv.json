@@ -1,0 +1,1 @@
+{"fnName":"maxProfit","params":[{"name":"k","type":"integer"},{"name":"prices","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,[2,4,1]],"expected":2},{"input":[2,[3,2,6,5,0,3]],"expected":7}]}

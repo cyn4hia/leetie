@@ -1,0 +1,1 @@
+{"fnName":"longestCommonSubpath","params":[{"name":"n","type":"integer"},{"name":"paths","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,[[0,1,2,3,4],[2,3,4],[4,0,1,2,3]]],"expected":2},{"input":[3,[[0],[1],[2]]],"expected":0},{"input":[5,[[0,1,2,3,4],[4,3,2,1,0]]],"expected":1}]}

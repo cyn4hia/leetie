@@ -1,0 +1,1 @@
+{"fnName":"targetIndices","params":[{"name":"nums","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,5,2,3],2],"expected":[1,2]},{"input":[[1,2,5,2,3],3],"expected":[3]},{"input":[[1,2,5,2,3],5],"expected":[4]}]}

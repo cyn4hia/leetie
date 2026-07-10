@@ -1,0 +1,1 @@
+{"fnName":"countGoodSubstrings","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["xyzzaz"],"expected":1},{"input":["aababcabc"],"expected":4}]}

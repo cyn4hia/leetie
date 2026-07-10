@@ -1,0 +1,1 @@
+{"fnName":"partitionLabels","params":[{"name":"s","type":"string"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":["ababcbacadefegdehijhklij"],"expected":[9,7,8]},{"input":["eccbbbbdec"],"expected":[10]}]}

@@ -1,0 +1,1 @@
+{"fnName":"countPairs","params":[{"name":"coordinates","type":"list<list<integer>>"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[4,2],[1,3],[5,2]],5],"expected":2},{"input":[[[1,3],[1,3],[1,3],[1,3],[1,3]],0],"expected":10}]}

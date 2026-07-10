@@ -1,0 +1,1 @@
+{"fnName":"pushDominoes","params":[{"name":"dominoes","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["RR.L"],"expected":"RR.L"},{"input":[".L.R...LR..L.."],"expected":"LL.RR.LLRRLL.."}]}

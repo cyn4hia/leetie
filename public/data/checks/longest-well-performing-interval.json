@@ -1,0 +1,1 @@
+{"fnName":"longestWPI","params":[{"name":"hours","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[9,9,6,0,6,6,9]],"expected":3},{"input":[[6,6,6]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"numberOfSubmatrices","params":[{"name":"grid","type":"character[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[["X","Y","."],["Y",".","."]]],"expected":3},{"input":[[["X","X"],["X","Y"]]],"expected":0},{"input":[[[".","."],[".","."]]],"expected":0}]}

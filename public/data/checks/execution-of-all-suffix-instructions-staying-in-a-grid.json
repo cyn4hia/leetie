@@ -1,0 +1,1 @@
+{"fnName":"executeInstructions","params":[{"name":"n","type":"integer"},{"name":"startPos","type":"integer[]"},{"name":"s","type":"string"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[3,[0,1],"RRDDLU"],"expected":[1,5,4,3,1,0]},{"input":[2,[1,1],"LURD"],"expected":[4,1,0,0]},{"input":[1,[0,0],"LRUD"],"expected":[0,0,0,0]}]}

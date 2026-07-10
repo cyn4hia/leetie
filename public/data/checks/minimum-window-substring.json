@@ -1,0 +1,1 @@
+{"fnName":"minWindow","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["ADOBECODEBANC","ABC"],"expected":"BANC"},{"input":["a","a"],"expected":"a"},{"input":["a","aa"],"expected":""}]}

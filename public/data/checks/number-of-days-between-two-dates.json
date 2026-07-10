@@ -1,0 +1,1 @@
+{"fnName":"daysBetweenDates","params":[{"name":"date1","type":"string"},{"name":"date2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["2019-06-29","2019-06-30"],"expected":1},{"input":["2020-01-15","2019-12-31"],"expected":15}]}

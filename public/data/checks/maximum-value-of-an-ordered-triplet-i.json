@@ -1,0 +1,1 @@
+{"fnName":"maximumTripletValue","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[12,6,1,2,7]],"expected":77},{"input":[[1,10,3,4,19]],"expected":133},{"input":[[1,2,3]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"findSubstringInWraproundString","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["a"],"expected":1},{"input":["cac"],"expected":2},{"input":["zab"],"expected":6}]}

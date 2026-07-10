@@ -1,0 +1,1 @@
+{"fnName":"areAlmostEqual","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["bank","kanb"],"expected":true},{"input":["attack","defend"],"expected":false},{"input":["kelb","kelb"],"expected":true}]}

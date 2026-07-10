@@ -1,0 +1,1 @@
+{"fnName":"lengthOfLastWord","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["Hello World"],"expected":5},{"input":["   fly me   to   the moon  "],"expected":4},{"input":["luffy is still joyboy"],"expected":6}]}

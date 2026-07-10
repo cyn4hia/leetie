@@ -1,0 +1,1 @@
+{"fnName":"getProbability","params":[{"name":"balls","type":"integer[]"}],"returnType":"double","outputParam":null,"compare":"float","tests":[{"input":[[1,1]],"expected":1},{"input":[[2,1,1]],"expected":0.66667},{"input":[[1,2,1,2]],"expected":0.6}]}

@@ -1,0 +1,1 @@
+{"fnName":"longestIdealString","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["acfgbd",2],"expected":4},{"input":["abcd",3],"expected":4}]}

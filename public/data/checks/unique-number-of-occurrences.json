@@ -1,0 +1,1 @@
+{"fnName":"uniqueOccurrences","params":[{"name":"arr","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,2,1,1,3]],"expected":true},{"input":[[1,2]],"expected":false},{"input":[[-3,0,1,-3,1,1,1,-3,10,0]],"expected":true}]}

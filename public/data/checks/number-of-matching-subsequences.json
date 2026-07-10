@@ -1,0 +1,1 @@
+{"fnName":"numMatchingSubseq","params":[{"name":"s","type":"string"},{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abcde",["a","bb","acd","ace"]],"expected":3},{"input":["dsahjpjauf",["ahjpjau","ja","ahbwzgqnuk","tnmlanowax"]],"expected":2}]}

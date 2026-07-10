@@ -1,0 +1,1 @@
+{"fnName":"maxFreqSum","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["successes"],"expected":6},{"input":["aeiaeia"],"expected":3}]}

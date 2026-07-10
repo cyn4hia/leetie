@@ -1,0 +1,1 @@
+{"fnName":"numSquares","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[12],"expected":3},{"input":[13],"expected":2}]}

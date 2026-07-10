@@ -1,0 +1,1 @@
+{"fnName":"minMaxSums","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3],2],"expected":24},{"input":[[5,0,6],1],"expected":22},{"input":[[1,1,1],2],"expected":12}]}

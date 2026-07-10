@@ -1,0 +1,1 @@
+{"fnName":"prefixConnected","params":[{"name":"words","type":"string[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["apple","apply","banana","bandit"],2],"expected":2},{"input":[["car","cat","cartoon"],3],"expected":1},{"input":[["bat","dog","dog","doggy","bat"],3],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"removeOuterParentheses","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["(()())(())"],"expected":"()()()"},{"input":["(()())(())(()(()))"],"expected":"()()()()(())"},{"input":["()()"],"expected":""}]}

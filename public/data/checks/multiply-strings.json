@@ -1,0 +1,1 @@
+{"fnName":"multiply","params":[{"name":"num1","type":"string"},{"name":"num2","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["2","3"],"expected":"6"},{"input":["123","456"],"expected":"56088"}]}

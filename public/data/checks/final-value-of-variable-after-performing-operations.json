@@ -1,0 +1,1 @@
+{"fnName":"finalValueAfterOperations","params":[{"name":"operations","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["--X","X++","X++"]],"expected":1},{"input":[["++X","++X","X++"]],"expected":3},{"input":[["X++","++X","--X","X--"]],"expected":0}]}

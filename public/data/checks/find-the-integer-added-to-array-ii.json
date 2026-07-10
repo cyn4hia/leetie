@@ -1,0 +1,1 @@
+{"fnName":"minimumAddedInteger","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,20,16,12,8],[14,18,10]],"expected":-2},{"input":[[3,5,5,3],[7,7]],"expected":2}]}

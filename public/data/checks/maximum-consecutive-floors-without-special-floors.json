@@ -1,0 +1,1 @@
+{"fnName":"maxConsecutive","params":[{"name":"bottom","type":"integer"},{"name":"top","type":"integer"},{"name":"special","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,9,[4,6]],"expected":3},{"input":[6,8,[7,6,8]],"expected":0}]}

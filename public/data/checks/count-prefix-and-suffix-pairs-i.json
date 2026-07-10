@@ -1,0 +1,1 @@
+{"fnName":"countPrefixSuffixPairs","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["a","aba","ababa","aa"]],"expected":4},{"input":[["pa","papa","ma","mama"]],"expected":2},{"input":[["abab","ab"]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"findPrefixScore","params":[{"name":"nums","type":"integer[]"}],"returnType":"long[]","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,7,5,10]],"expected":[4,10,24,36,56]},{"input":[[1,1,2,4,8,16]],"expected":[2,4,8,16,32,64]}]}

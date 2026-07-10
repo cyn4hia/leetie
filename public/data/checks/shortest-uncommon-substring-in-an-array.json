@@ -1,0 +1,1 @@
+{"fnName":"shortestSubstrings","params":[{"name":"arr","type":"string[]"}],"returnType":"string[]","outputParam":null,"compare":"exact","tests":[{"input":[["cab","ad","bad","c"]],"expected":["ab","","ba",""]},{"input":[["abc","bcd","abcd"]],"expected":["","","abcd"]}]}

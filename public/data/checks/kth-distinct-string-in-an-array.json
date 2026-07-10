@@ -1,0 +1,1 @@
+{"fnName":"kthDistinct","params":[{"name":"arr","type":"string[]"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[["d","b","c","b","c","a"],2],"expected":"a"},{"input":[["aaa","aa","a"],1],"expected":"aaa"},{"input":[["a","b","a"],3],"expected":""}]}

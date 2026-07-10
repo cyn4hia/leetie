@@ -1,0 +1,1 @@
+{"fnName":"isPathCrossing","params":[{"name":"path","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["NES"],"expected":false},{"input":["NESWW"],"expected":true}]}

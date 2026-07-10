@@ -1,0 +1,1 @@
+{"fnName":"solveEquation","params":[{"name":"equation","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["x+5-3+x=6+x-2"],"expected":"x=2"},{"input":["x=x"],"expected":"Infinite solutions"},{"input":["2x=x"],"expected":"x=0"}]}

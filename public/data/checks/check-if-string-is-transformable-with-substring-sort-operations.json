@@ -1,0 +1,1 @@
+{"fnName":"isTransformable","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["84532","34852"],"expected":true},{"input":["34521","23415"],"expected":true},{"input":["12345","12435"],"expected":false}]}

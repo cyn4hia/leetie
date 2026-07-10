@@ -1,0 +1,1 @@
+{"fnName":"complexNumberMultiply","params":[{"name":"num1","type":"string"},{"name":"num2","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["1+1i","1+1i"],"expected":"0+2i"},{"input":["1+-1i","1+-1i"],"expected":"0+-2i"}]}

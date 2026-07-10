@@ -1,0 +1,1 @@
+{"fnName":"interleaveCharacters","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"},{"name":"target","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc","bac","abc"],"expected":5},{"input":["cd","cd","ccd"],"expected":4},{"input":["xy","xy","xyxy"],"expected":2},{"input":["ab","cde","ace"],"expected":1}]}

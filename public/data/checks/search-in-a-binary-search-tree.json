@@ -1,0 +1,1 @@
+{"fnName":"searchBST","params":[{"name":"root","type":"TreeNode"},{"name":"val","type":"integer"}],"returnType":"TreeNode","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,7,1,3],2],"expected":[2,1,3]},{"input":[[4,2,7,1,3],5],"expected":[]}]}

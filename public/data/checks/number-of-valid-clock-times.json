@@ -1,0 +1,1 @@
+{"fnName":"countTime","params":[{"name":"time","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["?5:00"],"expected":2},{"input":["0?:0?"],"expected":100},{"input":["??:??"],"expected":1440}]}

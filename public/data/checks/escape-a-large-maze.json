@@ -1,0 +1,1 @@
+{"fnName":"isEscapePossible","params":[{"name":"blocked","type":"integer[][]"},{"name":"source","type":"integer[]"},{"name":"target","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[1,0]],[0,0],[0,2]],"expected":false},{"input":[[],[0,0],[999999,999999]],"expected":true}]}

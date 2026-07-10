@@ -1,0 +1,1 @@
+{"fnName":"evaluate","params":[{"name":"expression","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["(let x 2 (mult x (let x 3 y 4 (add x y))))"],"expected":14},{"input":["(let x 3 x 2 x)"],"expected":2},{"input":["(let x 1 y 2 x (add x y) (add x y))"],"expected":5}]}

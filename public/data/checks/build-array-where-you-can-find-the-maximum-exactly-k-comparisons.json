@@ -1,0 +1,1 @@
+{"fnName":"numOfArrays","params":[{"name":"n","type":"integer"},{"name":"m","type":"integer"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,3,1],"expected":6},{"input":[5,2,3],"expected":0},{"input":[9,1,1],"expected":1}]}

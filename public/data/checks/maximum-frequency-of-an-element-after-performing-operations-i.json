@@ -1,0 +1,1 @@
+{"fnName":"maxFrequency","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"},{"name":"numOperations","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,5],1,2],"expected":2},{"input":[[5,11,20,20],5,1],"expected":2}]}

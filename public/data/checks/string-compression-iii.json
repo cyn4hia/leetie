@@ -1,0 +1,1 @@
+{"fnName":"compressedString","params":[{"name":"word","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abcde"],"expected":"1a1b1c1d1e"},{"input":["aaaaaaaaaaaaaabb"],"expected":"9a5a2b"}]}

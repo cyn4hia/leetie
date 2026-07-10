@@ -1,0 +1,1 @@
+{"fnName":"smallestStringWithSwaps","params":[{"name":"s","type":"string"},{"name":"pairs","type":"list<list<integer>>"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["dcab",[[0,3],[1,2]]],"expected":"bacd"},{"input":["dcab",[[0,3],[1,2],[0,2]]],"expected":"abcd"},{"input":["cba",[[0,1],[1,2]]],"expected":"abc"}]}

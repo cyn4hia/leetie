@@ -1,0 +1,1 @@
+{"fnName":"longestSubsequence","params":[{"name":"arr","type":"integer[]"},{"name":"difference","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4],1],"expected":4},{"input":[[1,3,5,7],1],"expected":1},{"input":[[1,5,7,8,5,3,4,2,1],-2],"expected":4}]}

@@ -1,0 +1,1 @@
+{"fnName":"firstUniqChar","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["leetcode"],"expected":0},{"input":["loveleetcode"],"expected":2},{"input":["aabb"],"expected":-1}]}

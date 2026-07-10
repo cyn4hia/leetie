@@ -1,0 +1,1 @@
+{"fnName":"firstUniqueFreq","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[20,10,30,30]],"expected":30},{"input":[[20,20,10,30,30,30]],"expected":20},{"input":[[10,10,20,20]],"expected":-1}]}

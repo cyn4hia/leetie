@@ -1,0 +1,1 @@
+{"fnName":"flatten","params":[{"name":"root","type":"TreeNode"}],"returnType":"void","outputParam":0,"compare":"exact","tests":[{"input":[[1,2,5,3,4,null,6]],"expected":[1,null,2,null,3,null,4,null,5,null,6]},{"input":[[]],"expected":[]},{"input":[[0]],"expected":[0]}]}

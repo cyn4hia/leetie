@@ -1,0 +1,1 @@
+{"fnName":"destCity","params":[{"name":"paths","type":"list<list<string>>"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[["London","New York"],["New York","Lima"],["Lima","Sao Paulo"]]],"expected":"Sao Paulo"},{"input":[[["B","C"],["D","B"],["C","A"]]],"expected":"A"},{"input":[[["A","Z"]]],"expected":"Z"}]}

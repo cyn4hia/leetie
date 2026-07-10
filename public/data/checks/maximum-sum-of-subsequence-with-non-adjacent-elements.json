@@ -1,0 +1,1 @@
+{"fnName":"maximumSumSubsequence","params":[{"name":"nums","type":"integer[]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,5,9],[[1,-2],[0,-3]]],"expected":21},{"input":[[0,-1],[[0,-5]]],"expected":0}]}

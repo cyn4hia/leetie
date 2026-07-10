@@ -1,0 +1,1 @@
+{"fnName":"isPerfectSquare","params":[{"name":"num","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[16],"expected":true},{"input":[14],"expected":false}]}

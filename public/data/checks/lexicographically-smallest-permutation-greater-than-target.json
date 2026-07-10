@@ -1,0 +1,1 @@
+{"fnName":"lexGreaterPermutation","params":[{"name":"s","type":"string"},{"name":"target","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abc","bba"],"expected":"bca"},{"input":["leet","code"],"expected":"eelt"},{"input":["baba","bbaa"],"expected":""}]}

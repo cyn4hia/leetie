@@ -1,0 +1,1 @@
+{"fnName":"smallestPalindrome","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["z"],"expected":"z"},{"input":["babab"],"expected":"abbba"},{"input":["daccad"],"expected":"acddca"}]}

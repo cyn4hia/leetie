@@ -1,0 +1,1 @@
+{"fnName":"subarrayLCM","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,6,2,7,1],6],"expected":4},{"input":[[3],2],"expected":0}]}

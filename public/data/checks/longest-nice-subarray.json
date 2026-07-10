@@ -1,0 +1,1 @@
+{"fnName":"longestNiceSubarray","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3,8,48,10]],"expected":3},{"input":[[3,1,5,11,13]],"expected":1}]}

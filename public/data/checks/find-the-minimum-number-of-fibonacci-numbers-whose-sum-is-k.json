@@ -1,0 +1,1 @@
+{"fnName":"findMinFibonacciNumbers","params":[{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[7],"expected":2},{"input":[10],"expected":2},{"input":[19],"expected":3}]}

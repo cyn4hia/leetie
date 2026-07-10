@@ -1,0 +1,1 @@
+{"fnName":"minCostSetTime","params":[{"name":"startAt","type":"integer"},{"name":"moveCost","type":"integer"},{"name":"pushCost","type":"integer"},{"name":"targetSeconds","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,2,1,600],"expected":6},{"input":[0,1,2,76],"expected":6}]}

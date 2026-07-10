@@ -1,0 +1,1 @@
+{"fnName":"maxTotalReward","params":[{"name":"rewardValues","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,3,3]],"expected":4},{"input":[[1,6,4,3,2]],"expected":11}]}

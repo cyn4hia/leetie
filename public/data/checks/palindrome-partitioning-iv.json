@@ -1,0 +1,1 @@
+{"fnName":"checkPartitioning","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abcbdd"],"expected":true},{"input":["bcbddxy"],"expected":false}]}

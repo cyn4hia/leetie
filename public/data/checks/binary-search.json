@@ -1,0 +1,1 @@
+{"fnName":"search","params":[{"name":"nums","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-1,0,3,5,9,12],9],"expected":4},{"input":[[-1,0,3,5,9,12],2],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"findGoodStrings","params":[{"name":"n","type":"integer"},{"name":"s1","type":"string"},{"name":"s2","type":"string"},{"name":"evil","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,"aa","da","b"],"expected":51},{"input":[8,"leetcode","leetgoes","leet"],"expected":0},{"input":[2,"gx","gz","x"],"expected":2}]}

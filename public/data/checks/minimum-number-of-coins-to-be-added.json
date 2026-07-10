@@ -1,0 +1,1 @@
+{"fnName":"minimumAddedCoins","params":[{"name":"coins","type":"integer[]"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,10],19],"expected":2},{"input":[[1,4,10,5,7,19],19],"expected":1},{"input":[[1,1,1],20],"expected":3}]}

@@ -1,0 +1,1 @@
+{"fnName":"minDays","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10],"expected":4},{"input":[6],"expected":3}]}

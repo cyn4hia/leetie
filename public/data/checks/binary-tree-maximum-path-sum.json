@@ -1,0 +1,1 @@
+{"fnName":"maxPathSum","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":6},{"input":[[-10,9,20,null,null,15,7]],"expected":42}]}

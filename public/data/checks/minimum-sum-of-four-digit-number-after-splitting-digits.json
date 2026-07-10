@@ -1,0 +1,1 @@
+{"fnName":"minimumSum","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2932],"expected":52},{"input":[4009],"expected":13}]}

@@ -1,0 +1,1 @@
+{"fnName":"countKConstraintSubstrings","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"},{"name":"queries","type":"integer[][]"}],"returnType":"long[]","outputParam":null,"compare":"exact","tests":[{"input":["0001111",2,[[0,6]]],"expected":[26]},{"input":["010101",1,[[0,5],[1,4],[2,3]]],"expected":[15,9,3]}]}

@@ -1,0 +1,1 @@
+{"fnName":"nearestPalindromic","params":[{"name":"n","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["123"],"expected":"121"},{"input":["1"],"expected":"0"}]}

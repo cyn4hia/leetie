@@ -1,0 +1,1 @@
+{"fnName":"getEncryptedString","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["dart",3],"expected":"tdar"},{"input":["aaa",1],"expected":"aaa"}]}

@@ -1,0 +1,1 @@
+{"fnName":"isValid","params":[{"name":"code","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["<DIV>This is the first line <![CDATA[<div>]]></DIV>"],"expected":true},{"input":["<DIV>>>  ![cdata[]] <![CDATA[<div>]>]]>]]>>]</DIV>"],"expected":true},{"input":["<A>  <B> </A>   </B>"],"expected":false}]}

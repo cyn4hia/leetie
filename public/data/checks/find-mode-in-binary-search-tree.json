@@ -1,0 +1,1 @@
+{"fnName":"findMode","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer[]","outputParam":null,"compare":"unordered","tests":[{"input":[[1,null,2,2]],"expected":[2]},{"input":[[0]],"expected":[0]}]}

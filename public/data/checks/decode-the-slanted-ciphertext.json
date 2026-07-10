@@ -1,0 +1,1 @@
+{"fnName":"decodeCiphertext","params":[{"name":"encodedText","type":"string"},{"name":"rows","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["ch   ie   pr",3],"expected":"cipher"},{"input":["iveo    eed   l te   olc",4],"expected":"i love leetcode"},{"input":["coding",1],"expected":"coding"}]}

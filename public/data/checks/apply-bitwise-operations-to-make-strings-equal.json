@@ -1,0 +1,1 @@
+{"fnName":"makeStringsEqual","params":[{"name":"s","type":"string"},{"name":"target","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["1010","0110"],"expected":true},{"input":["11","00"],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"numSubmat","params":[{"name":"mat","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,0,1],[1,1,0],[1,1,0]]],"expected":13},{"input":[[[0,1,1,0],[0,1,1,1],[1,1,1,0]]],"expected":24}]}

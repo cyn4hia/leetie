@@ -1,0 +1,1 @@
+{"fnName":"maxXorSubsequences","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":3},{"input":[[5,2]],"expected":7}]}

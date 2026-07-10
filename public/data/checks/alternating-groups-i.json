@@ -1,0 +1,1 @@
+{"fnName":"numberOfAlternatingGroups","params":[{"name":"colors","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1]],"expected":0},{"input":[[0,1,0,0,1]],"expected":3}]}

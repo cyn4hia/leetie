@@ -1,0 +1,1 @@
+{"fnName":"singleNumber","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,3,2]],"expected":3},{"input":[[0,1,0,1,0,1,99]],"expected":99}]}

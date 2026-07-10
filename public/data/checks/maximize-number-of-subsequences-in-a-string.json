@@ -1,0 +1,1 @@
+{"fnName":"maximumSubsequenceCount","params":[{"name":"text","type":"string"},{"name":"pattern","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["abdcdbc","ac"],"expected":4},{"input":["aabb","ab"],"expected":6}]}

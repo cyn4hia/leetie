@@ -1,0 +1,1 @@
+{"fnName":"totalWaviness","params":[{"name":"num1","type":"long"},{"name":"num2","type":"long"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[120,130],"expected":3},{"input":[198,202],"expected":3},{"input":[4848,4848],"expected":2}]}

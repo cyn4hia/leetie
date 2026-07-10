@@ -1,0 +1,1 @@
+{"fnName":"smallestNumber","params":[{"name":"num","type":"string"},{"name":"t","type":"long"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["1234",256],"expected":"1488"},{"input":["12355",50],"expected":"12355"},{"input":["11111",26],"expected":"-1"}]}

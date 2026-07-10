@@ -1,0 +1,1 @@
+{"fnName":"findMaximizedCapital","params":[{"name":"k","type":"integer"},{"name":"w","type":"integer"},{"name":"profits","type":"integer[]"},{"name":"capital","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,0,[1,2,3],[0,1,1]],"expected":4},{"input":[3,0,[1,2,3],[0,1,2]],"expected":6}]}

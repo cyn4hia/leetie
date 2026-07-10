@@ -1,0 +1,1 @@
+{"fnName":"sumOfLargestPrimes","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["12234"],"expected":1469},{"input":["111"],"expected":11}]}

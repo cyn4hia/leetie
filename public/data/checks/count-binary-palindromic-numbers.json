@@ -1,0 +1,1 @@
+{"fnName":"countBinaryPalindromes","params":[{"name":"n","type":"long"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[9],"expected":6},{"input":[0],"expected":1}]}

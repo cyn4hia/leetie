@@ -1,0 +1,1 @@
+{"fnName":"minTimeToType","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":5},{"input":["bza"],"expected":7},{"input":["zjpc"],"expected":34}]}

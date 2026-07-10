@@ -1,0 +1,1 @@
+{"fnName":"canMakePalindromeQueries","params":[{"name":"s","type":"string"},{"name":"queries","type":"integer[][]"}],"returnType":"boolean[]","outputParam":null,"compare":"exact","tests":[{"input":["abcabc",[[1,1,3,5],[0,2,5,5]]],"expected":[true,true]},{"input":["abbcdecbba",[[0,2,7,9]]],"expected":[false]},{"input":["acbcab",[[1,2,4,5]]],"expected":[true]}]}

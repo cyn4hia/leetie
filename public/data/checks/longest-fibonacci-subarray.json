@@ -1,0 +1,1 @@
+{"fnName":"longestSubarray","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1,1,2,3,5,1]],"expected":5},{"input":[[5,2,7,9,16]],"expected":5},{"input":[[1000000000,1000000000,1000000000]],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"minimizeConcatenatedLength","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["aa","ab","bc"]],"expected":4},{"input":[["ab","b"]],"expected":2},{"input":[["aaa","c","aba"]],"expected":6}]}

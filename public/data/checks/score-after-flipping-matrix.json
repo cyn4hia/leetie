@@ -1,0 +1,1 @@
+{"fnName":"matrixScore","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,0,1,1],[1,0,1,0],[1,1,0,0]]],"expected":39},{"input":[[[0]]],"expected":1}]}

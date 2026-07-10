@@ -1,0 +1,1 @@
+{"fnName":"distanceTraveled","params":[{"name":"mainTank","type":"integer"},{"name":"additionalTank","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,10],"expected":60},{"input":[1,2],"expected":10}]}

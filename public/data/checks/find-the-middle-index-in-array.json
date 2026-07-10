@@ -1,0 +1,1 @@
+{"fnName":"findMiddleIndex","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,-1,8,4]],"expected":3},{"input":[[1,-1,4]],"expected":2},{"input":[[2,5]],"expected":-1}]}

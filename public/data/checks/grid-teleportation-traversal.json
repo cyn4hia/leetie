@@ -1,0 +1,1 @@
+{"fnName":"minMoves","params":[{"name":"matrix","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["A..",".A.","..."]],"expected":2},{"input":[[".#...",".#.#.",".#.#.","...#."]],"expected":13}]}

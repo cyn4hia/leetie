@@ -1,0 +1,1 @@
+{"fnName":"maxValue","params":[{"name":"nums1","type":"integer[]"},{"name":"nums0","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2],[1,0]],"expected":14},{"input":[[3,1],[0,3]],"expected":120}]}

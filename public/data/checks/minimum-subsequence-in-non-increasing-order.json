@@ -1,0 +1,1 @@
+{"fnName":"minSubsequence","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[4,3,10,9,8]],"expected":[10,9]},{"input":[[4,4,7,6,7]],"expected":[7,7,6]}]}

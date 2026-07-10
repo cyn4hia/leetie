@@ -1,0 +1,1 @@
+{"fnName":"maximumPopulation","params":[{"name":"logs","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1993,1999],[2000,2010]]],"expected":1993},{"input":[[[1950,1961],[1960,1971],[1970,1981]]],"expected":1960}]}

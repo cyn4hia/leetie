@@ -1,0 +1,1 @@
+{"fnName":"isPossible","params":[{"name":"target","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[9,3,5]],"expected":true},{"input":[[1,1,1,2]],"expected":false},{"input":[[8,5]],"expected":true}]}

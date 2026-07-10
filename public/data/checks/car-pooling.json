@@ -1,0 +1,1 @@
+{"fnName":"carPooling","params":[{"name":"trips","type":"integer[][]"},{"name":"capacity","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[[2,1,5],[3,3,7]],4],"expected":false},{"input":[[[2,1,5],[3,3,7]],5],"expected":true}]}

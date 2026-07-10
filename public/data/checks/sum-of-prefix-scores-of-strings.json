@@ -1,0 +1,1 @@
+{"fnName":"sumPrefixScores","params":[{"name":"words","type":"string[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["abc","ab","bc","b"]],"expected":[5,4,3,2]},{"input":[["abcd"]],"expected":[4]}]}

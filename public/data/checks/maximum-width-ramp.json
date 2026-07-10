@@ -1,0 +1,1 @@
+{"fnName":"maxWidthRamp","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[6,0,8,2,1,5]],"expected":4},{"input":[[9,8,1,0,1,9,4,0,4,1]],"expected":7}]}

@@ -1,0 +1,1 @@
+{"fnName":"numOfBurgers","params":[{"name":"tomatoSlices","type":"integer"},{"name":"cheeseSlices","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[16,7],"expected":[1,6]},{"input":[17,4],"expected":[]},{"input":[4,17],"expected":[]}]}

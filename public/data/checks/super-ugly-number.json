@@ -1,0 +1,1 @@
+{"fnName":"nthSuperUglyNumber","params":[{"name":"n","type":"integer"},{"name":"primes","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[12,[2,7,13,19]],"expected":32},{"input":[1,[2,3,5]],"expected":1}]}

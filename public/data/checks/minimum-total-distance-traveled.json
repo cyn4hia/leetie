@@ -1,0 +1,1 @@
+{"fnName":"minimumTotalDistance","params":[{"name":"robot","type":"list<integer>"},{"name":"factory","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[0,4,6],[[2,2],[6,2]]],"expected":4},{"input":[[1,-1],[[-2,1],[2,1]]],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"longestDecomposition","params":[{"name":"text","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["ghiabcdefhelloadamhelloabcdefghi"],"expected":7},{"input":["merchant"],"expected":1},{"input":["antaprezatepzapreanta"],"expected":11}]}

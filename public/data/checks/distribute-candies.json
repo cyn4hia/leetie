@@ -1,0 +1,1 @@
+{"fnName":"distributeCandies","params":[{"name":"candyType","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2,2,3,3]],"expected":3},{"input":[[1,1,2,3]],"expected":2},{"input":[[6,6,6,6]],"expected":1}]}

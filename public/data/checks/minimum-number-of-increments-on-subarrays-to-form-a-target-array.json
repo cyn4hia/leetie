@@ -1,0 +1,1 @@
+{"fnName":"minNumberOperations","params":[{"name":"target","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,2,1]],"expected":3},{"input":[[3,1,1,2]],"expected":4},{"input":[[3,1,5,4,2]],"expected":7}]}

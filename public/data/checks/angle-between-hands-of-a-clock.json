@@ -1,0 +1,1 @@
+{"fnName":"angleClock","params":[{"name":"hour","type":"integer"},{"name":"minutes","type":"integer"}],"returnType":"double","outputParam":null,"compare":"float","tests":[{"input":[12,30],"expected":165},{"input":[3,30],"expected":75},{"input":[3,15],"expected":7.5}]}

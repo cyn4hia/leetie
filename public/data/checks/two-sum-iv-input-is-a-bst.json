@@ -1,0 +1,1 @@
+{"fnName":"findTarget","params":[{"name":"root","type":"TreeNode"},{"name":"k","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[5,3,6,2,4,null,7],9],"expected":true},{"input":[[5,3,6,2,4,null,7],28],"expected":false}]}

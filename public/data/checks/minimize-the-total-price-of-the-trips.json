@@ -1,0 +1,1 @@
+{"fnName":"minimumTotalPrice","params":[{"name":"n","type":"integer"},{"name":"edges","type":"integer[][]"},{"name":"price","type":"integer[]"},{"name":"trips","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4,[[0,1],[1,2],[1,3]],[2,2,10,6],[[0,3],[2,1],[2,3]]],"expected":23},{"input":[2,[[0,1]],[2,2],[[0,0]]],"expected":1}]}

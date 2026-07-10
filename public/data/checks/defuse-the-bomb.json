@@ -1,0 +1,1 @@
+{"fnName":"decrypt","params":[{"name":"code","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[5,7,1,4],3],"expected":[12,10,16,13]},{"input":[[1,2,3,4],0],"expected":[0,0,0,0]},{"input":[[2,4,9,3],-2],"expected":[12,5,6,13]}]}

@@ -1,0 +1,1 @@
+{"fnName":"minMutation","params":[{"name":"startGene","type":"string"},{"name":"endGene","type":"string"},{"name":"bank","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["AACCGGTT","AACCGGTA",["AACCGGTA"]],"expected":1},{"input":["AACCGGTT","AAACGGTA",["AACCGGTA","AACCGCTA","AAACGGTA"]],"expected":2}]}

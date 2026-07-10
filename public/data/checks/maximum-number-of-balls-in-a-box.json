@@ -1,0 +1,1 @@
+{"fnName":"countBalls","params":[{"name":"lowLimit","type":"integer"},{"name":"highLimit","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,10],"expected":2},{"input":[5,15],"expected":2},{"input":[19,28],"expected":2}]}

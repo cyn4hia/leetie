@@ -1,0 +1,1 @@
+{"fnName":"nextGreaterElements","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,1]],"expected":[2,-1,2]},{"input":[[1,2,3,4,3]],"expected":[2,3,4,-1,4]}]}

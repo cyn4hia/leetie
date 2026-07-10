@@ -1,0 +1,1 @@
+{"fnName":"mergeAdjacent","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<long>","outputParam":null,"compare":"exact","tests":[{"input":[[3,1,1,2]],"expected":[3,4]},{"input":[[2,2,4]],"expected":[8]},{"input":[[3,7,5]],"expected":[3,7,5]}]}

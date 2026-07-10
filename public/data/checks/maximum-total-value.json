@@ -1,0 +1,1 @@
+{"fnName":"maxTotalValue","params":[{"name":"value","type":"integer[]"},{"name":"decay","type":"integer[]"},{"name":"m","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[6,5,4],[2,1,1],4],"expected":19},{"input":[[7,2,2],[3,2,1],2],"expected":11},{"input":[[4,3],[5,4],5],"expected":7}]}

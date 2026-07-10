@@ -1,0 +1,1 @@
+{"fnName":"numWays","params":[{"name":"steps","type":"integer"},{"name":"arrLen","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,2],"expected":4},{"input":[2,4],"expected":2},{"input":[4,2],"expected":8}]}

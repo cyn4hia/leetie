@@ -1,0 +1,1 @@
+{"fnName":"minInteger","params":[{"name":"num","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["4321",4],"expected":"1342"},{"input":["100",1],"expected":"010"},{"input":["36789",1000],"expected":"36789"}]}

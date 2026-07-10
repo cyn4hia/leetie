@@ -1,0 +1,1 @@
+{"fnName":"minSteps","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3],"expected":3},{"input":[1],"expected":0}]}

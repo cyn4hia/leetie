@@ -1,0 +1,1 @@
+{"fnName":"isOneBitCharacter","params":[{"name":"bits","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,0]],"expected":true},{"input":[[1,1,1,0]],"expected":false}]}

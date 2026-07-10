@@ -1,0 +1,1 @@
+{"fnName":"numComponents","params":[{"name":"head","type":"ListNode"},{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,3],[0,1,3]],"expected":2},{"input":[[0,1,2,3,4],[0,3,1,4]],"expected":2}]}

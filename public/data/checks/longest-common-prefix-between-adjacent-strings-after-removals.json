@@ -1,0 +1,1 @@
+{"fnName":"longestCommonPrefix","params":[{"name":"words","type":"string[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["jump","run","run","jump","run"]],"expected":[3,0,0,3,3]},{"input":[["dog","racer","car"]],"expected":[0,0,0]}]}

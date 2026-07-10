@@ -1,0 +1,1 @@
+{"fnName":"reverseVowels","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["IceCreAm"],"expected":"AceCreIm"},{"input":["leetcode"],"expected":"leotcede"}]}

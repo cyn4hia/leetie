@@ -1,0 +1,1 @@
+{"fnName":"popcountDepth","params":[{"name":"n","type":"long"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[4,1],"expected":2},{"input":[7,2],"expected":3}]}

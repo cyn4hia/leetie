@@ -1,0 +1,1 @@
+{"fnName":"maxCount","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"},{"name":"ops","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,3,[[2,2],[3,3]]],"expected":4},{"input":[3,3,[[2,2],[3,3],[3,3],[3,3],[2,2],[3,3],[3,3],[3,3],[2,2],[3,3],[3,3],[3,3]]],"expected":4},{"input":[3,3,[]],"expected":9}]}

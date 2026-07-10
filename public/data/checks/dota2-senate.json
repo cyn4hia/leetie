@@ -1,0 +1,1 @@
+{"fnName":"predictPartyVictory","params":[{"name":"senate","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["RD"],"expected":"Radiant"},{"input":["RDD"],"expected":"Dire"}]}

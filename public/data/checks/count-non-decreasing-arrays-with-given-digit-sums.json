@@ -1,0 +1,1 @@
+{"fnName":"countArrays","params":[{"name":"digitSum","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[25,1]],"expected":6},{"input":[[1]],"expected":4},{"input":[[2,49,23]],"expected":0}]}

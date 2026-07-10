@@ -1,0 +1,1 @@
+{"fnName":"relocateMarbles","params":[{"name":"nums","type":"integer[]"},{"name":"moveFrom","type":"integer[]"},{"name":"moveTo","type":"integer[]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[1,6,7,8],[1,7,2],[2,9,5]],"expected":[5,6,8,9]},{"input":[[1,1,3,3],[1,3],[2,2]],"expected":[2]}]}

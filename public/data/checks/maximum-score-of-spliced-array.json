@@ -1,0 +1,1 @@
+{"fnName":"maximumsSplicedArray","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[60,60,60],[10,90,10]],"expected":210},{"input":[[20,40,20,70,30],[50,20,50,40,20]],"expected":220},{"input":[[7,11,13],[1,1,1]],"expected":31}]}

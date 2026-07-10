@@ -1,0 +1,1 @@
+{"fnName":"getDirections","params":[{"name":"root","type":"TreeNode"},{"name":"startValue","type":"integer"},{"name":"destValue","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[5,1,2,3,null,6,4],3,6],"expected":"UURL"},{"input":[[2,1],2,1],"expected":"L"}]}

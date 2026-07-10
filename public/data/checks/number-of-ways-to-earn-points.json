@@ -1,0 +1,1 @@
+{"fnName":"waysToReachTarget","params":[{"name":"target","type":"integer"},{"name":"types","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[6,[[6,1],[3,2],[2,3]]],"expected":7},{"input":[5,[[50,1],[50,2],[50,5]]],"expected":4},{"input":[18,[[6,1],[3,2],[2,3]]],"expected":1}]}

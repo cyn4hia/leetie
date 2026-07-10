@@ -1,0 +1,1 @@
+{"fnName":"maxRotateFunction","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,3,2,6]],"expected":26},{"input":[[100]],"expected":0}]}

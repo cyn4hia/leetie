@@ -1,0 +1,1 @@
+{"fnName":"findCrossingTime","params":[{"name":"n","type":"integer"},{"name":"k","type":"integer"},{"name":"time","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1,3,[[1,1,2,1],[1,1,3,1],[1,1,4,1]]],"expected":6},{"input":[3,2,[[1,9,1,8],[10,10,10,10]]],"expected":37}]}

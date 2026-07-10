@@ -1,0 +1,1 @@
+{"fnName":"numSquarefulPerms","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,17,8]],"expected":2},{"input":[[2,2,2]],"expected":1}]}

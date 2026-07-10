@@ -1,0 +1,1 @@
+{"fnName":"scoreOfString","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["hello"],"expected":13},{"input":["zaz"],"expected":50}]}

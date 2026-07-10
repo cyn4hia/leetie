@@ -1,0 +1,1 @@
+{"fnName":"numberOfRoutes","params":[{"name":"grid","type":"string[]"},{"name":"d","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["..","#."],1],"expected":2},{"input":[["..","#."],2],"expected":4},{"input":[["#"],750],"expected":0},{"input":[[".."],1],"expected":4}]}

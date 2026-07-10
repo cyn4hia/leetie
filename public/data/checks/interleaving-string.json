@@ -1,0 +1,1 @@
+{"fnName":"isInterleave","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"},{"name":"s3","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["aabcc","dbbca","aadbbcbcac"],"expected":true},{"input":["aabcc","dbbca","aadbbbaccc"],"expected":false},{"input":["","",""],"expected":true}]}

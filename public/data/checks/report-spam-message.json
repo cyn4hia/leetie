@@ -1,0 +1,1 @@
+{"fnName":"reportSpam","params":[{"name":"message","type":"string[]"},{"name":"bannedWords","type":"string[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[["hello","world","leetcode"],["world","hello"]],"expected":true},{"input":[["hello","programming","fun"],["world","programming","leetcode"]],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"isSolvable","params":[{"name":"words","type":"string[]"},{"name":"result","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[["SEND","MORE"],"MONEY"],"expected":true},{"input":[["SIX","SEVEN","SEVEN"],"TWENTY"],"expected":true},{"input":[["LEET","CODE"],"POINT"],"expected":false}]}

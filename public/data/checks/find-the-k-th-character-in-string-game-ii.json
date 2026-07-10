@@ -1,0 +1,1 @@
+{"fnName":"kthCharacter","params":[{"name":"k","type":"long"},{"name":"operations","type":"integer[]"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":[5,[0,0,0]],"expected":"a"},{"input":[10,[0,1,0,1]],"expected":"b"}]}

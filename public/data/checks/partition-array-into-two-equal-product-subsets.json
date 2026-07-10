@@ -1,0 +1,1 @@
+{"fnName":"checkEqualPartitions","params":[{"name":"nums","type":"integer[]"},{"name":"target","type":"long"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[3,1,6,8,4],24],"expected":true},{"input":[[2,5,3,7],15],"expected":false}]}

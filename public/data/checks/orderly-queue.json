@@ -1,0 +1,1 @@
+{"fnName":"orderlyQueue","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["cba",1],"expected":"acb"},{"input":["baaca",3],"expected":"aaabc"}]}

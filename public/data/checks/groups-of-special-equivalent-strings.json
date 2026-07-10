@@ -1,0 +1,1 @@
+{"fnName":"numSpecialEquivGroups","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["abcd","cdab","cbad","xyzz","zzxy","zzyx"]],"expected":3},{"input":[["abc","acb","bac","bca","cab","cba"]],"expected":3}]}

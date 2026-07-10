@@ -1,0 +1,1 @@
+{"fnName":"furthestBuilding","params":[{"name":"heights","type":"integer[]"},{"name":"bricks","type":"integer"},{"name":"ladders","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,2,7,6,9,14,12],5,1],"expected":4},{"input":[[4,12,2,7,3,18,20,3,19],10,2],"expected":7},{"input":[[14,3,19,3],17,0],"expected":3}]}

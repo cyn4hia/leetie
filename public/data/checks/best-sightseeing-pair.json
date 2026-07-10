@@ -1,0 +1,1 @@
+{"fnName":"maxScoreSightseeingPair","params":[{"name":"values","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[8,1,5,2,6]],"expected":11},{"input":[[1,2]],"expected":2}]}

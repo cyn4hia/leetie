@@ -1,0 +1,1 @@
+{"fnName":"maxPathScore","params":[{"name":"grid","type":"integer[][]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[2,0]],1],"expected":2},{"input":[[[0,1],[1,2]],1],"expected":-1}]}

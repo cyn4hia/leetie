@@ -1,0 +1,1 @@
+{"fnName":"minLength","params":[{"name":"s","type":"string"},{"name":"numOps","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["000001",1],"expected":2},{"input":["0000",2],"expected":1},{"input":["0101",0],"expected":1}]}

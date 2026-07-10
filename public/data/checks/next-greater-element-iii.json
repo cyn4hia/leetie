@@ -1,0 +1,1 @@
+{"fnName":"nextGreaterElement","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[12],"expected":21},{"input":[21],"expected":-1}]}

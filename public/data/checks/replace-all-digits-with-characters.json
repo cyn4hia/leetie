@@ -1,0 +1,1 @@
+{"fnName":"replaceDigits","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["a1c1e1"],"expected":"abcdef"},{"input":["a1b2c3d4e"],"expected":"abbdcfdhe"}]}

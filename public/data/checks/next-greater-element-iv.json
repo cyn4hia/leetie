@@ -1,0 +1,1 @@
+{"fnName":"secondGreaterElement","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[2,4,0,9,6]],"expected":[9,6,6,-1,-1]},{"input":[[3,3]],"expected":[-1,-1]}]}

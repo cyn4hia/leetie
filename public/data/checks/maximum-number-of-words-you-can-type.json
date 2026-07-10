@@ -1,0 +1,1 @@
+{"fnName":"canBeTypedWords","params":[{"name":"text","type":"string"},{"name":"brokenLetters","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["hello world","ad"],"expected":1},{"input":["leet code","lt"],"expected":1},{"input":["leet code","e"],"expected":0}]}

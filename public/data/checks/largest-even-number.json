@@ -1,0 +1,1 @@
+{"fnName":"largestEven","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["1112"],"expected":"1112"},{"input":["221"],"expected":"22"},{"input":["1"],"expected":""}]}

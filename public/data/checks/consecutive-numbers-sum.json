@@ -1,0 +1,1 @@
+{"fnName":"consecutiveNumbersSum","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":2},{"input":[9],"expected":3},{"input":[15],"expected":4}]}

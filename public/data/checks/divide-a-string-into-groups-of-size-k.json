@@ -1,0 +1,1 @@
+{"fnName":"divideString","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"},{"name":"fill","type":"character"}],"returnType":"string[]","outputParam":null,"compare":"exact","tests":[{"input":["abcdefghi",3,"x"],"expected":["abc","def","ghi"]},{"input":["abcdefghij",3,"x"],"expected":["abc","def","ghi","jxx"]}]}

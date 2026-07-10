@@ -1,0 +1,1 @@
+{"fnName":"stringHash","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abcd",2],"expected":"bf"},{"input":["mxz",3],"expected":"i"}]}

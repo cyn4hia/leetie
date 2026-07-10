@@ -1,0 +1,1 @@
+{"fnName":"convert","params":[{"name":"s","type":"string"},{"name":"numRows","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["PAYPALISHIRING",3],"expected":"PAHNAPLSIIGYIR"},{"input":["PAYPALISHIRING",4],"expected":"PINALSIGYAHRPI"},{"input":["A",1],"expected":"A"}]}

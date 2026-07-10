@@ -1,0 +1,1 @@
+{"fnName":"deleteDuplicates","params":[{"name":"head","type":"ListNode"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2]],"expected":[1,2]},{"input":[[1,1,2,3,3]],"expected":[1,2,3]}]}

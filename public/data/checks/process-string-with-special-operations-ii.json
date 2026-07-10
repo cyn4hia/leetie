@@ -1,0 +1,1 @@
+{"fnName":"processStr","params":[{"name":"s","type":"string"},{"name":"k","type":"long"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":["a#b%*",1],"expected":"a"},{"input":["cd%#*#",3],"expected":"d"},{"input":["z*#",0],"expected":"."}]}

@@ -1,0 +1,1 @@
+{"fnName":"maxRunTime","params":[{"name":"n","type":"integer"},{"name":"batteries","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[2,[3,3,3]],"expected":4},{"input":[2,[1,1,1,1]],"expected":2}]}

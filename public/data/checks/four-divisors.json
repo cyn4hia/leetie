@@ -1,0 +1,1 @@
+{"fnName":"sumFourDivisors","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[21,4,7]],"expected":32},{"input":[[21,21]],"expected":64},{"input":[[1,2,3,4,5]],"expected":0}]}

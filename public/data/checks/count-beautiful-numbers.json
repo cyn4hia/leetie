@@ -1,0 +1,1 @@
+{"fnName":"beautifulNumbers","params":[{"name":"l","type":"integer"},{"name":"r","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10,20],"expected":2},{"input":[1,15],"expected":10}]}

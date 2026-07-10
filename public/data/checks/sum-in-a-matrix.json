@@ -1,0 +1,1 @@
+{"fnName":"matrixSum","params":[{"name":"nums","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[7,2,1],[6,4,2],[6,5,3],[3,2,1]]],"expected":15},{"input":[[[1]]],"expected":1}]}

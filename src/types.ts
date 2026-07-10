@@ -48,6 +48,22 @@ export interface RemoteContent {
   snippets: Partial<Record<Lang, string>>
 }
 
+export interface CheckParam {
+  name: string
+  type: string
+}
+
+/** Auto-generated submission checks parsed from a problem's own examples. */
+export interface GeneratedChecks {
+  fnName: string
+  params: CheckParam[]
+  returnType: string
+  /** For void (in-place) problems: index of the param compared after the call. */
+  outputParam: number | null
+  compare: CompareMode
+  tests: TestCase[]
+}
+
 export interface CaseResult {
   pass: boolean
   got?: unknown

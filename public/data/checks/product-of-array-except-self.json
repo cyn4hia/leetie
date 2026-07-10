@@ -1,0 +1,1 @@
+{"fnName":"productExceptSelf","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4]],"expected":[24,12,8,6]},{"input":[[-1,1,0,-3,3]],"expected":[0,0,9,0,0]}]}

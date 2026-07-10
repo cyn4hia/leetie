@@ -1,0 +1,1 @@
+{"fnName":"canMakeArithmeticProgression","params":[{"name":"arr","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[3,5,1]],"expected":true},{"input":[[1,2,4]],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"longestString","params":[{"name":"x","type":"integer"},{"name":"y","type":"integer"},{"name":"z","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,5,1],"expected":12},{"input":[3,2,2],"expected":14}]}

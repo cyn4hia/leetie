@@ -1,0 +1,1 @@
+{"fnName":"myAtoi","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["42"],"expected":42},{"input":["   -042"],"expected":-42},{"input":["1337c0d3"],"expected":1337},{"input":["0-1"],"expected":0},{"input":["words and 987"],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"convertToBase7","params":[{"name":"num","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[100],"expected":"202"},{"input":[-7],"expected":"-10"}]}

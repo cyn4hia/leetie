@@ -1,0 +1,1 @@
+{"fnName":"maxProduct","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["abcw","baz","foo","bar","xtfn","abcdef"]],"expected":16},{"input":[["a","ab","abc","d","cd","bcd","abcd"]],"expected":4},{"input":[["a","aa","aaa","aaaa"]],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"wordBreak","params":[{"name":"s","type":"string"},{"name":"wordDict","type":"list<string>"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["leetcode",["leet","code"]],"expected":true},{"input":["applepenapple",["apple","pen"]],"expected":true},{"input":["catsandog",["cats","dog","sand","and","cat"]],"expected":false}]}

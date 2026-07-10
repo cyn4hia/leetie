@@ -1,0 +1,1 @@
+{"fnName":"longestPath","params":[{"name":"parent","type":"integer[]"},{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-1,0,0,1,1,2],"abacbe"],"expected":3},{"input":[[-1,0,0,0],"aabc"],"expected":3}]}

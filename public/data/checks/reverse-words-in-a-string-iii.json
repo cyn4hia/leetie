@@ -1,0 +1,1 @@
+{"fnName":"reverseWords","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["Let's take LeetCode contest"],"expected":"s'teL ekat edoCteeL tsetnoc"},{"input":["Mr Ding"],"expected":"rM gniD"}]}

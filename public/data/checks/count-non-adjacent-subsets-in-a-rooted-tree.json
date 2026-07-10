@@ -1,0 +1,1 @@
+{"fnName":"countValidSubsets","params":[{"name":"parent","type":"integer[]"},{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-1,0,1],[1,2,3],3],"expected":1},{"input":[[-1,0,0,0],[2,1,2,1],3],"expected":2}]}

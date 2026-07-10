@@ -1,0 +1,1 @@
+{"fnName":"subsetsWithDup","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<list<integer>>","outputParam":null,"compare":"set","tests":[{"input":[[1,2,2]],"expected":[[],[1],[1,2],[1,2,2],[2],[2,2]]},{"input":[[0]],"expected":[[],[0]]}]}

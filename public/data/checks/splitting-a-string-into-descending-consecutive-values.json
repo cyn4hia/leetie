@@ -1,0 +1,1 @@
+{"fnName":"splitString","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["1234"],"expected":false},{"input":["050043"],"expected":true},{"input":["9080701"],"expected":false}]}

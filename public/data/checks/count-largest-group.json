@@ -1,0 +1,1 @@
+{"fnName":"countLargestGroup","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[13],"expected":4},{"input":[2],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"minCost","params":[{"name":"s","type":"string"},{"name":"encCost","type":"integer"},{"name":"flatCost","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["1010",2,1],"expected":6},{"input":["1010",3,10],"expected":12},{"input":["00",1,2],"expected":2}]}

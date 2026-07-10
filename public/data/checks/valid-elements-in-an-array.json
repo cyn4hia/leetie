@@ -1,0 +1,1 @@
+{"fnName":"findValidElements","params":[{"name":"nums","type":"integer[]"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,4,2,3,2]],"expected":[1,2,4,3,2]},{"input":[[5,5,5,5]],"expected":[5,5]},{"input":[[1]],"expected":[1]}]}

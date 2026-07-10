@@ -1,0 +1,1 @@
+{"fnName":"climbStairs","params":[{"name":"n","type":"integer"},{"name":"costs","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[4,[1,2,3,4]],"expected":13},{"input":[4,[5,1,6,2]],"expected":11},{"input":[3,[9,8,3]],"expected":12}]}

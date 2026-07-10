@@ -1,0 +1,1 @@
+{"fnName":"numTilePossibilities","params":[{"name":"tiles","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["AAB"],"expected":8},{"input":["AAABBC"],"expected":188},{"input":["V"],"expected":1}]}

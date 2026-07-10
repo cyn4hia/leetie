@@ -1,0 +1,1 @@
+{"fnName":"maximumSumOfHeights","params":[{"name":"maxHeights","type":"list<integer>"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[5,3,4,1,1]],"expected":13},{"input":[[6,5,3,9,2,7]],"expected":22},{"input":[[3,2,5,5,2,3]],"expected":18}]}

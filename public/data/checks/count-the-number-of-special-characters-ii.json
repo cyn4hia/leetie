@@ -1,0 +1,1 @@
+{"fnName":"numberOfSpecialChars","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aaAbcBC"],"expected":3},{"input":["abc"],"expected":0},{"input":["AbBCab"],"expected":0}]}

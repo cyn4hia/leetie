@@ -1,0 +1,1 @@
+{"fnName":"waysToFillArray","params":[{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[[2,6],[5,1],[73,660]]],"expected":[4,1,50734910]},{"input":[[[1,1],[2,2],[3,3],[4,4],[5,5]]],"expected":[1,2,3,10,5]}]}

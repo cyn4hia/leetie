@@ -1,0 +1,1 @@
+{"fnName":"isBalanced","params":[{"name":"root","type":"TreeNode"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[3,9,20,null,null,15,7]],"expected":true},{"input":[[1,2,2,3,3,null,null,4,4]],"expected":false},{"input":[[]],"expected":true}]}

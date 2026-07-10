@@ -1,0 +1,1 @@
+{"fnName":"maxProduct","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[31],"expected":3},{"input":[22],"expected":4},{"input":[124],"expected":8}]}

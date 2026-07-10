@@ -1,0 +1,1 @@
+{"fnName":"minimumDeletions","params":[{"name":"word","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aabcaba",0],"expected":3},{"input":["dabdcbdcdcd",2],"expected":2},{"input":["aaabaaa",2],"expected":1}]}

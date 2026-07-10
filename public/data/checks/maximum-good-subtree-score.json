@@ -1,0 +1,1 @@
+{"fnName":"goodSubtreeSum","params":[{"name":"vals","type":"integer[]"},{"name":"par","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,3],[-1,0]],"expected":8},{"input":[[1,5,2],[-1,0,0]],"expected":15},{"input":[[34,1,2],[-1,0,1]],"expected":42},{"input":[[3,22,5],[-1,0,1]],"expected":18}]}

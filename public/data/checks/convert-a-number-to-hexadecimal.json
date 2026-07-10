@@ -1,0 +1,1 @@
+{"fnName":"toHex","params":[{"name":"num","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[26],"expected":"1a"},{"input":[-1],"expected":"ffffffff"}]}

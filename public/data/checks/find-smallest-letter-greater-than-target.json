@@ -1,0 +1,1 @@
+{"fnName":"nextGreatestLetter","params":[{"name":"letters","type":"character[]"},{"name":"target","type":"character"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":[["c","f","j"],"a"],"expected":"c"},{"input":[["c","f","j"],"c"],"expected":"f"},{"input":[["x","x","y","y"],"z"],"expected":"x"}]}

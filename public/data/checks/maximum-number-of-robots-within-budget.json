@@ -1,0 +1,1 @@
+{"fnName":"maximumRobots","params":[{"name":"chargeTimes","type":"integer[]"},{"name":"runningCosts","type":"integer[]"},{"name":"budget","type":"long"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,6,1,3,4],[2,1,3,4,5],25],"expected":3},{"input":[[11,12,19],[10,8,7],19],"expected":0}]}

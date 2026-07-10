@@ -1,0 +1,1 @@
+{"fnName":"numberOfSteps","params":[{"name":"num","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[14],"expected":6},{"input":[8],"expected":4},{"input":[123],"expected":12}]}

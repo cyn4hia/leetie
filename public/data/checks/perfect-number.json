@@ -1,0 +1,1 @@
+{"fnName":"checkPerfectNumber","params":[{"name":"num","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[28],"expected":true},{"input":[7],"expected":false}]}

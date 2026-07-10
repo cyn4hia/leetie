@@ -1,0 +1,1 @@
+{"fnName":"maximumScore","params":[{"name":"nums","type":"list<integer>"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[8,3,9,3,8],2],"expected":81},{"input":[[19,12,14,6,10,18],3],"expected":4788}]}

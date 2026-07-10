@@ -1,0 +1,1 @@
+{"fnName":"makeFancyString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leeetcode"],"expected":"leetcode"},{"input":["aaabaaaa"],"expected":"aabaa"},{"input":["aab"],"expected":"aab"}]}

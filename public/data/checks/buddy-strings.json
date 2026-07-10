@@ -1,0 +1,1 @@
+{"fnName":"buddyStrings","params":[{"name":"s","type":"string"},{"name":"goal","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["ab","ba"],"expected":true},{"input":["ab","ab"],"expected":false},{"input":["aa","aa"],"expected":true}]}

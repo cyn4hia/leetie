@@ -1,0 +1,1 @@
+{"fnName":"commonFactors","params":[{"name":"a","type":"integer"},{"name":"b","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[12,6],"expected":4},{"input":[25,30],"expected":2}]}

@@ -1,0 +1,1 @@
+{"fnName":"sumCounts","params":[{"name":"nums","type":"list<integer>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,1]],"expected":15},{"input":[[1,1]],"expected":3}]}

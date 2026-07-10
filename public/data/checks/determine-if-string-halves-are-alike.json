@@ -1,0 +1,1 @@
+{"fnName":"halvesAreAlike","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["book"],"expected":true},{"input":["textbook"],"expected":false}]}

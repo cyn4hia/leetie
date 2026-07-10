@@ -1,0 +1,1 @@
+{"fnName":"differenceOfSums","params":[{"name":"n","type":"integer"},{"name":"m","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10,3],"expected":19},{"input":[5,6],"expected":15},{"input":[5,1],"expected":-15}]}

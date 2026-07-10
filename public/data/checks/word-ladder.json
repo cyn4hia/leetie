@@ -1,0 +1,1 @@
+{"fnName":"ladderLength","params":[{"name":"beginWord","type":"string"},{"name":"endWord","type":"string"},{"name":"wordList","type":"list<string>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["hit","cog",["hot","dot","dog","lot","log","cog"]],"expected":5},{"input":["hit","cog",["hot","dot","dog","lot","log"]],"expected":0}]}

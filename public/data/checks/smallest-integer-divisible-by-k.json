@@ -1,0 +1,1 @@
+{"fnName":"smallestRepunitDivByK","params":[{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1],"expected":1},{"input":[2],"expected":-1},{"input":[3],"expected":3}]}

@@ -1,0 +1,1 @@
+{"fnName":"minStoneSum","params":[{"name":"piles","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,9],2],"expected":12},{"input":[[4,3,6,7],3],"expected":12}]}

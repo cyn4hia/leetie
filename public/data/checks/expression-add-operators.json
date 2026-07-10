@@ -1,0 +1,1 @@
+{"fnName":"addOperators","params":[{"name":"num","type":"string"},{"name":"target","type":"integer"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":["123",6],"expected":["1*2*3","1+2+3"]},{"input":["232",8],"expected":["2*3+2","2+3*2"]},{"input":["3456237490",9191],"expected":[]}]}

@@ -1,0 +1,1 @@
+{"fnName":"sortSentence","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["is2 sentence4 This1 a3"],"expected":"This is a sentence"},{"input":["Myself2 Me1 I4 and3"],"expected":"Me Myself and I"}]}

@@ -1,0 +1,1 @@
+{"fnName":"minTaps","params":[{"name":"n","type":"integer"},{"name":"ranges","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,[3,4,1,1,0,0]],"expected":1},{"input":[3,[0,0,0,0]],"expected":-1}]}

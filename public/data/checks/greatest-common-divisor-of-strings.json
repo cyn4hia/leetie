@@ -1,0 +1,1 @@
+{"fnName":"gcdOfStrings","params":[{"name":"str1","type":"string"},{"name":"str2","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["ABCABC","ABC"],"expected":"ABC"},{"input":["ABABAB","ABAB"],"expected":"AB"},{"input":["LEET","CODE"],"expected":""},{"input":["AAAAAB","AAA"],"expected":""}]}

@@ -1,0 +1,1 @@
+{"fnName":"maxDotProduct","params":[{"name":"nums1","type":"integer[]"},{"name":"nums2","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,1,-2,5],[3,0,-6]],"expected":18},{"input":[[3,-2],[2,-6,7]],"expected":21},{"input":[[-1,-1],[1,1]],"expected":-1}]}

@@ -1,0 +1,1 @@
+{"fnName":"numDistinct","params":[{"name":"s","type":"string"},{"name":"t","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["rabbbit","rabbit"],"expected":3},{"input":["babgbag","bag"],"expected":5}]}

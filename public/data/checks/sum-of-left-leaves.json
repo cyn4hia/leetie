@@ -1,0 +1,1 @@
+{"fnName":"sumOfLeftLeaves","params":[{"name":"root","type":"TreeNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,9,20,null,null,15,7]],"expected":24},{"input":[[1]],"expected":0}]}

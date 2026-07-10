@@ -1,0 +1,1 @@
+{"fnName":"shortestCompletingWord","params":[{"name":"licensePlate","type":"string"},{"name":"words","type":"string[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["1s3 PSt",["step","steps","stripe","stepple"]],"expected":"steps"},{"input":["1s3 456",["looks","pest","stew","show"]],"expected":"pest"}]}

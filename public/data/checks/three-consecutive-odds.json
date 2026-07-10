@@ -1,0 +1,1 @@
+{"fnName":"threeConsecutiveOdds","params":[{"name":"arr","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[2,6,4,1]],"expected":false},{"input":[[1,2,34,3,4,5,7,23,12]],"expected":true}]}

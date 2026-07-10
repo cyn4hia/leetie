@@ -1,0 +1,1 @@
+{"fnName":"maximumElementAfterDecrementingAndRearranging","params":[{"name":"arr","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,2,1,2,1]],"expected":2},{"input":[[100,1,1000]],"expected":3},{"input":[[1,2,3,4,5]],"expected":5}]}

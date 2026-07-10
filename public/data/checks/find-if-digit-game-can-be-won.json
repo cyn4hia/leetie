@@ -1,0 +1,1 @@
+{"fnName":"canAliceWin","params":[{"name":"nums","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,10]],"expected":false},{"input":[[1,2,3,4,5,14]],"expected":true},{"input":[[5,5,5,25]],"expected":true}]}

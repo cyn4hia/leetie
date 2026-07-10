@@ -1,0 +1,1 @@
+{"fnName":"stoneGameIII","params":[{"name":"stoneValue","type":"integer[]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,7]],"expected":"Bob"},{"input":[[1,2,3,-9]],"expected":"Alice"},{"input":[[1,2,3,6]],"expected":"Tie"}]}

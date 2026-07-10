@@ -1,0 +1,1 @@
+{"fnName":"tictactoe","params":[{"name":"moves","type":"integer[][]"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[[[0,0],[2,0],[1,1],[2,1],[2,2]]],"expected":"A"},{"input":[[[0,0],[1,1],[0,1],[0,2],[1,0],[2,0]]],"expected":"B"},{"input":[[[0,0],[1,1],[2,0],[1,0],[1,2],[2,1],[0,1],[0,2],[2,2]]],"expected":"Draw"}]}

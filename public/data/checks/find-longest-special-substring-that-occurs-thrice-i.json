@@ -1,0 +1,1 @@
+{"fnName":"maximumLength","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aaaa"],"expected":2},{"input":["abcdef"],"expected":-1},{"input":["abcaba"],"expected":1}]}

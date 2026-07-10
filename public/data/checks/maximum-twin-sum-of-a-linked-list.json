@@ -1,0 +1,1 @@
+{"fnName":"pairSum","params":[{"name":"head","type":"ListNode"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,2,1]],"expected":6},{"input":[[4,2,2,3]],"expected":7},{"input":[[1,100000]],"expected":100001}]}

@@ -1,0 +1,1 @@
+{"fnName":"lexSmallest","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["dcab"],"expected":"acdb"},{"input":["abba"],"expected":"aabb"},{"input":["zxy"],"expected":"xzy"}]}

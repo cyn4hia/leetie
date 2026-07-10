@@ -1,0 +1,1 @@
+{"fnName":"countDigitOccurrences","params":[{"name":"nums","type":"integer[]"},{"name":"digit","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[12,54,32,22],2],"expected":4},{"input":[[1,34,7],9],"expected":0}]}

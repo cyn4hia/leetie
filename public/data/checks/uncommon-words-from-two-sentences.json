@@ -1,0 +1,1 @@
+{"fnName":"uncommonFromSentences","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"string[]","outputParam":null,"compare":"unordered","tests":[{"input":["this apple is sweet","this apple is sour"],"expected":["sweet","sour"]},{"input":["apple apple","banana"],"expected":["banana"]}]}

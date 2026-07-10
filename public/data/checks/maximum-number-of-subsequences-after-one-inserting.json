@@ -1,0 +1,1 @@
+{"fnName":"numOfSubsequences","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["LMCT"],"expected":2},{"input":["LCCT"],"expected":4},{"input":["L"],"expected":0}]}

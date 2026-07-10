@@ -1,0 +1,1 @@
+{"fnName":"lastNonEmptyString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["aabcbbca"],"expected":"ba"},{"input":["abcd"],"expected":"abcd"}]}

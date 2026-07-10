@@ -1,0 +1,1 @@
+{"fnName":"calculateMinimumHP","params":[{"name":"dungeon","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[-2,-3,3],[-5,-10,1],[10,30,-5]]],"expected":7},{"input":[[[0]]],"expected":1}]}

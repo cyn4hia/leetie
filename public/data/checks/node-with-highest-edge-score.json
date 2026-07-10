@@ -1,0 +1,1 @@
+{"fnName":"edgeScore","params":[{"name":"edges","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,0,0,0,7,7,5]],"expected":7},{"input":[[2,0,0,2]],"expected":0}]}

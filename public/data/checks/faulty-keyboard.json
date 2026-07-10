@@ -1,0 +1,1 @@
+{"fnName":"finalString","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["string"],"expected":"rtsng"},{"input":["poiinter"],"expected":"ponter"}]}

@@ -1,0 +1,1 @@
+{"fnName":"coinChange","params":[{"name":"coins","type":"integer[]"},{"name":"amount","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,5],11],"expected":3},{"input":[[2],3],"expected":-1},{"input":[[1],0],"expected":0}]}

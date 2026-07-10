@@ -1,0 +1,1 @@
+{"fnName":"countGoodStrings","params":[{"name":"low","type":"integer"},{"name":"high","type":"integer"},{"name":"zero","type":"integer"},{"name":"one","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,3,1,1],"expected":8},{"input":[2,3,1,2],"expected":5}]}

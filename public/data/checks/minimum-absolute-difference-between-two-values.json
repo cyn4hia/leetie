@@ -1,0 +1,1 @@
+{"fnName":"minAbsoluteDifference","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,0,2,0,1]],"expected":2},{"input":[[1,0,1,0]],"expected":-1}]}

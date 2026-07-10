@@ -1,0 +1,1 @@
+{"fnName":"slowestKey","params":[{"name":"releaseTimes","type":"integer[]"},{"name":"keysPressed","type":"string"}],"returnType":"character","outputParam":null,"compare":"exact","tests":[{"input":[[9,29,49,50],"cbcd"],"expected":"c"},{"input":[[12,23,36,46,62],"spuda"],"expected":"a"}]}

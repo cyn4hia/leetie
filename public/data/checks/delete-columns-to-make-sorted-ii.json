@@ -1,0 +1,1 @@
+{"fnName":"minDeletionSize","params":[{"name":"strs","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["ca","bb","ac"]],"expected":1},{"input":[["xc","yb","za"]],"expected":0},{"input":[["zyx","wvu","tsr"]],"expected":3}]}

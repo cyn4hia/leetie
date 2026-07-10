@@ -1,0 +1,1 @@
+{"fnName":"uniquePathsIII","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,0,0,0],[0,0,0,0],[0,0,2,-1]]],"expected":2},{"input":[[[1,0,0,0],[0,0,0,0],[0,0,0,2]]],"expected":4},{"input":[[[0,1],[2,0]]],"expected":0}]}

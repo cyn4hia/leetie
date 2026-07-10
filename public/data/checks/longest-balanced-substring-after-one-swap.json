@@ -1,0 +1,1 @@
+{"fnName":"longestBalanced","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["100001"],"expected":4},{"input":["111"],"expected":0}]}

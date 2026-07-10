@@ -1,0 +1,1 @@
+{"fnName":"maximizeXor","params":[{"name":"nums","type":"integer[]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[0,1,2,3,4],[[3,1],[1,3],[5,6]]],"expected":[3,3,7]},{"input":[[5,2,4,6,6,3],[[12,4],[8,1],[6,3]]],"expected":[15,-1,5]}]}

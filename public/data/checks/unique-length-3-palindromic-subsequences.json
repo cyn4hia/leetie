@@ -1,0 +1,1 @@
+{"fnName":"countPalindromicSubsequence","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aabca"],"expected":3},{"input":["adc"],"expected":0},{"input":["bbcbaba"],"expected":4}]}

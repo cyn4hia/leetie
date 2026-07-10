@@ -1,0 +1,1 @@
+{"fnName":"totalScore","params":[{"name":"hp","type":"integer"},{"name":"damage","type":"integer[]"},{"name":"requirement","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[11,[3,6,7],[4,2,5]],"expected":3},{"input":[2,[10000,1],[1,1]],"expected":1}]}

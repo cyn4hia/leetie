@@ -1,0 +1,1 @@
+{"fnName":"maximumCount","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[-2,-1,-1,1,2,3]],"expected":3},{"input":[[-3,-2,-1,0,0,1,2]],"expected":3},{"input":[[5,20,66,1314]],"expected":4}]}

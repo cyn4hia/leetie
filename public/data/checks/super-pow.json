@@ -1,0 +1,1 @@
+{"fnName":"superPow","params":[{"name":"a","type":"integer"},{"name":"b","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,[3]],"expected":8},{"input":[2,[1,0]],"expected":1024},{"input":[1,[4,3,3,8,5,2]],"expected":1}]}

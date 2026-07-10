@@ -1,0 +1,1 @@
+{"fnName":"maxXor","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,5,6],2],"expected":7},{"input":[[5,4,5,6],1],"expected":6}]}

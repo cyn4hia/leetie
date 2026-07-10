@@ -1,0 +1,1 @@
+{"fnName":"removeDigit","params":[{"name":"number","type":"string"},{"name":"digit","type":"character"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["123","3"],"expected":"12"},{"input":["1231","1"],"expected":"231"},{"input":["551","5"],"expected":"51"}]}

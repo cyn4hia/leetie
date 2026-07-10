@@ -1,0 +1,1 @@
+{"fnName":"judgeCircle","params":[{"name":"moves","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["UD"],"expected":true},{"input":["LL"],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"maxConsecutiveAnswers","params":[{"name":"answerKey","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["TTFF",2],"expected":4},{"input":["TFFT",1],"expected":3},{"input":["TTFTTFTT",1],"expected":5}]}

@@ -1,0 +1,1 @@
+{"fnName":"tilingRectangle","params":[{"name":"n","type":"integer"},{"name":"m","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,3],"expected":3},{"input":[5,8],"expected":5},{"input":[11,13],"expected":6}]}

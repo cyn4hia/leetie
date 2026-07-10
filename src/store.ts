@@ -39,6 +39,7 @@ interface LeetieState {
   search: string
   catalog: CatalogEntry[]
   catalogLoaded: boolean
+  checksIndex: Set<string>
   result: RunResult | null
   resultKind: 'run' | 'submit' | null
   running: boolean
@@ -56,6 +57,7 @@ interface LeetieState {
   setCode: (slug: string, lang: Lang, code: string) => void
   clearCode: (slug: string, lang: Lang) => void
   setCatalog: (entries: CatalogEntry[]) => void
+  setChecksIndex: (slugs: string[]) => void
   setResult: (result: RunResult | null, kind: 'run' | 'submit' | null) => void
   setRunning: (running: boolean) => void
   setPyStatus: (status: PyStatus) => void
@@ -81,6 +83,7 @@ export const useLeetie = create<LeetieState>()(
       search: '',
       catalog: [],
       catalogLoaded: false,
+      checksIndex: new Set<string>(),
       result: null,
       resultKind: null,
       running: false,
@@ -110,6 +113,7 @@ export const useLeetie = create<LeetieState>()(
           return { code: next }
         }),
       setCatalog: (catalog) => set({ catalog, catalogLoaded: true }),
+      setChecksIndex: (slugs) => set({ checksIndex: new Set(slugs) }),
       setResult: (result, resultKind) => set({ result, resultKind }),
       setRunning: (running) => set({ running }),
       setPyStatus: (pyStatus) => set({ pyStatus }),

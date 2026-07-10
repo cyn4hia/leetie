@@ -1,0 +1,1 @@
+{"fnName":"swapNodes","params":[{"name":"head","type":"ListNode"},{"name":"k","type":"integer"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5],2],"expected":[1,4,3,2,5]},{"input":[[7,9,6,6,7,8,3,0,9,5],5],"expected":[7,9,6,6,8,7,3,0,9,5]}]}

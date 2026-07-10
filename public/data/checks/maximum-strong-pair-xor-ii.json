@@ -1,0 +1,1 @@
+{"fnName":"maximumStrongPairXor","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5]],"expected":7},{"input":[[10,100]],"expected":0},{"input":[[500,520,2500,3000]],"expected":1020}]}

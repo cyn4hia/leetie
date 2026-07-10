@@ -1,0 +1,1 @@
+{"fnName":"minDistance","params":[{"name":"houses","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,8,10,20],3],"expected":5},{"input":[[2,3,5,12,18],2],"expected":9}]}

@@ -1,0 +1,1 @@
+{"fnName":"mostPoints","params":[{"name":"questions","type":"integer[][]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[[3,2],[4,3],[4,4],[2,5]]],"expected":5},{"input":[[[1,1],[2,2],[3,3],[4,4],[5,5]]],"expected":7}]}

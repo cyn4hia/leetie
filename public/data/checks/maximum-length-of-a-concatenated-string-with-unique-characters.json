@@ -1,0 +1,1 @@
+{"fnName":"maxLength","params":[{"name":"arr","type":"list<string>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["un","iq","ue"]],"expected":4},{"input":[["cha","r","act","ers"]],"expected":6},{"input":[["abcdefghijklmnopqrstuvwxyz"]],"expected":26}]}

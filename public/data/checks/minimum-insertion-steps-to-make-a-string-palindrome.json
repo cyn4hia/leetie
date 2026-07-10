@@ -1,0 +1,1 @@
+{"fnName":"minInsertions","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["zzazz"],"expected":0},{"input":["mbadm"],"expected":2},{"input":["leetcode"],"expected":5}]}

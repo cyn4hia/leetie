@@ -1,0 +1,1 @@
+{"fnName":"findRelativeRanks","params":[{"name":"score","type":"integer[]"}],"returnType":"string[]","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,3,2,1]],"expected":["Gold Medal","Silver Medal","Bronze Medal","4","5"]},{"input":[[10,3,8,9,4]],"expected":["Gold Medal","5","Bronze Medal","Silver Medal","4"]}]}

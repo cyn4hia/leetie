@@ -1,0 +1,1 @@
+{"fnName":"canTraverseAllPairs","params":[{"name":"nums","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,6]],"expected":true},{"input":[[3,9,5]],"expected":false},{"input":[[4,3,12,8]],"expected":true}]}

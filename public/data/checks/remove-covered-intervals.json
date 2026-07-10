@@ -1,0 +1,1 @@
+{"fnName":"removeCoveredIntervals","params":[{"name":"intervals","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,4],[3,6],[2,8]]],"expected":2},{"input":[[[1,4],[2,3]]],"expected":1}]}

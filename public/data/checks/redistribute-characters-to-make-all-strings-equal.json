@@ -1,0 +1,1 @@
+{"fnName":"makeEqual","params":[{"name":"words","type":"string[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[["abc","aabc","bc"]],"expected":true},{"input":[["ab","a"]],"expected":false}]}

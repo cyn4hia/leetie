@@ -1,0 +1,1 @@
+{"fnName":"rangeBitwiseAnd","params":[{"name":"left","type":"integer"},{"name":"right","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5,7],"expected":4},{"input":[0,0],"expected":0},{"input":[1,2147483647],"expected":0}]}

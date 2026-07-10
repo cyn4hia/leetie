@@ -1,0 +1,1 @@
+{"fnName":"longestBeautifulSubstring","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aeiaaioaaaaeiiiiouuuooaauuaeiu"],"expected":13},{"input":["aeeeiiiioooauuuaeiou"],"expected":5},{"input":["a"],"expected":0}]}

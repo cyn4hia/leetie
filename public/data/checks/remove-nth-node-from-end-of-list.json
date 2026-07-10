@@ -1,0 +1,1 @@
+{"fnName":"removeNthFromEnd","params":[{"name":"head","type":"ListNode"},{"name":"n","type":"integer"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5],2],"expected":[1,2,3,5]},{"input":[[1],1],"expected":[]},{"input":[[1,2],1],"expected":[1]}]}

@@ -1,0 +1,1 @@
+{"fnName":"isPrefixOfWord","params":[{"name":"sentence","type":"string"},{"name":"searchWord","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["i love eating burger","burg"],"expected":4},{"input":["this problem is an easy problem","pro"],"expected":2},{"input":["i am tired","you"],"expected":-1}]}

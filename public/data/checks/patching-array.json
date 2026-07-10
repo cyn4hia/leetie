@@ -1,0 +1,1 @@
+{"fnName":"minPatches","params":[{"name":"nums","type":"integer[]"},{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,3],6],"expected":1},{"input":[[1,5,10],20],"expected":2},{"input":[[1,2,2],5],"expected":0}]}

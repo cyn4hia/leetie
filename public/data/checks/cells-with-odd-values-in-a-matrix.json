@@ -1,0 +1,1 @@
+{"fnName":"oddCells","params":[{"name":"m","type":"integer"},{"name":"n","type":"integer"},{"name":"indices","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,3,[[0,1],[1,1]]],"expected":6},{"input":[2,2,[[1,1],[0,0]]],"expected":0}]}

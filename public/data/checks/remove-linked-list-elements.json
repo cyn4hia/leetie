@@ -1,0 +1,1 @@
+{"fnName":"removeElements","params":[{"name":"head","type":"ListNode"},{"name":"val","type":"integer"}],"returnType":"ListNode","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,6,3,4,5,6],6],"expected":[1,2,3,4,5]},{"input":[[],1],"expected":[]},{"input":[[7,7,7,7],7],"expected":[]}]}

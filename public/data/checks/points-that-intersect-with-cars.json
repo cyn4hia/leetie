@@ -1,0 +1,1 @@
+{"fnName":"numberOfPoints","params":[{"name":"nums","type":"list<list<integer>>"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[3,6],[1,5],[4,7]]],"expected":7},{"input":[[[1,3],[5,8]]],"expected":7}]}

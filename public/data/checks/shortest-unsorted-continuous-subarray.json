@@ -1,0 +1,1 @@
+{"fnName":"findUnsortedSubarray","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,6,4,8,10,9,15]],"expected":5},{"input":[[1,2,3,4]],"expected":0},{"input":[[1]],"expected":0}]}

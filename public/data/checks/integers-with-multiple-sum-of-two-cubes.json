@@ -1,0 +1,1 @@
+{"fnName":"findGoodIntegers","params":[{"name":"n","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[4104],"expected":[1729,4104]},{"input":[578],"expected":[]}]}

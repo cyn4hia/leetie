@@ -1,0 +1,1 @@
+{"fnName":"minFlips","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["1010"],"expected":1},{"input":["0110"],"expected":1},{"input":["1000"],"expected":0}]}

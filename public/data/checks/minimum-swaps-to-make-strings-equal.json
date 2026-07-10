@@ -1,0 +1,1 @@
+{"fnName":"minimumSwap","params":[{"name":"s1","type":"string"},{"name":"s2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["xx","yy"],"expected":1},{"input":["xy","yx"],"expected":2},{"input":["xx","xy"],"expected":-1}]}

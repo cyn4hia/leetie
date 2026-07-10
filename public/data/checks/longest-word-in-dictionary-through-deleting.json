@@ -1,0 +1,1 @@
+{"fnName":"findLongestWord","params":[{"name":"s","type":"string"},{"name":"dictionary","type":"list<string>"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abpcplea",["ale","apple","monkey","plea"]],"expected":"apple"},{"input":["abpcplea",["a","b","c"]],"expected":"a"}]}

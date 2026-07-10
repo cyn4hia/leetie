@@ -1,0 +1,1 @@
+{"fnName":"numberOfPermutations","params":[{"name":"n","type":"integer"},{"name":"requirements","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[3,[[2,2],[0,0]]],"expected":2},{"input":[3,[[2,2],[1,1],[0,0]]],"expected":1},{"input":[2,[[0,0],[1,0]]],"expected":1}]}

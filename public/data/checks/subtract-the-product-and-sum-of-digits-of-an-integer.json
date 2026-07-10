@@ -1,0 +1,1 @@
+{"fnName":"subtractProductAndSum","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[234],"expected":15},{"input":[4421],"expected":21}]}

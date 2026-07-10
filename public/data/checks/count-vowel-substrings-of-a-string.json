@@ -1,0 +1,1 @@
+{"fnName":"countVowelSubstrings","params":[{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aeiouu"],"expected":2},{"input":["unicornarihan"],"expected":0},{"input":["cuaieuouac"],"expected":7}]}

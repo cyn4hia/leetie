@@ -1,0 +1,1 @@
+{"fnName":"numberGame","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[5,4,2,3]],"expected":[3,2,5,4]},{"input":[[2,5]],"expected":[5,2]}]}

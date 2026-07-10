@@ -1,0 +1,1 @@
+{"fnName":"minCut","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aab"],"expected":1},{"input":["a"],"expected":0},{"input":["ab"],"expected":1}]}

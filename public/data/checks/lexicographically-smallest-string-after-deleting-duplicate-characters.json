@@ -1,0 +1,1 @@
+{"fnName":"lexSmallestAfterDeletion","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["aaccb"],"expected":"aacb"},{"input":["z"],"expected":"z"}]}

@@ -1,0 +1,1 @@
+{"fnName":"uniqueMorseRepresentations","params":[{"name":"words","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["gin","zen","gig","msg"]],"expected":2},{"input":[["a"]],"expected":1}]}

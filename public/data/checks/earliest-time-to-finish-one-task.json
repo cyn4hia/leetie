@@ -1,0 +1,1 @@
+{"fnName":"earliestTime","params":[{"name":"tasks","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,6],[2,3]]],"expected":5},{"input":[[[100,100],[100,100],[100,100]]],"expected":200}]}

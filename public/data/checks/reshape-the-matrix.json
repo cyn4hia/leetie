@@ -1,0 +1,1 @@
+{"fnName":"matrixReshape","params":[{"name":"mat","type":"integer[][]"},{"name":"r","type":"integer"},{"name":"c","type":"integer"}],"returnType":"integer[][]","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2],[3,4]],1,4],"expected":[[1,2,3,4]]},{"input":[[[1,2],[3,4]],2,4],"expected":[[1,2],[3,4]]}]}

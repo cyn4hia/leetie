@@ -1,0 +1,1 @@
+{"fnName":"maxSum","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[112,131,411]],"expected":-1},{"input":[[2536,1613,3366,162]],"expected":5902},{"input":[[51,71,17,24,42]],"expected":88}]}

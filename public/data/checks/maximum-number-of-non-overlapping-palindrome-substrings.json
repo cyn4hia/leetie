@@ -1,0 +1,1 @@
+{"fnName":"maxPalindromes","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abaccdbbd",3],"expected":2},{"input":["adbcda",2],"expected":0}]}

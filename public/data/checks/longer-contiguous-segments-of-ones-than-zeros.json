@@ -1,0 +1,1 @@
+{"fnName":"checkZeroOnes","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["1101"],"expected":true},{"input":["111000"],"expected":false},{"input":["110100010"],"expected":false}]}

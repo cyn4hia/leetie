@@ -1,0 +1,1 @@
+{"fnName":"largestGoodInteger","params":[{"name":"num","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["6777133339"],"expected":"777"},{"input":["2300019"],"expected":"000"},{"input":["42352338"],"expected":""}]}

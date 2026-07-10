@@ -1,0 +1,1 @@
+{"fnName":"longestPalindrome","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["cacb","cbba"],"expected":5},{"input":["ab","ab"],"expected":3},{"input":["aa","bb"],"expected":0}]}

@@ -1,0 +1,1 @@
+{"fnName":"countValidWords","params":[{"name":"sentence","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["cat and  dog"],"expected":3},{"input":["!this  1-s b8d!"],"expected":0},{"input":["alice and  bob are playing stone-game10"],"expected":5}]}

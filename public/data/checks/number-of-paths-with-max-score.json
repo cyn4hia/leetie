@@ -1,0 +1,1 @@
+{"fnName":"pathsWithMaxScore","params":[{"name":"board","type":"list<string>"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[["E23","2X2","12S"]],"expected":[7,1]},{"input":[["E12","1X1","21S"]],"expected":[4,2]},{"input":[["E11","XXX","11S"]],"expected":[0,0]}]}

@@ -1,0 +1,1 @@
+{"fnName":"findMinStep","params":[{"name":"board","type":"string"},{"name":"hand","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["WRRBBW","RB"],"expected":-1},{"input":["WWRRBBWW","WRBRW"],"expected":2},{"input":["G","GGGGG"],"expected":2}]}

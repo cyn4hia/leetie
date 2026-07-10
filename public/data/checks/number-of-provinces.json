@@ -1,0 +1,1 @@
+{"fnName":"findCircleNum","params":[{"name":"isConnected","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,1,0],[1,1,0],[0,0,1]]],"expected":2},{"input":[[[1,0,0],[0,1,0],[0,0,1]]],"expected":3}]}

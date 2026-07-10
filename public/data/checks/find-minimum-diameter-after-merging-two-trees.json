@@ -1,0 +1,1 @@
+{"fnName":"minimumDiameterAfterMerge","params":[{"name":"edges1","type":"integer[][]"},{"name":"edges2","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1],[0,2],[0,3]],[[0,1]]],"expected":3},{"input":[[[0,1],[0,2],[0,3],[2,4],[2,5],[3,6],[2,7]],[[0,1],[0,2],[0,3],[2,4],[2,5],[3,6],[2,7]]],"expected":5}]}

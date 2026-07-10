@@ -1,0 +1,1 @@
+{"fnName":"numPrimeArrangements","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[5],"expected":12},{"input":[100],"expected":682289015}]}

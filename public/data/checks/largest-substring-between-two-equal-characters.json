@@ -1,0 +1,1 @@
+{"fnName":"maxLengthBetweenEqualCharacters","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aa"],"expected":0},{"input":["abca"],"expected":2},{"input":["cbzxy"],"expected":-1}]}

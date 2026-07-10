@@ -1,0 +1,1 @@
+{"fnName":"shortestPathLength","params":[{"name":"graph","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2,3],[0],[0],[0]]],"expected":4},{"input":[[[1],[0,2,4],[1,3,4],[2],[1,2]]],"expected":4}]}

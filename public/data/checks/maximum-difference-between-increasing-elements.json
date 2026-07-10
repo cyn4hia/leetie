@@ -1,0 +1,1 @@
+{"fnName":"maximumDifference","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[7,1,5,4]],"expected":4},{"input":[[9,4,3,2]],"expected":-1},{"input":[[1,5,2,10]],"expected":9}]}

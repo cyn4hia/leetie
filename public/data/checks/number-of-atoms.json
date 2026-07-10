@@ -1,0 +1,1 @@
+{"fnName":"countOfAtoms","params":[{"name":"formula","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["H2O"],"expected":"H2O"},{"input":["Mg(OH)2"],"expected":"H2MgO2"},{"input":["K4(ON(SO3)2)2"],"expected":"K4N2O14S4"}]}

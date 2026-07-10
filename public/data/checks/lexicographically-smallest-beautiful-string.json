@@ -1,0 +1,1 @@
+{"fnName":"smallestBeautifulString","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["abcz",26],"expected":"abda"},{"input":["dc",4],"expected":""}]}

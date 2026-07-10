@@ -1,0 +1,1 @@
+{"fnName":"memLeak","params":[{"name":"memory1","type":"integer"},{"name":"memory2","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[2,2],"expected":[3,1,0]},{"input":[8,11],"expected":[6,0,4]}]}

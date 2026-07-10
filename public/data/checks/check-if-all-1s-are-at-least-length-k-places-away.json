@@ -1,0 +1,1 @@
+{"fnName":"kLengthApart","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[1,0,0,0,1,0,0,1],2],"expected":true},{"input":[[1,0,0,1,0,1],2],"expected":false}]}

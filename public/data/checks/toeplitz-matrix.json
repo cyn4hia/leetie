@@ -1,0 +1,1 @@
+{"fnName":"isToeplitzMatrix","params":[{"name":"matrix","type":"integer[][]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[[1,2,3,4],[5,1,2,3],[9,5,1,2]]],"expected":true},{"input":[[[1,2],[2,2]]],"expected":false}]}

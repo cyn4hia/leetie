@@ -1,0 +1,1 @@
+{"fnName":"balancedStringSplit","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["RLRRLLRLRL"],"expected":4},{"input":["RLRRRLLRLL"],"expected":2},{"input":["LLLLRRRR"],"expected":1}]}

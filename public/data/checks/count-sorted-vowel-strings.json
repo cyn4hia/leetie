@@ -1,0 +1,1 @@
+{"fnName":"countVowelStrings","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1],"expected":5},{"input":[2],"expected":15},{"input":[33],"expected":66045}]}

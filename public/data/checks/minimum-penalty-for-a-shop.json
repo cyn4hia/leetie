@@ -1,0 +1,1 @@
+{"fnName":"bestClosingTime","params":[{"name":"customers","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["YYNY"],"expected":2},{"input":["NNNNN"],"expected":0},{"input":["YYYY"],"expected":4}]}

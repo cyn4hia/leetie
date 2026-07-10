@@ -1,0 +1,1 @@
+{"fnName":"smallestSubsequence","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"},{"name":"letter","type":"character"},{"name":"repetition","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["leet",3,"e",1],"expected":"eet"},{"input":["leetcode",4,"e",2],"expected":"ecde"},{"input":["bb",2,"b",2],"expected":"bb"}]}

@@ -1,0 +1,1 @@
+{"fnName":"countPyramids","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[0,1,1,0],[1,1,1,1]]],"expected":2},{"input":[[[1,1,1],[1,1,1]]],"expected":2},{"input":[[[1,1,1,1,0],[1,1,1,1,1],[1,1,1,1,1],[0,1,0,0,1]]],"expected":13}]}

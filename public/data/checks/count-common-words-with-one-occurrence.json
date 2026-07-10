@@ -1,0 +1,1 @@
+{"fnName":"countWords","params":[{"name":"words1","type":"string[]"},{"name":"words2","type":"string[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["leetcode","is","amazing","as","is"],["amazing","leetcode","is"]],"expected":2},{"input":[["b","bb","bbb"],["a","aa","aaa"]],"expected":0},{"input":[["a","ab"],["a","a","a","ab"]],"expected":1}]}

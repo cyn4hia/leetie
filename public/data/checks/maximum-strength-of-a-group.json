@@ -1,0 +1,1 @@
+{"fnName":"maxStrength","params":[{"name":"nums","type":"integer[]"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[3,-1,-5,2,5,-9]],"expected":1350},{"input":[[-4,-5,-4]],"expected":20}]}

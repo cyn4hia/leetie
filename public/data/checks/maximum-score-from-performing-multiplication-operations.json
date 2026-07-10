@@ -1,0 +1,1 @@
+{"fnName":"maximumScore","params":[{"name":"nums","type":"integer[]"},{"name":"multipliers","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3],[3,2,1]],"expected":14},{"input":[[-5,-3,-3,-2,7,1],[-10,-5,3,4,6]],"expected":102}]}

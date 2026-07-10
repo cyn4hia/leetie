@@ -1,0 +1,1 @@
+{"fnName":"leastInterval","params":[{"name":"tasks","type":"character[]"},{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["A","A","A","B","B","B"],2],"expected":8},{"input":[["A","C","A","B","D","B"],1],"expected":6},{"input":[["A","A","A","B","B","B"],3],"expected":10}]}

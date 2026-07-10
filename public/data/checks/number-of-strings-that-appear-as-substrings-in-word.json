@@ -1,0 +1,1 @@
+{"fnName":"numOfStrings","params":[{"name":"patterns","type":"string[]"},{"name":"word","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[["a","abc","bc","d"],"abc"],"expected":3},{"input":[["a","b","c"],"aaaaabbbbb"],"expected":2},{"input":[["a","a","a"],"ab"],"expected":3}]}

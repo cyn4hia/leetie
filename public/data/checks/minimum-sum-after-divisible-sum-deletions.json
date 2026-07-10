@@ -1,0 +1,1 @@
+{"fnName":"minArraySum","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,1],2],"expected":1},{"input":[[3,1,4,1,5],3],"expected":5}]}

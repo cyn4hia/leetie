@@ -1,0 +1,1 @@
+{"fnName":"buyChoco","params":[{"name":"prices","type":"integer[]"},{"name":"money","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,2],3],"expected":0},{"input":[[3,2,3],3],"expected":3}]}

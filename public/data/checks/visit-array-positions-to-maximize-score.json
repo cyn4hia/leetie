@@ -1,0 +1,1 @@
+{"fnName":"maxScore","params":[{"name":"nums","type":"integer[]"},{"name":"x","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":[[2,3,6,1,9,2],5],"expected":13},{"input":[[2,4,6,8],3],"expected":20}]}

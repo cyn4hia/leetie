@@ -1,0 +1,1 @@
+{"fnName":"trimTrailingVowels","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["idea"],"expected":"id"},{"input":["day"],"expected":"day"},{"input":["aeiou"],"expected":""}]}

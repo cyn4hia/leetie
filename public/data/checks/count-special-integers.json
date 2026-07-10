@@ -1,0 +1,1 @@
+{"fnName":"countSpecialNumbers","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[20],"expected":19},{"input":[5],"expected":5},{"input":[135],"expected":110}]}

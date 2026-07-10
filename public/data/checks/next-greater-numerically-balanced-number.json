@@ -1,0 +1,1 @@
+{"fnName":"nextBeautifulNumber","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[1],"expected":22},{"input":[1000],"expected":1333},{"input":[3000],"expected":3133}]}

@@ -1,0 +1,1 @@
+{"fnName":"toggleLightBulbs","params":[{"name":"bulbs","type":"list<integer>"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[10,30,20,10]],"expected":[20,30]},{"input":[[100,100]],"expected":[]}]}

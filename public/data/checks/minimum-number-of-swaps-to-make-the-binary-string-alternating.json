@@ -1,0 +1,1 @@
+{"fnName":"minSwaps","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["111000"],"expected":1},{"input":["010"],"expected":0},{"input":["1110"],"expected":-1}]}

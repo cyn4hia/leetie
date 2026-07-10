@@ -1,0 +1,1 @@
+{"fnName":"wordPattern","params":[{"name":"pattern","type":"string"},{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["abba","dog cat cat dog"],"expected":true},{"input":["abba","dog cat cat fish"],"expected":false},{"input":["aaaa","dog cat cat dog"],"expected":false}]}

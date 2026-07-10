@@ -1,0 +1,1 @@
+{"fnName":"sumOfFlooredPairs","params":[{"name":"nums","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[2,5,9]],"expected":10},{"input":[[7,7,7,7,7,7,7]],"expected":49}]}

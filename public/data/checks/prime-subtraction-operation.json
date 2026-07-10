@@ -1,0 +1,1 @@
+{"fnName":"primeSubOperation","params":[{"name":"nums","type":"integer[]"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[4,9,6,10]],"expected":true},{"input":[[6,8,11,12]],"expected":true},{"input":[[5,8,3]],"expected":false}]}

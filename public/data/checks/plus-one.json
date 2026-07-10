@@ -1,0 +1,1 @@
+{"fnName":"plusOne","params":[{"name":"digits","type":"integer[]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3]],"expected":[1,2,4]},{"input":[[4,3,2,1]],"expected":[4,3,2,2]},{"input":[[9]],"expected":[1,0]}]}

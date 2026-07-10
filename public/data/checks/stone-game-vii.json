@@ -1,0 +1,1 @@
+{"fnName":"stoneGameVII","params":[{"name":"stones","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[5,3,1,4,2]],"expected":6},{"input":[[7,90,5,1,100,10,10,2]],"expected":122}]}

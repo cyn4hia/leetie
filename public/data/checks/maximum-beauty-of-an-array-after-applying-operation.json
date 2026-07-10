@@ -1,0 +1,1 @@
+{"fnName":"maximumBeauty","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[4,6,1,2],2],"expected":3},{"input":[[1,1,1,1],10],"expected":4}]}

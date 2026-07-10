@@ -1,0 +1,1 @@
+{"fnName":"count","params":[{"name":"num1","type":"string"},{"name":"num2","type":"string"},{"name":"min_sum","type":"integer"},{"name":"max_sum","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["1","12",1,8],"expected":11},{"input":["1","5",1,5],"expected":5}]}

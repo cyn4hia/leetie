@@ -1,0 +1,1 @@
+{"fnName":"minimumSteps","params":[{"name":"s","type":"string"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["101"],"expected":1},{"input":["100"],"expected":2},{"input":["0111"],"expected":0}]}

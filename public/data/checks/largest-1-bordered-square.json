@@ -1,0 +1,1 @@
+{"fnName":"largest1BorderedSquare","params":[{"name":"grid","type":"integer[][]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,1,1],[1,0,1],[1,1,1]]],"expected":9},{"input":[[[1,1,0,0]]],"expected":1}]}

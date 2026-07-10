@@ -1,0 +1,1 @@
+{"fnName":"removeAnagrams","params":[{"name":"words","type":"string[]"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":[["abba","baba","bbaa","cd","cd"]],"expected":["abba","cd"]},{"input":[["a","b","c","d","e"]],"expected":["a","b","c","d","e"]}]}

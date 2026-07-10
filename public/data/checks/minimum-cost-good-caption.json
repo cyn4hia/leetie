@@ -1,0 +1,1 @@
+{"fnName":"minCostGoodCaption","params":[{"name":"caption","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["cdcd"],"expected":"cccc"},{"input":["aca"],"expected":"aaa"},{"input":["bc"],"expected":""}]}

@@ -1,0 +1,1 @@
+{"fnName":"concatHex36","params":[{"name":"n","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":[13],"expected":"A91P1"},{"input":[36],"expected":"5101000"}]}

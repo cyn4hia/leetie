@@ -1,0 +1,1 @@
+{"fnName":"isRobotBounded","params":[{"name":"instructions","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["GGLLGG"],"expected":true},{"input":["GG"],"expected":false},{"input":["GL"],"expected":true}]}

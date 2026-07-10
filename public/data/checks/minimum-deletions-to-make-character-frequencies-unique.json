@@ -1,0 +1,1 @@
+{"fnName":"minDeletions","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["aab"],"expected":0},{"input":["aaabbbcc"],"expected":2},{"input":["ceabaacb"],"expected":2}]}

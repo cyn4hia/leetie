@@ -1,0 +1,1 @@
+{"fnName":"binaryGap","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[22],"expected":2},{"input":[8],"expected":0},{"input":[5],"expected":2}]}

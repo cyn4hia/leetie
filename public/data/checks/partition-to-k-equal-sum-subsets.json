@@ -1,0 +1,1 @@
+{"fnName":"canPartitionKSubsets","params":[{"name":"nums","type":"integer[]"},{"name":"k","type":"integer"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":[[4,3,2,3,5,2,1],4],"expected":true},{"input":[[1,2,3,4],3],"expected":false}]}

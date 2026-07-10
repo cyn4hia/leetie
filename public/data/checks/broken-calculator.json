@@ -1,0 +1,1 @@
+{"fnName":"brokenCalc","params":[{"name":"startValue","type":"integer"},{"name":"target","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[2,3],"expected":2},{"input":[5,8],"expected":2},{"input":[3,10],"expected":3}]}

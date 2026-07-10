@@ -1,0 +1,1 @@
+{"fnName":"findWords","params":[{"name":"board","type":"character[][]"},{"name":"words","type":"string[]"}],"returnType":"list<string>","outputParam":null,"compare":"exact","tests":[{"input":[[["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]],["oath","pea","eat","rain"]],"expected":["eat","oath"]},{"input":[[["a","b"],["c","d"]],["abcb"]],"expected":[]}]}

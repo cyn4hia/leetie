@@ -1,0 +1,1 @@
+{"fnName":"minimizeMax","params":[{"name":"nums","type":"integer[]"},{"name":"p","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[10,1,2,7,1,3],2],"expected":1},{"input":[[4,2,1,2],1],"expected":0}]}

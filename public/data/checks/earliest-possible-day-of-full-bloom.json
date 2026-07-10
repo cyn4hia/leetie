@@ -1,0 +1,1 @@
+{"fnName":"earliestFullBloom","params":[{"name":"plantTime","type":"integer[]"},{"name":"growTime","type":"integer[]"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[1,4,3],[2,3,1]],"expected":9},{"input":[[1,2,3,2],[2,1,2,1]],"expected":9},{"input":[[1],[1]],"expected":2}]}

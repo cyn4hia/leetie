@@ -1,0 +1,1 @@
+{"fnName":"beautifulSubstrings","params":[{"name":"s","type":"string"},{"name":"k","type":"integer"}],"returnType":"long","outputParam":null,"compare":"exact","tests":[{"input":["baeyh",2],"expected":2},{"input":["abba",1],"expected":3},{"input":["bcdf",1],"expected":0}]}

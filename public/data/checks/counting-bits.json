@@ -1,0 +1,1 @@
+{"fnName":"countBits","params":[{"name":"n","type":"integer"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[2],"expected":[0,1,1]},{"input":[5],"expected":[0,1,1,2,1,2]}]}

@@ -1,0 +1,1 @@
+{"fnName":"findClosestElements","params":[{"name":"arr","type":"integer[]"},{"name":"k","type":"integer"},{"name":"x","type":"integer"}],"returnType":"list<integer>","outputParam":null,"compare":"exact","tests":[{"input":[[1,2,3,4,5],4,3],"expected":[1,2,3,4]},{"input":[[1,1,2,3,4,5],4,-1],"expected":[1,1,2,3]}]}

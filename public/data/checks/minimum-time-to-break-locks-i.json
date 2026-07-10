@@ -1,0 +1,1 @@
+{"fnName":"findMinimumTime","params":[{"name":"strength","type":"list<integer>"},{"name":"k","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[3,4,1],1],"expected":4},{"input":[[2,5,4],2],"expected":5}]}

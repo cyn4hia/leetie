@@ -1,0 +1,1 @@
+{"fnName":"findLexSmallestString","params":[{"name":"s","type":"string"},{"name":"a","type":"integer"},{"name":"b","type":"integer"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["5525",9,2],"expected":"2050"},{"input":["74",5,1],"expected":"24"},{"input":["0011",4,2],"expected":"0011"}]}

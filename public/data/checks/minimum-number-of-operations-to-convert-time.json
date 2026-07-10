@@ -1,0 +1,1 @@
+{"fnName":"convertTime","params":[{"name":"current","type":"string"},{"name":"correct","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["02:30","04:35"],"expected":3},{"input":["11:00","11:01"],"expected":1}]}

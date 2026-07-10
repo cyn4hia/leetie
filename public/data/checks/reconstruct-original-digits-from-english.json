@@ -1,0 +1,1 @@
+{"fnName":"originalDigits","params":[{"name":"s","type":"string"}],"returnType":"string","outputParam":null,"compare":"exact","tests":[{"input":["owoztneoer"],"expected":"012"},{"input":["fviefuro"],"expected":"45"}]}

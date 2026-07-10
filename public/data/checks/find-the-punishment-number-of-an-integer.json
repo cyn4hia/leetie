@@ -1,0 +1,1 @@
+{"fnName":"punishmentNumber","params":[{"name":"n","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[10],"expected":182},{"input":[37],"expected":1478}]}

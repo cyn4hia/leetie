@@ -1,0 +1,1 @@
+{"fnName":"checkRecord","params":[{"name":"s","type":"string"}],"returnType":"boolean","outputParam":null,"compare":"exact","tests":[{"input":["PPALLP"],"expected":true},{"input":["PPALLL"],"expected":false}]}

@@ -1,0 +1,1 @@
+{"fnName":"subarrayMajority","params":[{"name":"nums","type":"integer[]"},{"name":"queries","type":"integer[][]"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":[[1,1,2,2,1,1],[[0,5,4],[0,3,3],[2,3,2]]],"expected":[1,-1,2]},{"input":[[3,2,3,2,3,2,3],[[0,6,4],[1,5,2],[2,4,1],[3,3,1]]],"expected":[3,2,3,2]}]}

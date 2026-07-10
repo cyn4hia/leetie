@@ -1,0 +1,1 @@
+{"fnName":"maximumSaleItems","params":[{"name":"items","type":"integer[][]"},{"name":"budget","type":"integer"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":[[[1,6],[2,4],[3,5]],19],"expected":5},{"input":[[[2,8],[1,10],[6,6],[4,12],[5,20],[5,17]],35],"expected":7}]}

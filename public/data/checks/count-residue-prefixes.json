@@ -1,0 +1,1 @@
+{"fnName":"residuePrefixes","params":[{"name":"s","type":"string"}],"returnType":"integer","outputParam":null,"compare":"exact","tests":[{"input":["abc"],"expected":2},{"input":["dd"],"expected":1},{"input":["bob"],"expected":2}]}

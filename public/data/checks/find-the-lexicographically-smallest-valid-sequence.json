@@ -1,0 +1,1 @@
+{"fnName":"validSequence","params":[{"name":"word1","type":"string"},{"name":"word2","type":"string"}],"returnType":"integer[]","outputParam":null,"compare":"exact","tests":[{"input":["vbcca","abc"],"expected":[0,1,2]},{"input":["bacdc","abc"],"expected":[1,2,4]},{"input":["aaaaaa","aaabc"],"expected":[]},{"input":["abc","ab"],"expected":[0,1]}]}
